@@ -1,2 +1,7 @@
 format: jb-book
 root: index
+chapters:
+  - file: setup
+  - file: schedule
+  - file: map
+  - file: activities
