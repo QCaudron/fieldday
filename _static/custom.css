@@ -1,0 +1,11 @@
+html .tabbed-set > label {
+  border-bottom: 0.125rem solid transparent;
+  color: gray;
+  cursor: pointer;
+  font-size: var(--tabs-size-label);
+  font-weight: 700;
+  padding: 1em 1.25em 0.5em;
+  transition: color 250ms;
+  width: auto;
+  z-index: 1;
+}
