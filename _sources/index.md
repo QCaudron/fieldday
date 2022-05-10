@@ -1,6 +1,6 @@
 # Field Day 2022
 
-As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2022 ! Please join [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 25th and 26th**.
+As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2022! Please join [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 25th and 26th**.
 
 ## What is Field Day ?
 
@@ -8,7 +8,7 @@ As in previous years, three Seattle-area amateur radio clubs are joining forces 
 
 ## Who ?
 
-All are welcome ! Amateur radio operators, as well as those without their radio licenses, are welcome to join in any of our activities. Get on the air on our voice, digital, or CW stations; build some antennas; or just join us for a meal and to talk radio.
+All are welcome! Amateur radio operators, as well as those without their radio licenses, are welcome to join in any of our activities. Get on the air on our voice, digital, or CW stations; build some antennas; or just join us for a meal and to talk radio.
 
 If you're new to Field Day or amateur radio, take a look at our [guide for new operators](./new_ops) for a little more about what to expect.
 
@@ -24,4 +24,4 @@ We'll also be running a number of [activities and educational talks](./schedule)
 
 ## Let us know
 
-Whether you'd just attending, or would like to help out, we'd love to know what you're looking for. Please [fill out this very short survey](https://docs.google.com/forms/d/e/1FAIpQLSfEryvQJh8ALbX9AqE9-uXQiCOKJ9_C5kabrBPTYQ0zk262Vg/viewform?usp=sf_link) so we can estimate numbers and interest !
+Whether you'd just attending, or would like to help out, we'd love to know what you're looking for. Please [fill out this very short survey](https://docs.google.com/forms/d/e/1FAIpQLSfEryvQJh8ALbX9AqE9-uXQiCOKJ9_C5kabrBPTYQ0zk262Vg/viewform?usp=sf_link) so we can estimate numbers and interest!
