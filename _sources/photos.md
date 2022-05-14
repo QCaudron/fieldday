@@ -1,7 +1,7 @@
 # Photos
 
 ````{panels}
-:column: col-4 align-self-center
+:column: col-3 align-self-center
 
 
 ```{image} https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/19429611_10154471992667676_4836376589185779133_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=a83260&_nc_ohc=FHCy30vF3DgAX8O-fOE&_nc_ht=scontent-sea1-1.xx&oh=00_AT8wVphTsFeAjgevX3H7IaKMIdmdzpJKq9DnD8p8SYj1uA&oe=62A66EE3
@@ -15,7 +15,7 @@ The welcome station.
 ---
 
 
-```{image}https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/19511133_10154471992657676_3568597489093469404_n.jpg?_nc_cat=105&ccb=1-6&_nc_sid=a83260&_nc_ohc=GD1LWZb4n6sAX9S_aN9&_nc_oc=AQlBp1qQFw4DL1JL8Yf_e3WXrumGCwQ7xcxK0Jw5LWunkGA0w9K_bfHTnYBI0W7ISQc&_nc_ht=scontent-sea1-1.xx&oh=00_AT9lA3LM1RNJY32pn1lGDJvJIhFPDx1xt15-U-BAubiqzw&oe=62A62CD1
+```{image} https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/19511133_10154471992657676_3568597489093469404_n.jpg?_nc_cat=105&ccb=1-6&_nc_sid=a83260&_nc_ohc=GD1LWZb4n6sAX9S_aN9&_nc_oc=AQlBp1qQFw4DL1JL8Yf_e3WXrumGCwQ7xcxK0Jw5LWunkGA0w9K_bfHTnYBI0W7ISQc&_nc_ht=scontent-sea1-1.xx&oh=00_AT9lA3LM1RNJY32pn1lGDJvJIhFPDx1xt15-U-BAubiqzw&oe=62A62CD1
 :alt: The antenna farm !
 :class: bg-primary mb-1
 :width: 600px
@@ -34,6 +34,17 @@ The antenna farm !
 ```
 +++
 The digital station, and some CW keys.
+---
+
+
+```{image} https://scontent-sea1-1.xx.fbcdn.net/v/t31.18172-8/13490688_10208086531794850_4995341775632548569_o.jpg?_nc_cat=103&ccb=1-6&_nc_sid=a83260&_nc_ohc=erdqc3kpPnIAX9U5lbo&tn=8ifAZq7381UX79Uw&_nc_ht=scontent-sea1-1.xx&oh=00_AT-HZGzyWy5oUSk5mgiJF52_S8t5jEo-9tCYGWYrlE6XhA&oe=62A4118E
+:alt: A view of the field.
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
++++
+A view of the field.
 ---
 
 
