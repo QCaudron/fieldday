@@ -2,6 +2,35 @@
 
 As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2022! Please join [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 25th and 26th**.
 
+
+
+
+````{panels}
+:container: q-neg-margin
+:column: col-3 align-self-center mx-auto
+:card: p-0 m-0 border-0 text-center
+:header: text-center
+:footer: bg-white text-center
+
+[![PSRG](assets/images/psrg_logo.png)](https://web.psrg.org/)
++++
+[PSRG](https://web.psrg.org/)
+
+---
+
+[![WSARC](assets/images/wsarc_logo.jpg)](https://w7aw.org/)
++++
+[WSARC](https://w7aw.org/)
+
+---
+
+[![SeattleACS](assets/images/seattleacs_logo.png)](https://www.seattleacs.org/)
++++
+[SeattleACS](https://www.seattleacs.org/)
+
+
+````
+
 ## What is Field Day ?
 
 [ARRL Field Day](https://www.arrl.org/field-day) is possibly the largest amateur radio event in the United States. Each year, tens of thousands of operators set up stations in fields and remote locations, mimicking an emergency situation where no mains power is available, and stations (including their antennas) are temporary setups. Field Day is a 24-hour marathon contest where clubs gather and operators take turns operating these stations, racking up as many contacts as possible. Finally, it's a wonderful learning event, with plenty of opportunities to try new modes or bands, and to get acquainted with many aspects of amateur radio, whether you're an old hand or don't yet have a license.
