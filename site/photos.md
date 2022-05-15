@@ -26,17 +26,6 @@ The antenna farm !
 ---
 
 
-```{image} https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/19424351_10154471992947676_5383928423979024443_n.jpg?_nc_cat=106&ccb=1-6&_nc_sid=a83260&_nc_ohc=ArOqO-3-G10AX9ga45A&_nc_ht=scontent-sea1-1.xx&oh=00_AT-iH-fHvVfHIwG7ZQ7vxIWRMetwQo2zSzfNUtCdf2WKMg&oe=62A638C6
-:alt: The GOTA station, and some CW keys.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-The digital station, and some CW keys.
----
-
-
 ```{image} https://scontent-sea1-1.xx.fbcdn.net/v/t31.18172-8/13490688_10208086531794850_4995341775632548569_o.jpg?_nc_cat=103&ccb=1-6&_nc_sid=a83260&_nc_ohc=erdqc3kpPnIAX9U5lbo&tn=8ifAZq7381UX79Uw&_nc_ht=scontent-sea1-1.xx&oh=00_AT-HZGzyWy5oUSk5mgiJF52_S8t5jEo-9tCYGWYrlE6XhA&oe=62A4118E
 :alt: A view of the field.
 :class: bg-primary mb-1
@@ -48,6 +37,28 @@ A view of the field.
 ---
 
 
+```{image} https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/19424351_10154471992947676_5383928423979024443_n.jpg?_nc_cat=106&ccb=1-6&_nc_sid=a83260&_nc_ohc=ArOqO-3-G10AX9ga45A&_nc_ht=scontent-sea1-1.xx&oh=00_AT-iH-fHvVfHIwG7ZQ7vxIWRMetwQo2zSzfNUtCdf2WKMg&oe=62A638C6
+:alt: The GOTA station, and some CW keys.
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
++++
+The digital station, and some CW keys.
+---
+
+
+```{image} https://i.imgur.com/Gq193Ts.jpg
+:alt: Building a tape-measure Yagi.
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
++++
+Building a tape-measure Yagi.
+---
+
+
 ```{image} https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/19247737_10154471994092676_6467481800609124220_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=a83260&_nc_ohc=keCzLVxHyuYAX8Ql9Dl&_nc_ht=scontent-sea1-1.xx&oh=00_AT-tfltbB4y2duuxc7n4RvXvr78V1G7nNmEROzYjrcrKMw&oe=62A5680E
 :alt: Putting up a mast for a dipole.
 :class: bg-primary mb-1
@@ -56,6 +67,17 @@ A view of the field.
 ```
 +++
 Putting up a mast for a dipole.
+---
+
+
+```{image} https://i.imgur.com/Mh6zGcI.jpg
+:alt: Lunch time.
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
++++
+Lunch time.
 ---
 
 
@@ -81,6 +103,17 @@ Flying a drone by the Solar Rover.
 ---
 
 
+```{image} https://i.imgur.com/t4rnfjf.jpg
+:alt: Can't beat cake...
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
++++
+Can't beat cake...
+---
+
+
 ```{image} https://scontent-sea1-1.xx.fbcdn.net/v/t31.18172-8/13558672_10208086531114833_189433149813790969_o.jpg?_nc_cat=106&ccb=1-6&_nc_sid=a83260&_nc_ohc=hw52AEtMNr8AX8AFMN3&_nc_ht=scontent-sea1-1.xx&oh=00_AT8B8xWI83w3NV4GqE3omESSqc94o1n7SrBD-B3EVKeq-g&oe=62A4AEF4
 :alt: Building a dual-band Yagi.
 :class: bg-primary mb-1
@@ -89,6 +122,17 @@ Flying a drone by the Solar Rover.
 ```
 +++
 Building a dual-band Yagi.
+---
+
+
+```{image} https://i.imgur.com/7AGNx99.jpg
+:alt: Preparing lunch !
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
++++
+Preparing lunch !
 ---
 
 
@@ -111,7 +155,17 @@ Setting up some Yagis.
 ```
 +++
 Jacob making a contact.
+---
 
+
+```{image} https://i.imgur.com/O82zIz2.jpg
+:alt: Breaking for lunch.
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
++++
+Breaking for lunch.
 ````
 
 
