@@ -7,7 +7,6 @@ All times are local (Pacific time).
 | ----: | :------------------------------------------------------------------------------------------ |
 | 17:00 | Setup begins. Tents go up, antennas are deployed, power is established via the Solar Rover. |
 | 19:00 | Dinner ! Chef Todd might be cooking.                                                        |
-
 ```
 
 ```{tabbed} Saturday, June 25th

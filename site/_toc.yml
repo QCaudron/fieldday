@@ -1,9 +1,9 @@
 format: jb-book
 root: index
 chapters:
-  - file: setup
-  - file: schedule
+  - file: in_detail
   - file: location
-  - file: new_ops
-  - file: contact
+  - file: schedule
+  - file: setup
   - file: photos
+  - file: contact
