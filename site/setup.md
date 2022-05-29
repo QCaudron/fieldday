@@ -20,3 +20,4 @@ Generally, all of our stations will be run by two people -- one person making th
 ## Local, on-site communications
 
 Use 146.550 MHz FM simplex for local comms.
+Boop
