@@ -4,4 +4,4 @@ This repo is behind the [Seattle-Area Field Day](http://quentincaudron.com/field
 
 ## Contributing
 
-If you'd like to make changes to the website, please open a pull request. On a feature branch, edit the `.md` files in the `/site/` directory with your changes. Once approved and merged, the website will be redeployed with your changes.
+If you'd like to make changes to the website, please [see the contributing guide](./CONTRIBUTING.md).
