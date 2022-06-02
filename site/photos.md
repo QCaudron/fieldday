@@ -1,5 +1,7 @@
 # Photos
 
+A few photos from previous Field Days, also at South Seattle College.
+
 ````{panels}
 :column: col-4 align-self-center
 
@@ -167,9 +169,3 @@ Jacob making a contact.
 +++
 Breaking for lunch.
 ````
-
-
-
-
-
-
