@@ -25,4 +25,8 @@ We expect to be running a **class 2A** Field Day setup : two transceivers runnin
 
 ## Local, on-site communications
 
+<<<<<<< HEAD
+Use 146.460 MHz FM simplex for local comms.
+=======
 Use 146.470 MHz FM simplex for local comms.
+>>>>>>> 4b5be5c14b5d0a95eb8b4fa48ea1774c3cd19e30
