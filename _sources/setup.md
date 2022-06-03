@@ -15,7 +15,6 @@ We expect to be running a **class 2A** Field Day setup : two transceivers runnin
 - **Phone on VHF / UHF** : We hope to have a station running single-sideband phone transmissions.
 - **CW and Digital** : A station dedicated to making exchanges in Morse code, and to digital modes such as FT8 or PSK31.
 
-
 ## Antennas
 
 - **Hexbeam** : A directional antenna for 10m, 15m, and 20m.
@@ -26,4 +25,4 @@ We expect to be running a **class 2A** Field Day setup : two transceivers runnin
 
 ## Local, on-site communications
 
-Use 146.550 MHz FM simplex for local comms.
+Use 146.470 MHz FM simplex for local comms.
