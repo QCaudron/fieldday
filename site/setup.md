@@ -23,6 +23,6 @@ We expect to be running a **class 2A** Field Day setup : two transceivers runnin
 - **VHF** : Squalo antennas for 6m and 2m horizontally-polarized signals, and a vertical for 2m vertically-polarized signals.
 - **UHF** : An 8-element Yagi for the 70cm band.
 
-## Local, on-site communications
+## On-site communications
 
-Use 146.460 MHz FM simplex for local comms.
+We'll use 146.460 MHz FM simplex for local comms. Bring an HT and join in the local chat.
