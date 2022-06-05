@@ -4,7 +4,7 @@
 We are still finalizing a few details; information on this website is subject to change!
 ```
 
-As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2022! Please join thr [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 25th and 26th**.
+As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2022! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 25th and 26th**.
 
 ````{panels}
 :container: q-neg-margin
