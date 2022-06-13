@@ -13,7 +13,7 @@ All talks and tables will be held at the Event and Demo Area, underneath the cov
 
 ## Saturday, June 25th
 
-We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities.
+We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities. We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](location.md).
 
 |           |                                                                                      |
 | --------: | :----------------------------------------------------------------------------------- |
@@ -33,8 +33,6 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | **19:30** | The {term}`raffle` ! Door prizes galore.                                      |
 | **20:00** | *Making {term}`contacts over satellite<Satellite QSO>`*, a workshop by Quentin K7DRQ.        |
 | **21:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                      |
-
-**The fun continues on Saturday night.** We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](location.md).
 
 
 ## Sunday, June 26th
