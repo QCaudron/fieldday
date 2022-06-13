@@ -23,9 +23,10 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | **13:00** | *Amateur radio for emergency communications*, a talk by Catherine KJ7DYG.             |
 | **14:00** | *Community engagement and emcomm*, a talk by Tim WT1IM.                               |
 | **14:30** | *Solar power and batteries*, a discussion led by Brian KG7WRK.                        |
-| **15:00** | *Becoming a ham and the journey as a new ham*, a talk by Schevonne KJ7USZ.        |
+| **15:00** | *Becoming a ham and the journey as a new ham*, a talk by Schevonne KJ7USZ.            |
 | **16:00** | *Family communications in event of a disaster*, a talk by Catherine KJ7DYG.           |
 | **17:00** | *{term}`Fox hunting`*, an activity led by Erik W7FCL and the Boy Scouts.              |
+| **17:30** | *Summits on the Air*, a talk by Tim KG7EJT.                                           |
 | **18:00** | *Intro to Morse code*, a workshop by Quentin K7DRQ.                                   |
 | **18:30** | *HamWAN -- high speed data connectivity over radio*, a talk by Carl N7KUW.            |
 | **19:00** | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                   |
