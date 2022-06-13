@@ -8,89 +8,78 @@ We are working on scheduling a number of activities and talks; watch this space 
 With COVID cases on the rise, we'll be asking folk to mask up inside the tents when we're in close proximity to one another.
 ```
 
-<!-- ```{tabbed} Friday, June 24th
-|  When | What                                                                                        |
-| ----: | :------------------------------------------------------------------------------------------ |
-| Early afternoon | Setup begins. Tents go up, some of our antennas are deployed, power is established via the a system of batteries. |
-| Evening | After some testing of our radios, it's |
-``` -->
+All talks and tables will be held at the Event and Demo Area, underneath the covered walkway at the end of the parking lot.
+
 
 ## Saturday, June 25th
 
-|           |                                                                                    |
-| --------: | :--------------------------------------------------------------------------------- |
-| **07:30** | [Breakfast](refs:meals).                                                           |
-| **08:00** | Final setup and preparations.                                                      |
-| **09:00** | [The Nine O'clock Net](refs:psrg_nets) with Theresa KG7AII and Dana KG7CGP.        |
-| **11:00** | The Field Day contest begins. Stations take to the airwaves.                       |
-| **12:00** | [The Noon Net](refs:psrg_nets) with Jason KJ7GLB.                                  |
-| **12:30** | [Lunch !](refs:meals) Jack KI7RMU and Quentin K7DRQ are at the grill.              |
-| **13:00** | Amateur Radio for Emergency Communications, a talk by Catherine KJ7DYG.            |
-| **14:00** | Community Engagement and EmComm, a talk by Tim WT1IM.                              |
-| **14:30** | Solar power and batteries, a discussion led by Brian KG7WRK.                       |
-| **15:00** | Becoming a ham and the journey as a new ham, a discussion led by Schevonne KJ7USZ. |
-| **16:00** | Family communications in event of a disaster, a talk by Catherine KJ7DYG.          |
-| **17:00** | Building a tape-measure Yagi, a workshop by [???](refs:question)                   |
-| **17:30** | Fox Hunting, an activity led by [???](refs:question)                               |
-| **18:00** | Intro to Morse Code, a workshop by Quentin K7DRQ.                                  |
-| **19:00** | [Dinner.](refs:meals) Chef Mei KI7TZA is cooking !                                 |
-| **19:30** | [The raffle !](refs:raffle) Door prizes galore.                                    |
-| **20:00** | Making Contacts over Satellite, a workshop by Quentin K7DRQ.                       |
-| **21:00** | [The Nine O'Clock Net](refs:psrg_nets) with Schevonne KJ7USZ.                      |
-| **22:00** | The fun continues. We operate all night, making as many contacts as possible.      |
+We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities. We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](location.md).
+
+|           |                                                                                      |
+| --------: | :----------------------------------------------------------------------------------- |
+| **07:30** | {term}`Breakfast<Meals>` for those who stayed the night.                              |
+| **09:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP.          |                      |
+| **12:00** | {term}`The Noon Net<PSRG Nets>`. with Jason KJ7GLB.                                   |
+| **12:30** | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.             |
+| **13:00** | *Amateur radio for emergency communications*, a talk by Catherine KJ7DYG.            |
+| **14:00** | *Community engagement and emcomm*, a talk by Tim WT1IM.                              |
+| **14:30** | *Solar power and batteries*, a discussion led by Brian KG7WRK.                       |
+| **15:00** | *Becoming a ham and the journey as a new ham*, a talk by Schevonne KJ7USZ. |
+| **16:00** | *Family communications in event of a disaster*, a talk by Catherine KJ7DYG.          |
+| **17:00** | *{term}`Fox hunting`*, an activity led by Erik W7FCL and the Boy Scouts.     |
+| **18:00** | *Intro to Morse code*, a workshop by Quentin K7DRQ.                                  |
+| **18:30** | *HamWAN -- high speed data connectivity over radio*, a talk by Carl N7KUW. |
+| **19:00** | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                      |
+| **19:30** | The {term}`raffle` ! Door prizes galore.                                      |
+| **20:00** | *Making {term}`contacts over satellite<Satellite QSO>`*, a workshop by Quentin K7DRQ.        |
+| **21:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                      |
 
 
 ## Sunday, June 26th
 
 |           |                                                                            |
 | --------: | :------------------------------------------------------------------------- |
-| **08:00** | [Breakfast](refs:meals).                                                   |
-| **09:00** | [The Nine O'clock Net](refs:psrg_nets) with Jack KI7RMU and Quentin K7DRQ. |
+| **08:00** | {term}`Breakfast<Meals>`.                                                   |
+| **09:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Jack KI7RMU and Quentin K7DRQ. |
 | **11:00** | The contest is over. Stations power down and packing up begins.            |
 | **14:00** | Thanks for coming! Field Day is a wrap.                                    |
 
 
 ## Stalls and tables
 
-These tables will be under the covered walkway on the southern side of the parking lot. 
-
-- The [**PSRG**](https://web.psrg.org/), the [**WSARC**](https://w7aw.org/), and [**SeattleACS**](https://www.seattleacs.org/) will have stalls open with club information and folk to take your questions.
+- The [PSRG](https://web.psrg.org/), the [WSARC](https://w7aw.org/), and [SeattleACS](https://www.seattleacs.org/) will have tables open with club information and folk to take your questions. Drop on by and learn about the ham community in your area.
 - **Bill, N6NBN** will be discussing and demonstrating [Winlink](https://www.winlink.org/). Learn how to send emails over the radio. Bill will have his demo set up between 10:00 and 14:00 on Saturday.
-- **Cindi Barker** of [Seattle Emergency Hubs](http://seattleemergencyhubs.org/) will be discussing community preparedness and response in the face of major disasters.
-<!-- - **Jack KI7RMU**, Net Manager for the PSRG, will be  -->
+- **Cindi KD7KSH** of [Seattle Emergency Hubs](http://seattleemergencyhubs.org/) will be discussing community preparedness and response in the face of major disasters, and how Seattle Emergency Hubs can help you prepare and stay safe.
+- A **check-in, info, and security table** will be available to answer your questions and provide any help you need.
 
 
+(refs:details)=
 ## More Details
 
-(refs:psrg_nets)=
-### Puget Sound Repeater Group Nets
+```{glossary}
+Meals
+  Big thanks to our volunteer chefs ! Please [let us know](contact.md) if you have any dietary restrictions.
+  - **Saturday morning**, doughnuts and coffee for those who stayed the night.
+  - **Lunchtime on Saturday**, burgers and hot dog; vegetarian options available.
+  - **Dinner on Saturday** prepared by chef Mei KI7TZA. Menu coming soon.
+  - **Sunday morning's breakfast** is doughnuts and coffee.
 
-The PSRG runs three social nets per day, every day of the year. For Field Day, all of our social nets will be running on emergency power on-site. We will have a station set up nearby which Field Day attendees can check into the nets. Come on by and watch our net hosts at work.
+PSRG Nets
+  The PSRG runs three social nets per day, every day of the year. For Field Day, all of our social nets will be running on emergency power on-site. We will have a station set up nearby which Field Day attendees can check into the nets. Come on by and watch our net hosts at work.
+  - Saturday morning's Nine O'Clock Net with Theresa KG7AII and Dana KG7CGP
+  - The Noon Net on Saturday with Jason KJ7GLB
+  - The Nine O'Clock Net on Saturday evening with Schevonne KJ7USZ
+  - Sunday morning's Nine O'Clock Net with Jack KI7RMU and Quentin K7DRQ
 
-- Saturday morning's Nine O'Clock Net with Theresa KG7AII and Dana KG7CGP
-- The Noon Net on Saturday with Jason KJ7GLB
-- The Nine O'Clock Net on Saturday evening with Schevonne KJ7USZ
-- Sunday morning's Nine O'Clock Net with Jack KI7RMU and Quentin K7DRQ
+Satellite QSO
+  We'll be attempting to make a contact via an amateur radio repeater onboard a low-Earth orbit satellite. It's just a little early to pin down satellite pass times, so watch this space for the "birds" that will make suitable overhead passes in the next few days.
 
-(refs:meals)=
-### Meals
+Fox hunting
+  In amateur radio, a [*fox hunt*](https://en.wikipedia.org/wiki/Transmitter_hunting) is an activity involving finding hidden transmitters using direction-finding techniques and directional antennas. We will have a few hidden transmitters in the area and will attempt to find them using an HT and the tape-measure Yagi we built just before.
 
-Big thanks to our volunteer chefs ! Please [let us know](contact.md) if you have any dietary restrictions.
-
-- **Saturday early morning**, we will have breakfast and coffee for those who stayed the night after setting up the site.
-- At **lunchtime on Saturday**, we are preparing burgers and hot dogs for all; vegetarian options will be provided.
-- **Dinner on Saturday** is prepared by chef Mei KI7TZA and friends. Menu coming soon, but prepare for an awesome meal.
-- **Sunday morning's breakfast** is doughnuts and coffee.
-
-(refs:raffle)=
-### The Raffle
-
-Jack KI7RMU will be running a raffle, with lots of ham goodies you can win as door prizes. More details to come.
-
-(refs:question)=
-### Unknown activity leaders
-
-We are still looking for speakers and people to lead our activities ! If this sounds interesting to you, please [reach out](contact.md) as soon as possible.
+Raffle
+  Jack KI7RMU will be running a raffle, with lots of ham goodies you can win as door prizes. More details to come.
+```
 
 ```{important}
 We are working on scheduling a number of activities and talks; watch this space for more details. **The current schedule very likely to change quite a bit in the coming weeks.**
