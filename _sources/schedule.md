@@ -10,30 +10,29 @@ With COVID cases on the rise, we'll be asking folk to mask up inside the tents w
 
 All talks and tables will be held at the Event and Demo Area, underneath the covered walkway at the end of the parking lot.
 
-
 ## Saturday, June 25th
 
 We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities. We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](location.md).
 
-|           |                                                                                      |
-| --------: | :----------------------------------------------------------------------------------- |
+|           |                                                                                       |
+| --------: | :------------------------------------------------------------------------------------ |
 | **07:30** | {term}`Breakfast<Meals>` for those who stayed the night.                              |
-| **09:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP.          |                      |
+| **09:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP.          |
 | **12:00** | {term}`The Noon Net<PSRG Nets>`. with Jason KJ7GLB.                                   |
-| **12:30** | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.             |
-| **13:00** | *Amateur radio for emergency communications*, a talk by Catherine KJ7DYG.            |
-| **14:00** | *Community engagement and emcomm*, a talk by Tim WT1IM.                              |
-| **14:30** | *Solar power and batteries*, a discussion led by Brian KG7WRK.                       |
-| **15:00** | *Becoming a ham and the journey as a new ham*, a talk by Schevonne KJ7USZ. |
-| **16:00** | *Family communications in event of a disaster*, a talk by Catherine KJ7DYG.          |
-| **17:00** | *{term}`Fox hunting`*, an activity led by Erik W7FCL and the Boy Scouts.     |
-| **18:00** | *Intro to Morse code*, a workshop by Quentin K7DRQ.                                  |
-| **18:30** | *HamWAN -- high speed data connectivity over radio*, a talk by Carl N7KUW. |
-| **19:00** | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                      |
-| **19:30** | The {term}`raffle` ! Door prizes galore.                                      |
-| **20:00** | *Making {term}`contacts over satellite<Satellite QSO>`*, a workshop by Quentin K7DRQ.        |
-| **21:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                      |
-
+| **12:30** | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.                 |
+| **13:00** | *Amateur radio for emergency communications*, a talk by Catherine KJ7DYG.             |
+| **14:00** | *Community engagement and emcomm*, a talk by Tim WT1IM.                               |
+| **14:30** | *Solar power and batteries*, a discussion led by Brian KG7WRK.                        |
+| **15:00** | *Becoming a ham and the journey as a new ham*, a talk by Schevonne KJ7USZ.            |
+| **16:00** | *Family communications in event of a disaster*, a talk by Catherine KJ7DYG.           |
+| **17:00** | *{term}`Fox hunting`*, an activity led by Erik W7FCL and the Boy Scouts.              |
+| **17:30** | *Summits on the Air*, a talk by Tim KG7EJT.                                           |
+| **18:00** | *Intro to Morse code*, a workshop by Quentin K7DRQ.                                   |
+| **18:30** | *HamWAN -- high speed data connectivity over radio*, a talk by Carl N7KUW.            |
+| **19:00** | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                   |
+| **19:30** | The {term}`raffle` ! Door prizes galore.                                              |
+| **20:00** | *Making {term}`contacts over satellite<Satellite QSO>`*, a workshop by Quentin K7DRQ. |
+| **21:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                        |
 
 ## Sunday, June 26th
 
@@ -44,7 +43,6 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | **11:00** | The contest is over. Stations power down and packing up begins.            |
 | **14:00** | Thanks for coming! Field Day is a wrap.                                    |
 
-
 ## Stalls and tables
 
 - The [PSRG](https://web.psrg.org/), the [WSARC](https://w7aw.org/), and [SeattleACS](https://www.seattleacs.org/) will have tables open with club information and folk to take your questions. Drop on by and learn about the ham community in your area.
@@ -52,8 +50,6 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 - **Cindi KD7KSH** of [Seattle Emergency Hubs](http://seattleemergencyhubs.org/) will be discussing community preparedness and response in the face of major disasters, and how Seattle Emergency Hubs can help you prepare and stay safe.
 - A **check-in, info, and security table** will be available to answer your questions and provide any help you need.
 
-
-(refs:details)=
 ## More Details
 
 ```{glossary}

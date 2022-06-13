@@ -33,7 +33,7 @@ As in previous years, three Seattle-area amateur radio clubs are joining forces 
 
 ## What is Field Day ?
 
-[ARRL Field Day](https://www.arrl.org/field-day) is the largest amateur radio event in the United States. Each year, tens of thousands of operators set up stations in fields and remote locations, mimicking an emergency situation where no mains power is available, and stations (including their antennas) are temporary setups. Field Day is a 24-hour marathon where clubs gather and operators take turns operating these stations, racking up as many contacts as possible. Finally, it's a wonderful learning event, with plenty of opportunities to try new modes or bands, and to get acquainted with many aspects of amateur radio, whether you're an old hand or don't yet have a license. 
+[ARRL Field Day](https://www.arrl.org/field-day) is the largest amateur radio event in the United States. Each year, tens of thousands of operators set up stations in fields and remote locations, mimicking an emergency situation where no mains power is available, and stations (including their antennas) are temporary setups. Field Day is a 24-hour marathon where clubs gather and operators take turns operating these stations, racking up as many contacts as possible. Finally, it's a wonderful learning event, with plenty of opportunities to try new modes or bands, and to get acquainted with many aspects of amateur radio, whether you're an old hand or don't yet have a license.
 
 ```{note}
 For more information about what Field Day is like, check out our [Field Day in Detail](./in_detail) page.
