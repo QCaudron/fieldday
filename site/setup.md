@@ -25,4 +25,4 @@ We expect to be running a **class 2A** Field Day setup : two transceivers runnin
 
 ## On-site communications
 
-We'll use 146.460 MHz FM simplex for local comms. Bring an HT and join in the local chat.
+We'll use **146.460 MHz FM simplex** for local comms. Bring an HT and join in the local chat.
