@@ -23,7 +23,7 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | **12:30** | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.                                                                       |
 | **13:30** | _{term}`An introduction to Seattle Auxiliary Communications Service<Emergency communications>`_, a talk by director Tim WT1IM.              |
 | **14:30** | _Solar power and batteries_, a discussion led by Doug KD7DK.                                                                                |
-| **15:00** | _Becoming a ham and the journey as a new ham_, a talk by Schevonne KJ7USZ.                                                                  |
+| **15:00** | _{term}`Becoming a ham and the journey as a new ham<First steps in amateur radio>`_, a talk by Schevonne KJ7USZ.                            |
 | **16:00** | _{term}`Amateur radio for underrepresented groups<Emergency communications>`_, a talk by Catherine KJ7DYG **held at the SeattleACS table**. |
 | **17:00** | _{term}`Fox hunting`_, an activity led by Erik W7FCL and the Boy Scouts.                                                                    |
 | **17:30** | _{term}`Summits on the Air`_, a talk by Tim KG7EJT.                                                                                         |
@@ -90,6 +90,9 @@ Winlink
 
 HamWAN
   The Pacific Northwest radio and emergency communications scenes benefit from [HamWAN](http://hamwan.org/), a high-speed data network providing internet access, real-time video, repeater linking, and more, to areas without more traditional internet access. This microwave network is a valuable resource for amateur radio enthusiasts.
+
+First steps in amateur radio
+  Whether you're ham-radio-curious or have taken your first steps in getting licensed, the world of amateur radio is huge and it can be confusing to know what to do first, where to go, and how to get on your feet. Schevonne KJ7USZ first got into ham radio to add another alternative "comms" plan to her wide array of survival tools, for her family, and to survive any manmade or natural disaster. Once she got licensed, she learned about the incredible social side of ham radio, and all the infinite and wonderful rabbit holes one can go down. In this talk, she plans to discuss her journey as new ham radio operator, and all the sub sections of ham radio one can enjoy.
 
 Fox hunting
   In amateur radio, a [*fox hunt*](https://en.wikipedia.org/wiki/Transmitter_hunting) is an activity involving finding hidden transmitters using direction-finding techniques and directional antennas. We will have a few hidden transmitters in the area and will attempt to find them using an HT and the tape-measure Yagi we built just before.
