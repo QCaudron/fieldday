@@ -12,6 +12,12 @@ All talks and tables will be held at the Event and Demo Area, underneath the cov
 
 We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities. We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](location.md).
 
+## Tuesday, June 21st
+
+|           |                                                                                                                                     |
+| --------: | :---------------------------------------------------------------------------------------------------------------------------------- |
+| **18:30** | Field Day 101, with Quentin K7DRQ. This is for those who aren't quite sure what to expect or who have questions that need answering ! **(held [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09))** |
+
 ## Saturday, June 25th
 
 |           |                                                                                                              |
