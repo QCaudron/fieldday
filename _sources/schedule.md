@@ -14,42 +14,42 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 
 ## Tuesday, June 21st
 
-|           |                                                                                                                                     |
-| --------: | :---------------------------------------------------------------------------------------------------------------------------------- |
-| **18:30** | Field Day 101, with Quentin K7DRQ. This is for those who aren't quite sure what to expect or who have questions that need answering ! **(held [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09))** |
+|       |                                                                                                                                                                                                                                                   |
+| ----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 18:30 | **Talk** : Field Day 101, with Quentin K7DRQ. This is for those who aren't quite sure what to expect or who have questions that need answering ! **(held [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09))** |
 
 ## Saturday, June 25th
 
-|           |                                                                                                              |
-| --------: | :----------------------------------------------------------------------------------------------------------- |
-| **07:30** | {term}`Breakfast<Meals>` for those who stayed the night.                                                     |
-| **09:00** | {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Theresa KG7AII and Dana KG7CGP.                       |
-| **10:00** | {term}`Getting started with Winlink<Winlink>` with Bill N6NBN. Drop in any time from 10:00 to 14:00.         |
-| **11:00** | Operating begins !                                                                                           |
-| **12:00** | {term}`The Noon Net<PSRG Nets>` with net host Jason KJ7GLB.                                                  |
-| **12:30** | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.                                        |
-| **13:00** | {term}`An introduction to Seattle Auxiliary Communications Service<Seattle ACS>` with director Tim WT1IM.    |
-| **14:00** | {term}`Becoming a ham and the journey as a new ham<First steps in amateur radio>`, with Schevonne KJ7USZ.    |
-| **15:00** | {term}`Amateur radio for underrepresented groups`, with Catherine KJ7DYG **(held at the SeattleACS table)**. |
-| **16:00** | Solar power and batteries, with Doug KD7DK.                                                                  |
-| **16:30** | {term}`Fox hunting` with Erik W7FCL and the Boy Scouts.                                                      |
-| **17:00** | {term}`Summits on the Air` with Tim KG7EJT.                                                                  |
-| **17:30** | {term}`Intro to Morse code<Morse code>` with Quentin K7DRQ.                                                  |
-| **18:00** | {term}`Making a family communications plan` with Catherine KJ7DYG.                                           |
-| **18:30** | {term}`HamWAN` -- high speed data connectivity over radio, with Carl N7KUW.                                  |
-| **19:00** | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                                          |
-| **19:30** | {term}`The raffle<Raffle>` ! Door prizes galore.                                                             |
-| **20:00** | {term}`Making contacts over satellite<Satellite QSO>` with Quentin K7DRQ.                                    |
-| **21:00** | {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                                               |
+|       |                                                                                                                         |
+| ----: | :---------------------------------------------------------------------------------------------------------------------- |
+| 07:30 | {term}`Breakfast<Meals>` for those who stayed the night.                                                                |
+| 09:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Theresa KG7AII and Dana KG7CGP.                        |
+| 10:00 | **Activity** : {term}`Getting started with Winlink<Winlink>` with Bill N6NBN. Drop in any time from 10:00 to 14:00.     |
+| 11:00 | Operating begins !                                                                                                      |
+| 12:00 | **Talk** : {term}`Summits on the Air` with Tim KG7EJT.                                                                  |
+| 12:00 | **Net** : {term}`The Noon Net<PSRG Nets>` with net host Jason KJ7GLB.                                                   |
+| 12:30 | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.                                                   |
+| 13:00 | **Talk** : {term}`An introduction to Seattle Auxiliary Communications Service<Seattle ACS>` with director Tim WT1IM.    |
+| 14:00 | **Talk** : {term}`Becoming a ham and the journey as a new ham<First steps in amateur radio>`, with Schevonne KJ7USZ.    |
+| 15:00 | **Talk** : {term}`Amateur radio for underrepresented groups`, with Catherine KJ7DYG **(held at the SeattleACS table)**. |
+| 16:00 | **Talk** : Solar power and batteries, with Doug KD7DK.                                                                  |
+| 16:30 | **Activity** : {term}`Fox hunting` with Erik W7FCL and the Boy Scouts.                                                  |
+| 17:30 | **Activity** : {term}`Intro to Morse code<Morse code>` with Quentin K7DRQ.                                              |
+| 18:00 | **Talk** : {term}`Making a family communications plan` with Catherine KJ7DYG.                                           |
+| 18:30 | **Talk** : {term}`HamWAN` -- high speed data connectivity over radio, with Carl N7KUW.                                  |
+| 19:00 | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                                                     |
+| 19:30 | {term}`The raffle<Raffle>` ! Door prizes galore.                                                                        |
+| 20:00 | **Activity** : {term}`Making contacts over satellite<Satellite QSO>` with Quentin K7DRQ.                                |
+| 21:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                                                |
 
 ## Sunday, June 26th
 
-|           |                                                                                       |
-| --------: | :------------------------------------------------------------------------------------ |
-| **08:00** | {term}`Breakfast<Meals>`.                                                             |
-| **09:00** | {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Jack KI7RMU and Quentin K7DRQ. |
-| **11:00** | The contest is over. Stations power down and packing up begins.                       |
-| **14:00** | Thanks for coming! Field Day is a wrap.                                               |
+|       |                                                                                                 |
+| ----: | :---------------------------------------------------------------------------------------------- |
+| 08:00 | {term}`Breakfast<Meals>`.                                                                       |
+| 09:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Jack KI7RMU and Quentin K7DRQ. |
+| 11:00 | The contest is over. Stations power down and packing up begins.                                 |
+| 14:00 | Thanks for coming! Field Day is a wrap.                                                         |
 
 ## Stalls and tables
 
