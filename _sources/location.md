@@ -15,3 +15,9 @@ You are welcome to bring an RV or camper and to stay overnight, in order to oper
 ## Amenities
 
 We will have a hand-washing station and ADA-compliant portapotties, as well as potable water. Meals will be provided for Saturday lunch and dinner, as well as breakfast on Sunday. If you have dietary requirements, please [let us know](./contact) as soon as possible.
+
+Please ensure you bring anything you may need -- sunscreen (we hope...), snacks and drinks, a folding chair...
+
+## On-site communications
+
+We'll use **146.460 MHz FM simplex** for local comms. Bring an HT and join in the local chat.
