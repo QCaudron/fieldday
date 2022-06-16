@@ -1,14 +1,10 @@
 # Schedule and Activities
 
-```{important}
-We are working on scheduling a number of activities and talks; watch this space for more details. **The current schedule very likely to change quite a bit in the coming weeks.**
-```
-
 ```{note}
 With COVID cases on the rise, we'll be asking folk to mask up inside the tents when we're in close proximity to one another.
 ```
 
-All talks and tables will be held at the Event and Demo Area, underneath the covered walkway at the end of the parking lot, unless otherwise specified.
+**All talks and tables will be held at the Event and Demo Area, underneath the covered walkway at the end of the parking lot, unless otherwise specified.**
 
 We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities. We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](location.md).
 
@@ -16,7 +12,7 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 
 |       |                                                                                                                                                                                                                                                   |
 | ----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 18:30 | **Talk** : Field Day 101, with Quentin K7DRQ. This is for those who aren't quite sure what to expect or who have questions that need answering ! **(held [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09))** |
+| 18:30 | **Talk** : {term}`Field Day 101`, with Quentin K7DRQ. **(held [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09))** |
 
 ## Saturday, June 25th
 
@@ -24,22 +20,26 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | ----: | :---------------------------------------------------------------------------------------------------------------------- |
 | 07:30 | {term}`Breakfast<Meals>` for those who stayed the night.                                                                |
 | 09:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Theresa KG7AII and Dana KG7CGP.                        |
-| 10:00 | **Activity** : {term}`Getting started with Winlink<Winlink>` with Bill N6NBN. Drop in any time from 10:00 to 14:00.     |
+| 09:00 | **Activity** : {term}`The swap meet<Swap meet>` ! Runs from 09:00 to 11:00. **(held in the car park)**                  |
+| 10:00 | **Talk** : {term}`What is amateur radio ?` with Brian KG7WRK.                                                           |
+| 10:00 | **Activity** : {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 14:00. **(held at the Hubs table)**    |
+| 10:30 | **Activity** : The {term}`fox hunt<Fox hunting>` with Eric W7FCL and the Boy Scouts.                                                  |
 | 11:00 | Operating begins !                                                                                                      |
-| 12:00 | **Talk** : {term}`Summits on the Air` with Tim KG7EJT.                                                                  |
+| 11:00 | **Talk** : {term}`Making a family communications plan` with Catherine KJ7DYG.                                           |
+| 11:30 | **Talk** : {term}`Summits on the Air` with Tim KG7EJT.                                                                  |
 | 12:00 | **Net** : {term}`The Noon Net<PSRG Nets>` with net host Jason KJ7GLB.                                                   |
 | 12:30 | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.                                                   |
-| 13:00 | **Talk** : {term}`An introduction to Seattle Auxiliary Communications Service<Seattle ACS>` with director Tim WT1IM.    |
-| 14:00 | **Talk** : {term}`Becoming a ham and the journey as a new ham<First steps in amateur radio>`, with Schevonne KJ7USZ.    |
-| 15:00 | **Talk** : {term}`Amateur radio for underrepresented groups`, with Catherine KJ7DYG **(held at the SeattleACS table)**. |
-| 16:00 | **Talk** : Solar power and batteries, with Doug KD7DK.                                                                  |
-| 16:30 | **Activity** : {term}`Fox hunting` with Erik W7FCL and the Boy Scouts.                                                  |
-| 17:30 | **Activity** : {term}`Intro to Morse code<Morse code>` with Quentin K7DRQ.                                              |
-| 18:00 | **Talk** : {term}`Making a family communications plan` with Catherine KJ7DYG.                                           |
-| 18:30 | **Talk** : {term}`HamWAN` -- high speed data connectivity over radio, with Carl N7KUW.                                  |
-| 19:00 | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                                                     |
+| 13:00 | **Talk** : {term}`An introduction to Seattle Auxiliary Communications Service` with director Tim WT1IM.    |
+| 13:30 | **Talk** : {term}`A field perspective on the medical kit` with John KI7IYP.                                                           |
+| 14:00 | **Talk** : {term}`Becoming a ham and your journey as a new ham<First steps in amateur radio>`, with Schevonne KJ7USZ.    |
+| 14:30 | **Talk** : {term}`Solar power and batteries`, with Doug KD7DK.                                                          |
+| 15:00 | **Talk** : {term}`Amateur radio for underrepresented groups`, with Catherine KJ7DYG. **(held at the SeattleACS table)** |
+| 15:30 | **Talk** : {term}`What is amateur radio ?` with Brian KG7WRK.                                                           |
+| 16:00 | **Activity** : {term}`Intro to Morse code` with Quentin K7DRQ.                                              |
+| 16:30 | **Talk** : {term}`HamWAN` -- high speed data connectivity over radio, with Carl N7KUW.                                  |
+| 18:30 | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                                                     |
 | 19:30 | {term}`The raffle<Raffle>` ! Door prizes galore.                                                                        |
-| 20:00 | **Activity** : {term}`Making contacts over satellite<Satellite QSO>` with Quentin K7DRQ.                                |
+| 20:00 | **Activity** : {term}`Making contacts over satellite` with Quentin K7DRQ.                                |
 | 21:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                                                |
 
 ## Sunday, June 26th
@@ -61,6 +61,9 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 ## More Details
 
 ```{glossary}
+Field Day 101
+   This is for those who aren't quite sure what to expect or who have questions that need answering. Join us [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09) the Tuesday before Field Day -- we'll have a short talk and some photos from previous Field Days.
+   
 Meals
   Big thanks to our volunteer chefs ! Please [let us know](contact.md) if you have any dietary restrictions.
   - **Saturday morning**, doughnuts and coffee for those who stayed the night.
@@ -77,29 +80,41 @@ PSRG Nets
 
   All amateur operators and their third-party traffic welcome.
 
-Winlink
+Swap meet
+  Bring your ham radio toys and goodies.
+  
+What is amateur radio ?
+  Amateur radio is "a thousand hobbies in one." This talk will give you an introduction to the world of ham radio, from licensing, local talk on repeaters, to working the world on HF.
+
+Getting started with Winlink
   [Winlink](https://winlink.org/) is essentially email over radio. A network of gateways allow the distribution of emails using radio pathways where internet is unavailable. Join Bill N6NBN at the Seattle Emergency Hubs table for a demonstration of how to use Winlink, any time from 10:00 to 14:00 on Saturday.
-
-Seattle ACS
-  Emergency communications and resilience is a central theme of Field Day, and amateur radio can play a key role in helping to maintain the safety of the community. Although many groups and individuals are active members of the area's em-comm scene, the [Seattle ACS](https://www.seattleacs.org/) provides emergency communications services to the community and works officially with the city. The Director of Seattle ACS, Tim WT1IM, will be giving an overview of the service in the normal activity area at 13:30 on Saturday. He'll discuss how the organization works, and how the City of Seattle can leverage amateur radio volunteers to help with emergency response.
-
-Amateur radio for underrepresented groups
-  Seattle ACS has a firm commitment to inclusivity for our membership and participation in amateur radio activities. A gathering to promote amateur radio to underrepresented groups - especially women will be held **at the Seattle ACS booth** at 15:00 on Saturday. All are welcome, but we particularly want to encourage Lady-Hams and women curious about amateur radio, emergency communications and public service to attend.
-
-First steps in amateur radio
-  Whether you're ham-radio-curious or have taken your first steps in getting licensed, the world of amateur radio is huge and it can be confusing to know what to do first, where to go, and how to get on your feet. Schevonne KJ7USZ first got into ham radio to add another alternative "comms" plan to her wide array of survival tools, for her family, and to survive any manmade or natural disaster. Once she got licensed, she learned about the incredible social side of ham radio, and all the infinite and wonderful rabbit holes one can go down. In this talk, she plans to discuss her journey as new ham radio operator, and all the subsections of ham radio one can enjoy.
 
 Fox hunting
   In amateur radio, a [*fox hunt*](https://en.wikipedia.org/wiki/Transmitter_hunting) is an activity involving finding hidden transmitters using direction-finding techniques and directional antennas. We will have a few hidden transmitters in the area and will attempt to find them using an HT and the tape-measure Yagi we built just before.
 
+Making a family communications plan
+  How will your family connect with each other after a major disaster? Everyone should know the plan and be ready to execute it -- even school-aged children. Catherine KJ7DYG will give a short presentation on how to build a plan that works for your family, including options for radios. This will be followed by a facilitated discussion where participants can share advice and sources of further information.
+
 Summits on the Air
   [SOTA](https://www.sota.org.uk/) is a program and awards scheme for radio amateurs who enjoy operating in remote places. The idea is to "activate" a peak or summit (designated by the SOTA program) by making a sufficient number of contacts after hiking to the top. Peaks are worth a variable number of points according to their difficulty, and can be found in nearly a hundred countries. SOTA involves using highly portable radio gear, and making the most of low-power operation while staying safe in nature.
 
-Morse Code
-  The original mode for [wireless telegraphy](https://en.wikipedia.org/wiki/Wireless_telegraphy) in the first days of amateur radio, [Morse code](https://en.wikipedia.org/wiki/Morse_code) is a way to encode messages into a series of dots, dashes, and spaces. As used today, "[CW](https://en.wikipedia.org/wiki/Continuous_wave)" is still growing in popularity and is an effective mode to get the most out of your power.
+An introduction to Seattle Auxiliary Communications Service
+  Emergency communications and resilience is a central theme of Field Day, and amateur radio can play a key role in helping to maintain the safety of the community. Although many groups and individuals are active members of the area's em-comm scene, the [Seattle ACS](https://www.seattleacs.org/) provides emergency communications services to the community and works officially with the city. The Director of Seattle ACS, Tim WT1IM, will be giving an overview of the service in the normal activity area at 13:30 on Saturday. He'll discuss how the organization works, and how the City of Seattle can leverage amateur radio volunteers to help with emergency response.
 
-Making a family communications plan
-  How will your family connect with each other after a major disaster? Everyone should know the plan and be ready to execute it -- even school-aged children. Catherine KJ7DYG will give a short presentation on how to build a plan that works for your family, including options for radios. This will be followed by a facilitated discussion where participants can share advice and sources of further information.
+A field perspective on the medical kit
+  This will be an overview of various approaches to medical kits from a field perspective. We will have a brief survey of the logic and illogic of medical kits, what you want, what you need, why you should almost never buy a pre-made kit. The session will be interactive and folks are welcome to bring their own kits for a post lecture "lab". 
+
+First steps in amateur radio
+  Whether you're ham-radio-curious or have taken your first steps in getting licensed, the world of amateur radio is huge and it can be confusing to know what to do first, where to go, and how to get on your feet. Schevonne KJ7USZ first got into ham radio to add another alternative "comms" plan to her wide array of survival tools, for her family, and to survive any manmade or natural disaster. Once she got licensed, she learned about the incredible social side of ham radio, and all the infinite and wonderful rabbit holes one can go down. In this talk, she plans to discuss her journey as new ham radio operator, and all the subsections of ham radio one can enjoy.
+
+Solar power and batteries
+  Abstract to come.
+
+Amateur radio for underrepresented groups
+  Seattle ACS has a firm commitment to inclusivity for our membership and participation in amateur radio activities. A gathering to promote amateur radio to underrepresented groups - especially women will be held **at the Seattle ACS booth** at 15:00 on Saturday. All are welcome, but we particularly want to encourage Lady-Hams and women curious about amateur radio, emergency communications and public service to attend.
+
+Intro to Morse code
+  The original mode for [wireless telegraphy](https://en.wikipedia.org/wiki/Wireless_telegraphy) in the first days of amateur radio, [Morse code](https://en.wikipedia.org/wiki/Morse_code) is a way to encode messages into a series of dots, dashes, and spaces. As used today, "[CW](https://en.wikipedia.org/wiki/Continuous_wave)" is still growing in popularity and is an effective mode to get the most out of your power. We'll introduce it and give you some hand-on-the-key experience sending some code.
 
 HamWAN
   The Pacific Northwest radio and emergency communications scenes benefit from [HamWAN](http://hamwan.org/), a high-speed data network providing internet access, real-time video, repeater linking, and more, to areas without more traditional internet access. This microwave network is a valuable resource for amateur radio enthusiasts.
@@ -107,7 +122,7 @@ HamWAN
 Raffle
   Jack KI7RMU will be running a raffle, with lots of ham goodies you can win as door prizes. More details to come.
 
-Satellite QSO
+Making contacts over satellite
   We'll be attempting to make a contact via an amateur radio repeater onboard a low-Earth orbit satellite. It's just a little early to pin down satellite pass times, so watch this space for the "birds" that will make suitable overhead passes in the next few days.
 ```
 
