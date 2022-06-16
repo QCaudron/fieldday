@@ -10,37 +10,37 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 
 ## Tuesday, June 21st
 
-|       |                                                                                                                                                                                                                                                   |
-| ----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|       |                                                                                                                                                        |
+| ----: | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 18:30 | **Talk** : {term}`Field Day 101`, with Quentin K7DRQ. **(held [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09))** |
 
 ## Saturday, June 25th
 
-|       |                                                                                                                         |
-| ----: | :---------------------------------------------------------------------------------------------------------------------- |
-| 07:30 | {term}`Breakfast<Meals>` for those who stayed the night.                                                                |
-| 09:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Theresa KG7AII and Dana KG7CGP.                        |
-| 09:00 | **Activity** : {term}`The swap meet<Swap meet>` ! Runs from 09:00 to 11:00. **(held in the car park)**                  |
-| 10:00 | **Talk** : {term}`What is amateur radio ?` with Brian KG7WRK.                                                           |
-| 10:00 | **Activity** : {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 14:00. **(held at the Hubs table)**    |
-| 10:30 | **Activity** : The {term}`fox hunt<Fox hunting>` with Eric W7FCL and the Boy Scouts.                                                  |
-| 11:00 | Operating begins !                                                                                                      |
-| 11:00 | **Talk** : {term}`Making a family communications plan` with Catherine KJ7DYG.                                           |
-| 11:30 | **Talk** : {term}`Summits on the Air` with Tim KG7EJT.                                                                  |
-| 12:00 | **Net** : {term}`The Noon Net<PSRG Nets>` with net host Jason KJ7GLB.                                                   |
-| 12:30 | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.                                                   |
-| 13:00 | **Talk** : {term}`An introduction to Seattle Auxiliary Communications Service` with director Tim WT1IM.    |
-| 13:30 | **Talk** : {term}`A field perspective on the medical kit` with John KI7IYP.                                                           |
-| 14:00 | **Talk** : {term}`Becoming a ham and your journey as a new ham<First steps in amateur radio>`, with Schevonne KJ7USZ.    |
-| 14:30 | **Talk** : {term}`Solar power and batteries`, with Doug KD7DK.                                                          |
-| 15:00 | **Talk** : {term}`Amateur radio for underrepresented groups`, with Catherine KJ7DYG. **(held at the SeattleACS table)** |
-| 15:30 | **Talk** : {term}`What is amateur radio ?` with Brian KG7WRK.                                                           |
-| 16:00 | **Activity** : {term}`Intro to Morse code` with Quentin K7DRQ.                                              |
-| 16:30 | **Talk** : {term}`HamWAN` -- high speed data connectivity over radio, with Carl N7KUW.                                  |
-| 18:30 | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                                                     |
-| 19:30 | {term}`The raffle<Raffle>` ! Door prizes galore.                                                                        |
-| 20:00 | **Activity** : {term}`Making contacts over satellite` with Quentin K7DRQ.                                |
-| 21:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                                                |
+|       |                                                                                                                                         |
+| ----: | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| 07:30 | {term}`Breakfast<Meals>` for those who stayed the night.                                                                                |
+| 09:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Theresa KG7AII and Dana KG7CGP.                                        |
+| 09:00 | **Activity** : {term}`The swap meet<Swap meet>` ! Runs from 09:00 to 11:00. **(held in the car park)**                                  |
+| 10:00 | **Talk** : {term}`What is amateur radio ?` With Brian KG7WRK.                                                                           |
+| 10:00 | **Activity** : {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 14:00. **(held at the Hubs table)** |
+| 10:30 | **Activity** : The {term}`fox hunt<Fox hunting>` with Eric W7FCL and the Boy Scouts.                                                    |
+| 11:00 | Operating begins !                                                                                                                      |
+| 11:00 | **Talk** : {term}`Making a family communications plan` with Catherine KJ7DYG.                                                           |
+| 11:30 | **Talk** : {term}`Summits on the Air` with Tim KG7EJT.                                                                                  |
+| 12:00 | **Net** : {term}`The Noon Net<PSRG Nets>` with net host Jason KJ7GLB.                                                                   |
+| 12:30 | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.                                                                   |
+| 13:00 | **Talk** : {term}`An introduction to Seattle Auxiliary Communications Service` with director Tim WT1IM.                                 |
+| 13:30 | **Talk** : {term}`A field perspective on the medical kit` with John KI7IYP.                                                             |
+| 14:00 | **Talk** : {term}`Becoming a ham and your journey as a new ham<First steps in amateur radio>`, with Schevonne KJ7USZ.                   |
+| 14:30 | **Talk** : {term}`Solar power and batteries`, with Doug KD7DK.                                                                          |
+| 15:00 | **Talk** : {term}`Amateur radio for underrepresented groups`, with Catherine KJ7DYG. **(held at the SeattleACS table)**                 |
+| 15:30 | **Talk** : {term}`What is amateur radio ?` With Brian KG7WRK.                                                                           |
+| 16:00 | **Activity** : {term}`Intro to Morse code` with Quentin K7DRQ.                                                                          |
+| 16:30 | **Talk** : {term}`HamWAN` -- high speed data connectivity over radio, with Carl N7KUW.                                                  |
+| 18:30 | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                                                                     |
+| 19:30 | {term}`The raffle<Raffle>` ! Door prizes galore.                                                                                        |
+| 20:00 | **Activity** : {term}`Making contacts over satellite` with Quentin K7DRQ.                                                               |
+| 21:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                                                                |
 
 ## Sunday, June 26th
 
@@ -104,7 +104,7 @@ An introduction to Seattle Auxiliary Communications Service
 A field perspective on the medical kit
   This will be an overview of various approaches to medical kits from a field perspective. We will have a brief survey of the logic and illogic of medical kits, what you want, what you need, why you should almost never buy a pre-made kit. The session will be interactive and folks are welcome to bring their own kits for a post lecture "lab". 
 
-First steps in amateur radio
+Becoming a ham and your journey as a new ham
   Whether you're ham-radio-curious or have taken your first steps in getting licensed, the world of amateur radio is huge and it can be confusing to know what to do first, where to go, and how to get on your feet. Schevonne KJ7USZ first got into ham radio to add another alternative "comms" plan to her wide array of survival tools, for her family, and to survive any manmade or natural disaster. Once she got licensed, she learned about the incredible social side of ham radio, and all the infinite and wonderful rabbit holes one can go down. In this talk, she plans to discuss her journey as new ham radio operator, and all the subsections of ham radio one can enjoy.
 
 Solar power and batteries
