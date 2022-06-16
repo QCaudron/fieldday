@@ -21,9 +21,9 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | 07:30 | {term}`Breakfast<Meals>` for those who stayed the night.                                                                                |
 | 09:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Theresa KG7AII and Dana KG7CGP.                                        |
 | 09:00 | **Activity** : {term}`The swap meet<Swap meet>` ! Runs from 09:00 to 11:00. **(held in the car park)**                                  |
-| 10:00 | **Talk** : {term}`What is amateur radio ?` With Brian KG7WRK.                                                                           |
 | 10:00 | **Activity** : {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 14:00. **(held at the Hubs table)** |
-| 10:30 | **Activity** : The {term}`fox hunt<Fox hunting>` with Eric W7FCL and the Boy Scouts.                                                    |
+| 10:00 | **Activity** : The {term}`Field stations and fox hunting` with Eric W7FCL, Ryan NN7M, and the Boy Scouts.                               |
+| 10:30 | **Talk** : {term}`What is amateur radio ?` With Brian KG7WRK.                                                                           |
 | 11:00 | Operating begins !                                                                                                                      |
 | 11:00 | **Talk** : {term}`Making a family communications plan` with Catherine KJ7DYG.                                                           |
 | 11:30 | **Talk** : {term}`Summits on the Air` with Tim KG7EJT.                                                                                  |
@@ -31,7 +31,7 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | 12:30 | {term}`Lunch<Meals>`. Jack KI7RMU and Quentin K7DRQ are at the grill.                                                                   |
 | 13:00 | **Talk** : {term}`An introduction to Seattle Auxiliary Communications Service` with director Tim WT1IM.                                 |
 | 13:30 | **Talk** : {term}`A field perspective on the medical kit` with John KI7IYP.                                                             |
-| 14:00 | **Talk** : {term}`Becoming a ham and your journey as a new ham<First steps in amateur radio>`, with Schevonne KJ7USZ.                   |
+| 14:00 | **Talk** : {term}`Becoming a ham and your journey as a new ham`, with Schevonne KJ7USZ.                                                 |
 | 14:30 | **Talk** : {term}`Solar power and batteries`, with Doug KD7DK.                                                                          |
 | 15:00 | **Talk** : {term}`Amateur radio for underrepresented groups`, with Catherine KJ7DYG. **(held at the SeattleACS table)**                 |
 | 15:30 | **Talk** : {term}`What is amateur radio ?` With Brian KG7WRK.                                                                           |
@@ -63,7 +63,7 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 ```{glossary}
 Field Day 101
    This is for those who aren't quite sure what to expect or who have questions that need answering. Join us [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09) the Tuesday before Field Day -- we'll have a short talk and some photos from previous Field Days.
-   
+
 Meals
   Big thanks to our volunteer chefs ! Please [let us know](contact.md) if you have any dietary restrictions.
   - **Saturday morning**, doughnuts and coffee for those who stayed the night.
@@ -82,15 +82,15 @@ PSRG Nets
 
 Swap meet
   Bring your ham radio toys and goodies.
-  
-What is amateur radio ?
-  Amateur radio is "a thousand hobbies in one." This talk will give you an introduction to the world of ham radio, from licensing, local talk on repeaters, to working the world on HF.
 
 Getting started with Winlink
   [Winlink](https://winlink.org/) is essentially email over radio. A network of gateways allow the distribution of emails using radio pathways where internet is unavailable. Join Bill N6NBN at the Seattle Emergency Hubs table for a demonstration of how to use Winlink, any time from 10:00 to 14:00 on Saturday.
 
-Fox hunting
-  In amateur radio, a [*fox hunt*](https://en.wikipedia.org/wiki/Transmitter_hunting) is an activity involving finding hidden transmitters using direction-finding techniques and directional antennas. We will have a few hidden transmitters in the area and will attempt to find them using an HT and the tape-measure Yagi we built just before.
+Field stations and fox hunting
+  Ryan Weber, NN7M, and Eric Linxweiler, W7FCL, have been bringing radios to scouting adventures for years. They've helped over forty scouts earn the radio merit badge and now have about ten who have their licenses. At this Field Day, they will, along with scouts and teens, set up a field HF station, make contacts separate from the main Field Day stations, do some [*fox hunting*](https://en.wikipedia.org/wiki/Transmitter_hunting), and generally find ways to have fun with radios with curiosity and fun being the focus.
+
+What is amateur radio ?
+  Amateur radio is "a thousand hobbies in one." This talk will give you an introduction to the world of ham radio, from licensing, local talk on repeaters, to working the world on HF.
 
 Making a family communications plan
   How will your family connect with each other after a major disaster? Everyone should know the plan and be ready to execute it -- even school-aged children. Catherine KJ7DYG will give a short presentation on how to build a plan that works for your family, including options for radios. This will be followed by a facilitated discussion where participants can share advice and sources of further information.
@@ -102,7 +102,7 @@ An introduction to Seattle Auxiliary Communications Service
   Emergency communications and resilience is a central theme of Field Day, and amateur radio can play a key role in helping to maintain the safety of the community. Although many groups and individuals are active members of the area's em-comm scene, the [Seattle ACS](https://www.seattleacs.org/) provides emergency communications services to the community and works officially with the city. The Director of Seattle ACS, Tim WT1IM, will be giving an overview of the service in the normal activity area at 13:30 on Saturday. He'll discuss how the organization works, and how the City of Seattle can leverage amateur radio volunteers to help with emergency response.
 
 A field perspective on the medical kit
-  This will be an overview of various approaches to medical kits from a field perspective. We will have a brief survey of the logic and illogic of medical kits, what you want, what you need, why you should almost never buy a pre-made kit. The session will be interactive and folks are welcome to bring their own kits for a post lecture "lab". 
+  This will be an overview of various approaches to medical kits from a field perspective. We will have a brief survey of the logic and illogic of medical kits, what you want, what you need, why you should almost never buy a pre-made kit. The session will be interactive and folks are welcome to bring their own kits for a post lecture "lab".
 
 Becoming a ham and your journey as a new ham
   Whether you're ham-radio-curious or have taken your first steps in getting licensed, the world of amateur radio is huge and it can be confusing to know what to do first, where to go, and how to get on your feet. Schevonne KJ7USZ first got into ham radio to add another alternative "comms" plan to her wide array of survival tools, for her family, and to survive any manmade or natural disaster. Once she got licensed, she learned about the incredible social side of ham radio, and all the infinite and wonderful rabbit holes one can go down. In this talk, she plans to discuss her journey as new ham radio operator, and all the subsections of ham radio one can enjoy.
