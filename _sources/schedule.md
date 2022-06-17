@@ -37,6 +37,7 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | 15:30 | **Talk** : {term}`What is amateur radio ?` With Brian KG7WRK.                                                                           |
 | 16:00 | **Activity** : {term}`Intro to Morse code` with Quentin K7DRQ.                                                                          |
 | 16:30 | **Talk** : {term}`HamWAN` -- high speed data connectivity over radio, with Carl N7KUW.                                                  |
+| 17:00 | **Talk** : {term}`SSTV` with Kirk AG7YM.                                                                                                |
 | 18:30 | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                                                                     |
 | 19:30 | {term}`The raffle<Raffle>` ! Door prizes galore.                                                                                        |
 | 20:00 | **Activity** : {term}`Making contacts over satellite` with Quentin K7DRQ.                                                               |
@@ -118,6 +119,9 @@ Intro to Morse code
 
 HamWAN
   The Pacific Northwest radio and emergency communications scenes benefit from [HamWAN](http://hamwan.org/), a high-speed data network providing internet access, real-time video, repeater linking, and more, to areas without more traditional internet access. This microwave network is a valuable resource for amateur radio enthusiasts.
+
+SSTV
+  Slow Scan TV, everything for the arm chair enthusiast. A bit of history, the protocol, best practice, and how to get on the air.
 
 Raffle
   Jack KI7RMU will be running a raffle, with lots of ham goodies you can win as door prizes. More details to come.
