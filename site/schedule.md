@@ -40,13 +40,13 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | 17:00 | **Talk** : {term}`SSTV` with Kirk AG7YM.                                                                                                |
 | 18:30 | {term}`Dinner<Meals>`. Chef Mei KI7TZA is cooking !                                                                                     |
 | 19:30 | {term}`The raffle<Raffle>` ! Door prizes galore.                                                                                        |
-| 20:00 | **Activity** : {term}`Making contacts over satellite` with Quentin K7DRQ.                                                               |
 | 21:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with Schevonne KJ7USZ.                                                                |
 
 ## Sunday, June 26th
 
 |       |                                                                                                 |
 | ----: | :---------------------------------------------------------------------------------------------- |
+| 07:30 | **Activity** : {term}`Making contacts over satellite` with Quentin K7DRQ.                       |
 | 08:00 | {term}`Breakfast<Meals>`.                                                                       |
 | 09:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Jack KI7RMU and Quentin K7DRQ. |
 | 11:00 | The contest is over. Stations power down and packing up begins.                                 |
@@ -127,7 +127,7 @@ Raffle
   Jack KI7RMU will be running a raffle, with lots of ham goodies you can win as door prizes. More details to come.
 
 Making contacts over satellite
-  We'll be attempting to make a contact via an amateur radio repeater onboard a low-Earth orbit satellite. It's just a little early to pin down satellite pass times, so watch this space for the "birds" that will make suitable overhead passes in the next few days.
+  We'll be attempting to make a contact via an amateur radio repeater onboard a low-Earth orbit satellite. [All radio satellite passes between Friday and Sunday are listed here](satellite), for a handful of "birds".
 ```
 
 ```{important}

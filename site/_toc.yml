@@ -4,6 +4,8 @@ chapters:
   - file: in_detail
   - file: location
   - file: schedule
+    sections:
+    - file: satellite
   - file: setup
   - file: photos
   - file: contact
