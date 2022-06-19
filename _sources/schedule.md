@@ -109,7 +109,7 @@ Becoming a ham and your journey as a new ham
   Whether you're ham-radio-curious or have taken your first steps in getting licensed, the world of amateur radio is huge and it can be confusing to know what to do first, where to go, and how to get on your feet. Schevonne KJ7USZ first got into ham radio to add another alternative "comms" plan to her wide array of survival tools, for her family, and to survive any manmade or natural disaster. Once she got licensed, she learned about the incredible social side of ham radio, and all the infinite and wonderful rabbit holes one can go down. In this talk, she plans to discuss her journey as new ham radio operator, and all the subsections of ham radio one can enjoy.
 
 Solar power and batteries
-  Abstract to come.
+  Solar power provides a great option for sustainable and survivable power for off-grid locations or where emergency power is required. We'll discuss the basic components of a solar off-grid power system, how to test solar panels, and demonstrate with a running system on site.
 
 Amateur radio for underrepresented groups
   Seattle ACS has a firm commitment to inclusivity for our membership and participation in amateur radio activities. A gathering to promote amateur radio to underrepresented groups - especially women will be held **at the Seattle ACS booth** at 15:00 on Saturday. All are welcome, but we particularly want to encourage Lady-Hams and women curious about amateur radio, emergency communications and public service to attend.
