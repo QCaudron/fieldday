@@ -29,4 +29,18 @@ We'll use **146.460 MHz FM simplex** for local comms. Bring an HT and join in th
 
 ## Bonus points
 
-More to come here.
+We're hoping to get bonus points for the following (based on [ARRL's Field Day Rules](http://www.arrl.org/field-day-rules)).
+
+- 7.3.1 100% emergency power (200 points; 100 points per transmitter)
+- 7.3.2 Media publicity (100 points)
+- 7.3.3 Public location (100 points)
+- 7.3.4 Public information table (100 points)
+- 7.3.7 Satellite QSO (100 points)
+- 7.3.8 Alternate power (100 points)
+- 7.3.9 W1AW bulletin (100 points)
+- 7.3.10 Educational activity bonus (100 points)
+- 7.3.13 GOTA station (up to 500 points)
+- 7.3.14 Submission to Field Day Locator (50 points)
+- 7.3.15 Youth participation (up to 100 points)
+- 7.3.16 Social media (100 points)
+- 7.3.17 Safety officer (100 points)
