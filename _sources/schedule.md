@@ -50,6 +50,7 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 | 08:00 | {term}`Breakfast<Meals>`.                                                                       |
 | 09:00 | **Net** : {term}`The Nine O'clock Net<PSRG Nets>` with net hosts Jack KI7RMU and Quentin K7DRQ. |
 | 11:00 | The contest is over. Stations power down and packing up begins.                                 |
+| 12:00 | **Net** : {term}`The Noon Net<PSRG Nets>` with net host Kami KJ7RAB.                            |
 | 14:00 | Thanks for coming! Field Day is a wrap.                                                         |
 
 ## Stalls and tables
