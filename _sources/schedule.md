@@ -66,6 +66,8 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 Field Day 101
    This is for those who aren't quite sure what to expect or who have questions that need answering. Join us [on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09) the Tuesday before Field Day -- we'll have a short talk and some photos from previous Field Days.
 
+   If you missed this talk, [you can still check out the slides](https://docs.google.com/presentation/d/1Dzdsy0Tq_FOUXkC_-sBqOg40U2EKBqda4NtUaA1gt70/edit?usp=sharing).
+
 Meals
   Big thanks to our volunteer chefs ! Please [let us know](contact.md) if you have any dietary restrictions.
   - **Saturday morning**, doughnuts and coffee for those who stayed the night.
