@@ -1,12 +1,5 @@
 # Field Day 2022
 
-```{important}
-Last minute : 
-- **Field Day 101, a presentation and Q&A led by Quentin, K7DRQ**
-- **Tuesday June 21st at 18:30**
-- **[on Zoom](https://us06web.zoom.us/j/89785015811?pwd=Y0dCSGltdVYwL2VaL2YxaDVTUWdEdz09)**
-```
-
 As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2022! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 25th and 26th**.
 
 ````{panels}
