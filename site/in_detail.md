@@ -8,7 +8,7 @@ Starting on Friday, we will take over a [field at South Seattle College](./locat
 
 ## The objective
 
- During official running hours from [11:00 on Saturday morning to 14:00 on Sunday](./schedule), we will make as many contacts as possible on several HF, VHF, and UHF bands, and using [SSB, CW, and digital modes](./setup). We score points for every recorded contact, so come help out and operate the stations! Don't worry if you're new to Field Day or radio in general, there will be plenty of people to help out and show you how to operate the stations and make contacts.
+ During official running hours from [11:00 on Saturday morning to 14:00 on Sunday](./schedule), we will make as many contacts as possible on several HF, VHF, and UHF bands, and using [SSB, CW, and digital modes](./setup). We score points for every recorded contact, so come help out and operate the stations! ([Rules](http://www.arrl.org/field-day-rules)) Don't worry if you're new to Field Day or radio in general, there will be plenty of people to help out and show you how to operate the stations and make contacts.
 
 ```{note}
 You can get the ARRL's take on Field Day [here](http://www.arrl.org/field-day).
