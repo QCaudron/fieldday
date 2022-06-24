@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 
 import pandas as pd
 import requests
@@ -74,6 +75,7 @@ if __name__ == "__main__":
 
     with open("site/satellite.md", "w") as f:
         f.write("# Satellite passes\n\n")
+        f.write(f"```{{note}}\nUpdated {datetime.now().isoformat()}.\n```\n\n")
         f.write((
             "Frequencies can be found on [Clint K6LCS's website]"
             "(https://www.work-sat.com/ewExternalFiles/WorkSat-12192021.pdf).\n\n"
