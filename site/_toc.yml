@@ -2,12 +2,15 @@ format: jb-book
 root: index
 chapters:
   - file: in_detail
-  - file: location
+    sections:
+    - file: detail/location
+    - file: detail/setup
   - file: schedule
     sections:
-    - file: satellite
+    - file: schedule_and_activities/bonus_points
+    - file: schedule_and_activities/satellite
   - file: signup
-  - file: setup
-  - file: photos
   - file: contact
-  - file: about
+    sections:
+      - file: social/photos
+      - file: social/organizers

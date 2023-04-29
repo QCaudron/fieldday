@@ -108,16 +108,12 @@ if __name__ == "__main__":
     df = pd.concat(passes).sort_values("AOS Time")
 
     # Write a markdown file with sat passes
-    with open("site/satellite.md", "w") as f:
-        f.write("# Satellite passes\n\n")
-        f.write(f"```{{note}}\nUpdated {datetime.now().isoformat()}.\n```\n\n")
-        f.write((
-            "Frequencies can be found on [Clint K6LCS's website]"
-            "(https://www.work-sat.com/ewExternalFiles/WorkSat-01062023.pdf).\n\n"
-        ))
-        f.write("- AO-91 only in sunlight\n")
-        f.write("- AO-27 active for ~4 minutes\n")
-        f.write("- PO-101 [on a schedule](https://twitter.com/Diwata2PH)\n\n")
-        f.write("## Passes\n\n")
-        f.write(df.to_markdown(index=False))
-        f.write("\n")
+    with open("site/_static/satellite_template.md", "r") as f:
+        template = (
+            f.read()
+            .replace("###passes###", df.to_markdown(index=False))
+            .replace("###updated###", datetime.now().isoformat())
+        )
+
+    with open("site/schedule_and_activities/satellite.md", "w") as f:
+        f.write(template)
