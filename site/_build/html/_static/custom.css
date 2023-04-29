@@ -38,3 +38,11 @@ html .tabbed-set>label {
 :root[data-color-mode="dark"] {}
 
 .book-color-mode-toggle {}
+
+.bd-sidebar-primary {
+  overflow: hidden;
+}
+
+.bd-sidebar {
+  overflow: hidden;
+}
