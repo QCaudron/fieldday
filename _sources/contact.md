@@ -1,4 +1,4 @@
-# Contact and Social Links
+# Contact and Social
 
 ```{admonition} Questions ?
 Reach out to Quentin, K7DRQ at [k7drq@psrg.org](mailto:k7drq@psrg.org) or on our Discord.

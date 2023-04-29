@@ -27,4 +27,4 @@ If you'd like to help out with the organization of the event, we'd love your hel
 
 ## Questions ?
 
-If you have any questions, please [get in touch](mailto:k7drq@psrg.org).
+If you have any questions, please <a href="mailto:k7drq@psrg.org">get in touch</a> with [K7DRQ](https://qrz.com/db/K7DRQ).
