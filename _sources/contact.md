@@ -8,7 +8,7 @@ Reach out to Quentin, K7DRQ at [k7drq@psrg.org](mailto:k7drq@psrg.org) or on our
 
 As we approach Field Day, we're getting busy chatting about the event.
 
-[The PSRG Discord server](https://discord.gg/zH7MM7qz) is a great place to ask questions, get help, and chat with other hams. Join us in the *Field Day* channels as we ramp up and get excited for meeting in-person at the Field Day site.
+[The PSRG Discord server](https://discord.gg/CdDmpybC72) is a great place to ask questions, get help, and chat with other hams. Join us in the *Field Day* channels as we ramp up and get excited for meeting in-person at the Field Day site.
 
 ## Twitter
 
