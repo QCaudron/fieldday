@@ -1,14 +1,14 @@
 # Contact and Social Links
 
 ```{admonition} Questions ?
-Reach out to Quentin, K7DRQ at [k7drq@psrg.org](mailto:k7drq@psrg.org) or on our Discord.
+Reach out to Quentin, K7DRQ at [k7drq@psrg.org](mailto:k7drq@psrg.org).
 ```
 
-## Join us on Discord
+## Join us on Slack
 
 As we approach Field Day, we're getting busy chatting about the event.
 
-[The PSRG Discord server](https://discord.gg/zH7MM7qz) is a great place to ask questions, get help, and chat with other hams. Join us in the *Field Day* channels as we ramp up and get excited for meeting in-person at the Field Day site.
+[Cascadia Radio](https://www.cascadiaradio.org/) is a local community of radio amateurs in the Pacific Northwest, with an active [Slack workspace](https://join.slack.com/t/cascadiaradio/shared_invite/zt-ngtl0eoj-UnKQW623jMiKdzTVHt1HaQ). Join us in the `#fieldday` channel as we ramp up and get excited for meeting in-person at the Field Day site.
 
 ## Twitter
 

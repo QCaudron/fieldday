@@ -6,7 +6,6 @@ chapters:
   - file: schedule
     sections:
     - file: satellite
-  - file: signup
   - file: setup
   - file: photos
   - file: contact

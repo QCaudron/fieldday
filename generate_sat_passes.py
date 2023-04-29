@@ -10,6 +10,8 @@ latitude = 47.549952
 longitude = -122.354088
 altitude = 93  # https://www.freemaptools.com/elevation-finder.htm
 min_elevation = 30
+start_date = "2023-06-23"
+end_date = "2023-06-26"
 
 # N2YO API details
 BASE_URL = "https://api.n2yo.com/rest/v1/satellite/radiopasses"
@@ -78,7 +80,7 @@ def get_satellite_passes(satellite: str, api_key: str) -> pd.DataFrame:
         )
 
     # Keep only Field Day passes
-    df = df.loc[(df["startUTC"] > "2022-06-24") & (df["endUTC"] < "2022-06-27")]
+    df = df.loc[(df["startUTC"] > start_date) & (df["endUTC"] < end_date)]
 
     # Format the datetimes to a clean string
     for col in ["startUTC", "maxUTC", "endUTC"]:
@@ -111,7 +113,7 @@ if __name__ == "__main__":
         f.write(f"```{{note}}\nUpdated {datetime.now().isoformat()}.\n```\n\n")
         f.write((
             "Frequencies can be found on [Clint K6LCS's website]"
-            "(https://www.work-sat.com/ewExternalFiles/WorkSat-12192021.pdf).\n\n"
+            "(https://www.work-sat.com/ewExternalFiles/WorkSat-01062023.pdf).\n\n"
         ))
         f.write("- AO-91 only in sunlight\n")
         f.write("- AO-27 active for ~4 minutes\n")
