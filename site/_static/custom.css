@@ -46,3 +46,7 @@ html .tabbed-set>label {
 .bd-sidebar {
   overflow: hidden;
 }
+
+.bd-header-article {
+  visibility: hidden;
+}
