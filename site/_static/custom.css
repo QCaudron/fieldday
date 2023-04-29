@@ -26,3 +26,15 @@ html .tabbed-set>label {
 .q-neg-margin {
   margin-bottom: -1rem;
 }
+
+.article-header-buttons {
+  visibility: hidden;
+}
+
+.header-article-item {
+  visibility: hidden;
+}
+
+:root[data-color-mode="dark"] {}
+
+.book-color-mode-toggle {}
