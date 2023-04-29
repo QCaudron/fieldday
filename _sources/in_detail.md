@@ -4,11 +4,11 @@ The largest amateur radio event in the US, Field Day is projected to involve ove
 
 ## The setup
 
-Starting on Friday, we will take over a [field at South Seattle College](./location) and set up [transceivers, antennas, and plenty of other gear](./setup), operating 100% on battery power. The goal is to replicate an emergency scenario where no mains power is available and everything has to be brought on-site, including the antennas. A handful of folk will be putting up tents, deploying antennas, setting up radios, configuring some infrastructure for a local area network, and preparing food. Want to help out? [Let us know!](https://forms.gle/bP5pKXehXZdFwPb68)
+Starting on Friday, we will take over a [field at South Seattle College](./detail/location) and set up [transceivers, antennas, and plenty of other gear](./detail/setup), operating 100% on battery power. The goal is to replicate an emergency scenario where no mains power is available and everything has to be brought on-site, including the antennas. A handful of folk will be putting up tents, deploying antennas, setting up radios, configuring some infrastructure for a local area network, and preparing food. Want to help out? [Let us know!](https://forms.gle/bP5pKXehXZdFwPb68)
 
 ## The objective
 
- During official running hours from [11:00 on Saturday morning to 14:00 on Sunday](./schedule), we will make as many contacts as possible on several HF, VHF, and UHF bands, and using [SSB, CW, and digital modes](./setup). We score points for every recorded contact, so come help out and operate the stations! If you'd like to operate a station, check out our [Sign Up](./signup) page to lock in a time.
+ During official running hours from [11:00 on Saturday morning to 14:00 on Sunday](./schedule), we will make as many contacts as possible on several HF, VHF, and UHF bands, and using [SSB, CW, and digital modes](./detail/setup). We score points for every recorded contact, so come help out and operate the stations! If you'd like to operate a station, check out our [Sign Up](./signup) page to lock in a time.
  
  Field Day has some [simple rules](http://www.arrl.org/field-day-rules)), but don't worry if you're new to Field Day or radio in general -- there will be plenty of people to help out and show you how to operate the stations and make contacts.
 
