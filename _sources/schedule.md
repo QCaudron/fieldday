@@ -1,13 +1,12 @@
 # Schedule and Activities
 
-```{note}
-With COVID cases on the rise, we'll be asking folk to mask up inside the tents when we're in close proximity to one another.
-```
-
 **All talks and tables will be held at the Event and Demo Area, underneath the covered walkway at the end of the parking lot, unless otherwise specified.**
 
 We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities. We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](location.md).
 
+Schedule for 2023 to come ! Watch this space.
+
+<!-- 
 ## Tuesday, June 21st
 
 |       |                                                                                                                                                        |
@@ -137,4 +136,4 @@ Making contacts over satellite
 
 ```{important}
 We are working on scheduling a number of activities and talks; watch this space for more details. **The current schedule very likely to change quite a bit in the coming weeks.**
-```
+``` -->

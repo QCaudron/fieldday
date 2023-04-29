@@ -1,204 +1,368 @@
 # Photos
 
-A few photos from previous Field Days, also at South Seattle College.
+## Field Day 2022
 
-````{panels}
-:column: col-4 align-self-center
+These photos were taken last year by [Matt, KE7NOR](https://qrz.com/db/KE7NOR). Thanks a lot, Matt !
 
+::::{grid}
+:gutter: 3
 
-```{image} https://i.imgur.com/N1CPZgn.png
-:alt: The welcome station.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-The welcome station.
----
-
-
-```{image} https://i.imgur.com/w8qTMu7.png
-:alt: The antenna farm !
-:class: bg-primary mb-1
-:width: 600px
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52181462900_95a68d510e_k.jpg
+:width: 100%
 :align: center
 ```
 +++
 The antenna farm !
----
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52181854561_5f104c1635_k.jpg
+:width: 100%
+:align: center
+```
++++
+A view of the setup from orbit.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52179949862_5a68b98e31_k.jpg
+:width: 100%
+:align: center
+```
++++
+Setting up the hexbeam.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52179949962_4e1ef60b22_k.jpg
+:width: 100%
+:align: center
+```
++++
+The antennas at night.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52181462815_f6136ecb1f_k.jpg
+:width: 100%
+:align: center
+```
++++
+Running phone.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52179949627_e0b585ef5d_k.jpg
+:width: 100%
+:align: center
+```
++++
+The tent for the Nets.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52181221214_d6c09f20cb_k.jpg
+:width: 100%
+:align: center
+```
++++
+Running CW.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52179949402_3e5b8c7e42_k.jpg
+:width: 100%
+:align: center
+```
++++
+During an educational talk.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52181857278_3185cefa8a_k.jpg
+:width: 100%
+:align: center
+```
++++
+Downtown in the background.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52181462240_98aaf9284d_k.jpg
+:width: 100%
+:align: center
+```
++++
+The beam for 70cm, vertical for 2m, and 6m Squalo.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52180831957_4fe88d6619_k.jpg
+:width: 100%
+:align: center
+```
++++
+Swapmeet with the Jeeps.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52181220574_bd53f4db62_k.jpg
+:width: 100%
+:align: center
+```
++++
+Setting up a vertical coil.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52181462255_46fa408b06_k.jpg
+:width: 100%
+:align: center
+```
++++
+A very tasty cake.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52179949207_4ece0a9680_k.jpg
+:width: 100%
+:align: center
+```
++++
+A go-box featuring two rigs.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52180972636_9f73373a11_k.jpg
+:width: 100%
+:align: center
+```
++++
+Seattle ACS.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52180973201_7a7154efdc_k.jpg
+:width: 100%
+:align: center
+```
++++
+Running phone in the evening.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52182342760_706f0db0c2_k.jpg
+:width: 100%
+:align: center
+```
++++
+Lunch !
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/52180976023_f98202bea3_k.jpg
+:width: 100%
+:align: center
+```
++++
+A perfect tune.
+:::
+::::
 
 
+## Previous Field Days
+
+Some more photos from past Field Days.
+
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/N1CPZgn.png
+:width: 100%
+:align: center
+```
++++
+The welcome station.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/w8qTMu7.png
+:width: 100%
+:align: center
+```
++++
+The antenna farm.
+:::
+
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://i.imgur.com/mdtYDJp.png
-:alt: A view of the field.
-:class: bg-primary mb-1
-:width: 600px
+:width: 100%
 :align: center
 ```
 +++
 A view of the field.
----
+:::
 
-
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://i.imgur.com/fcKPbVA.png
-:alt: The GOTA station, and some CW keys.
-:class: bg-primary mb-1
-:width: 600px
+:width: 100%
 :align: center
 ```
 +++
 The digital station, and some CW keys.
----
+:::
 
-
-```{image} https://i.imgur.com/Gq193Ts.jpg
-:alt: Building a tape-measure Yagi.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-Building a tape-measure Yagi.
----
-
-
-```{image} https://i.imgur.com/SwqwKsS.png
-:alt: Putting up a mast for a dipole.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-Putting up a mast for a dipole.
----
-
-
-```{image} https://i.imgur.com/Mh6zGcI.jpg
-:alt: Lunch time.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-Lunch time.
----
-
-
-```{image} https://i.imgur.com/nmHkfjf.png
-:alt: Some demo stalls.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-Some demo stalls.
----
-
-
-```{image} https://i.imgur.com/ggV8d63.png
-:alt: Flying a drone by the Solar Rover.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-Flying a drone by the Solar Rover.
----
-
-
-```{image} https://i.imgur.com/t4rnfjf.jpg
-:alt: Can't beat cake...
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-Can't beat cake...
----
-
-
-```{image} https://i.imgur.com/YreaKxA.png
-:alt: Building a dual-band Yagi.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-Building a dual-band Yagi.
----
-
-
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://i.imgur.com/7AGNx99.jpg
-:alt: Preparing lunch !
-:class: bg-primary mb-1
-:width: 600px
+:width: 100%
 :align: center
 ```
 +++
 Preparing lunch !
----
+:::
 
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/SwqwKsS.png
+:width: 100%
+:align: center
+```
++++
+Putting up a mast for a dipole.
+:::
 
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/Mh6zGcI.jpg
+:width: 100%
+:align: center
+```
++++
+Lunch time.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/nmHkfjf.png
+:width: 100%
+:align: center
+```
++++
+Some demo stalls.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/ggV8d63.png
+:width: 100%
+:align: center
+```
++++
+Flying a drone by the Solar Rover.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/t4rnfjf.jpg
+:width: 100%
+:align: center
+```
++++
+Can't beat cake...
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/YreaKxA.png
+:width: 100%
+:align: center
+```
++++
+Building a dual-band Yagi.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://i.imgur.com/Gq193Ts.jpg
+:width: 100%
+:align: center
+```
++++
+Building a tape-measure Yagi.
+:::
+
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://web.psrg.org/wp-content/uploads/2018/07/IMG_20180623_132015.vr_.jpg
-:alt: Setting up some Yagis.
-:class: bg-primary mb-1
-:width: 600px
+:width: 100%
 :align: center
 ```
 +++
 Setting up some Yagis.
----
+:::
 
-
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://web.psrg.org/wp-content/uploads/2018/07/20180623_144439.jpg
-:alt: Jacob making a contact.
-:class: bg-primary mb-1
-:width: 600px
+:width: 100%
 :align: center
 ```
 +++
 Jacob making a contact.
----
+:::
 
-
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://i.imgur.com/O82zIz2.jpg
-:alt: Breaking for lunch.
-:class: bg-primary mb-1
-:width: 600px
+:width: 100%
 :align: center
 ```
 +++
 Breaking for lunch.
----
+:::
 
-
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://i.imgur.com/sERwgl2.png
-:alt: The main tent, all set up.
-:class: bg-primary mb-1
-:width: 600px
+:width: 100%
 :align: center
 ```
 +++
 The main tent, all set up.
----
+:::
 
-
-```{image} https://i.imgur.com/O82zIz2.jpg
-:alt: Breaking for lunch.
-:class: bg-primary mb-1
-:width: 600px
-:align: center
-```
-+++
-Breaking for lunch.
----
-
-
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://i.imgur.com/VVqg6mp.png
-:alt: The sun sets on the antenna farm.
-:class: bg-primary mb-1
-:width: 600px
+:width: 100%
 :align: center
 ```
 +++
 The sun sets on the antenna farm.
-````
+:::

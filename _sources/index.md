@@ -1,31 +1,23 @@
-# Field Day 2022
+# Field Day 2023
 
-As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2022! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 25th and 26th**.
+As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2023! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 24th and 25th, 2023**.
 
-````{panels}
-:container: q-neg-margin
-:column: col-3 align-self-center mx-auto
-:card: p-0 m-0 border-0 text-center
-:header: text-center
-:footer: bg-white text-center
+::::{grid}
+:gutter: 5
 
+:::{grid-item-card} 
 [![PSRG](assets/images/psrg_logo.png)](https://web.psrg.org/)
-+++
-[PSRG](https://web.psrg.org/)
+:::
 
----
-
+:::{grid-item-card}
 [![WSARC](assets/images/wsarc_logo.jpg)](https://w7aw.org/)
-+++
-[WSARC](https://w7aw.org/)
+:::
 
----
+:::{grid-item-card} 
+<a href="https://www.seattleacs.org/"><img src="assets/images/seattleacs_logo.png" width="100%" class="align-self-center" /></a>
+:::
+::::
 
-[![SeattleACS](assets/images/seattleacs_logo.png)](https://www.seattleacs.org/)
-+++
-[SeattleACS](https://www.seattleacs.org/)
-
-````
 
 ## What is Field Day ?
 
@@ -37,7 +29,7 @@ For more information about what Field Day is like, check out our [Field Day in D
 
 ## Who ?
 
-All are welcome! Amateur radio operators, as well as those without their radio licenses, are welcome to join in any of our activities. Get on the air on our voice, digital, or CW stations; build antennas; or just join us for a meal and to talk radio.
+All are welcome! Amateur radio operators, as well as those without their radio licenses, are welcome to join in any of our activities. Get on the air on our voice, digital, or CW stations; build antennas; attend talks and participate in activities; or just join us for a meal and to talk radio.
 
 ## Where ?
 
@@ -45,10 +37,10 @@ This year, we will be at the [north field of South Seattle College](./location).
 
 ## What ?
 
-We will be running [several transceivers](./setup), so you can experience SSB (single sideband voice), CW (Morse code), or digital modes on HF. We'll also have SSB available on VHF and UHF.
+We will be running [several transceivers](./setup), so you can experience SSB (single sideband voice), CW (Morse code), or digital modes on HF. We'll also have SSB available on VHF and UHF. Our Get On the Air (GOTA) station is ready to help those without licenses get on the air and experience the HF bands.
 
 We will have a number of [activities and educational talks](./schedule) you can attend. Join us to learn about building antennas, fox-hunting, Morse code, emergency communications, and more.
 
 ## Let us know
 
-Whether you're just attending, or would like to help out, we'd love to know what you're looking for. Please [fill out this very short survey](https://docs.google.com/forms/d/e/1FAIpQLSfEryvQJh8ALbX9AqE9-uXQiCOKJ9_C5kabrBPTYQ0zk262Vg/viewform?usp=sf_link) so we can estimate numbers and interest!
+Whether you're just attending, or would like to help out, we'd love to know what you're looking for. Please [fill out this very short survey](https://forms.gle/bP5pKXehXZdFwPb68) so we can estimate numbers and interest!
