@@ -35,6 +35,6 @@ html .tabbed-set>label {
   visibility: hidden;
 }
 
-:root[data-color-mode="light"] {}
+:root[data-color-mode="dark"] {}
 
 .book-color-mode-toggle {}
