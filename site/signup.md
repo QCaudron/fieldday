@@ -9,7 +9,7 @@ If you're a licensed operator, you can sign up to run any of our stations. We'll
 <ul>
     <li><a href="https://seattleradio-voice.youcanbook.me">Phone / Voice HF station</a>
     <li><a href="https://seattleradio-cw-digital.youcanbook.me">CW / Digital HF station</a>
-    <li><a href="https://seattleradio-cw-digital.youcanbook.me">VHF / UHF station</a>
+    <li><a href="https://seattleradio-vhf-uhf.youcanbook.me">VHF / UHF station</a>
 </ul>
 
 If you don't have a license, or you're new to radio, you can sign up to run <a href="https://seattleradio-gota.youcanbook.me">our Get On The Air (GOTA) station</a>. A licensed operator will sit with you and guide you through your first exchanges.
