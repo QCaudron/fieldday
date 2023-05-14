@@ -1,7 +1,3 @@
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-
-
 # Join our Field Day
 
 This year, you can reserve a slot operating any of our stations. Simply grab a time using the forms below, and we'll see you there!
@@ -11,12 +7,12 @@ This year, you can reserve a slot operating any of our stations. Simply grab a t
 If you're a licensed operator, you can sign up to run any of our stations. We'll have a station manager on-site to help you get set up and answer any questions you might have.
 
 <ul>
-    <li><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/hf1?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">Phone / Voice HF station</a>
-    <li><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/hf2?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">Digital / CW station</a>
-    <li><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/run-the-vhf-uhf-station?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">VHF / UHF station</a>
+    <li><a href="https://seattleradio-voice.youcanbook.me">Phone / Voice HF station</a>
+    <li><a href="https://seattleradio-cw-digital.youcanbook.me">CW / Digital HF station</a>
+    <li><a href="https://seattleradio-cw-digital.youcanbook.me">VHF / UHF station</a>
 </ul>
 
-If you don't have a license, or you're new to radio, you can <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/run-the-gota-station?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">sign up for a slot</a> on our Get On The Air (GOTA) station. A licensed operator will sit with you and guide you through your first exchanges.
+If you don't have a license, or you're new to radio, you can sign up to run <a href="https://seattleradio-gota.youcanbook.me">our Get On The Air (GOTA) station</a>. A licensed operator will sit with you and guide you through your first exchanges.
 
 
 ## Organization and help
