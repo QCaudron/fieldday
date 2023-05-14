@@ -13,11 +13,10 @@ If you're a licensed operator, you can sign up to run any of our stations. We'll
 <ul>
     <li><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/hf1?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">Phone / Voice HF station</a>
     <li><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/hf2?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">Digital / CW station</a>
+    <li><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/run-the-vhf-uhf-station?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">VHF / UHF station</a>
 </ul>
 
-## GOTA
-
-If you don't have a license, or you're new to radio, you can <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/gota?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">sign up for a slot</a> on our Get On The Air (GOTA) station. A licensed operator will sit with you and guide you through your first exchanges.
+If you don't have a license, or you're new to radio, you can <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/seattleradiofieldday/run-the-gota-station?hide_event_type_details=1&hide_gdpr_banner=1'});return false;">sign up for a slot</a> on our Get On The Air (GOTA) station. A licensed operator will sit with you and guide you through your first exchanges.
 
 
 ## Organization and help
