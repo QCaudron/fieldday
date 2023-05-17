@@ -61,6 +61,8 @@ html:
   comments:
     hypothesis: false
     utterances: false
+  extra_footer: |
+    <script>document.documentElement.dataset.theme = "light";</script>
 
 #######################################################################################
 # LaTeX-specific settings
