@@ -5,8 +5,8 @@ help:
 
 .PHONY: build
 build:  ## Build the Jupyterbook
-	poetry run jupyter-book build site/
+	jupyter-book build site/
 
 .PHONY: clean
 clean:  ## Remove build files
-	poetry run jupyter-book clean site/
+	jupyter-book clean site/

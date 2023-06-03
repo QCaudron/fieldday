@@ -50,3 +50,7 @@ html .tabbed-set>label {
 .bd-header-article {
   visibility: hidden;
 }
+
+a { 
+  font-weight: bold;
+}
