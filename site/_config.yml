@@ -92,3 +92,5 @@ sphinx:
   config: # key-value pairs to directly over-ride the Sphinx configuration
     html_theme_options:
       show_navbar_depth: 3
+  html_context:
+    default_mode: light
