@@ -37,10 +37,10 @@ This year, we will be at the [north field of South Seattle College](./detail/loc
 
 ## What ?
 
-We will be running [several transceivers](./detail/setup), so you can experience SSB (single sideband voice), CW (Morse code), or digital modes on HF. We'll also have SSB available on VHF and UHF. Our Get On the Air (GOTA) station is ready to help those without licenses get on the air and experience the HF bands.
+We will be [running several transceivers](./detail/setup), so you can experience SSB (single sideband voice), CW (Morse code), or digital modes on HF. We'll also have SSB and FM available on VHF and UHF. Our Get On the Air (GOTA) station is ready to help those without licenses get on the air and experience the HF bands.
 
 We will have a number of [activities and educational talks](./schedule) you can attend. Join us to learn about building antennas, fox-hunting, Morse code, emergency communications, and more.
 
 ## Let us know
 
-Whether you're just attending, or would like to help out, we'd love to know what you're looking for. Please [sign up](./signup) to run a station or help out with arrangements.
+Whether you're just attending, or would like to help out, we'd love to know what you're looking for. Please [sign up to run a station or help out with arrangements](./signup).

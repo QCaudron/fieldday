@@ -56,13 +56,6 @@
     <script src="../_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="../_static/design-tabs.js"></script>
-    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SBX9SB82KJ"></script>
-    <script>
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){ dataLayer.push(arguments); }
-                gtag('js', new Date());
-                gtag('config', 'G-SBX9SB82KJ');
-            </script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -110,8 +103,8 @@ const thebe_selector_output = ".output, .cell_output"
          class="form-control"
          name="q"
          id="search-input"
-         placeholder="Search this book..."
-         aria-label="Search this book..."
+         placeholder="Search..."
+         aria-label="Search..."
          autocomplete="off"
          autocorrect="off"
          autocapitalize="off"
@@ -158,27 +151,19 @@ const thebe_selector_output = ".output, .cell_output"
 </a></div>
         <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
-        
-        <ul class="nav bd-sidenav bd-sidenav__home-link">
-            <li class="toctree-l1">
-                <a class="reference internal" href="../index.html">
-                    Field Day 2023
-                </a>
-            </li>
-        </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1 current active has-children"><a class="reference internal" href="../in_detail.html">Field Day in Detail</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="../in_detail.html">Field Day in Detail</a><input checked class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
 <li class="toctree-l2 current active"><a class="current reference internal" href="#">Location</a></li>
 <li class="toctree-l2"><a class="reference internal" href="setup.html">Our Field Day Setup</a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../schedule.html">Schedule and Activities</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../schedule.html">Schedule and Activities</a><input checked class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../schedule_and_activities/bonus_points.html">Bonus points</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../schedule_and_activities/satellite.html">Satellite passes</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../signup.html">Join our Field Day</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../contact.html">Contact and Social</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../contact.html">Contact and Social</a><input checked class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../social/photos.html">Photos</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../social/organizers.html">Organizers</a></li>
 </ul>
@@ -224,53 +209,6 @@ const thebe_selector_output = ".output, .cell_output"
         <div class="header-article-item">
 
 <div class="article-header-buttons">
-
-
-
-
-
-<div class="dropdown dropdown-source-buttons">
-  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
-    <i class="fab fa-github"></i>
-  </button>
-  <ul class="dropdown-menu">
-      
-      
-      
-      <li><a href="https://github.com/qcaudron/fieldday" target="_blank"
-   class="btn btn-sm btn-source-repository-button dropdown-item"
-   title="Source repository"
-   data-bs-placement="left" data-bs-toggle="tooltip"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fab fa-github"></i>
-  </span>
-<span class="btn__text-container">Repository</span>
-</a>
-</li>
-      
-      
-      
-      
-      <li><a href="https://github.com/qcaudron/fieldday/issues/new?title=Issue%20on%20page%20%2Fdetail/location.html&body=Your%20issue%20content%20here." target="_blank"
-   class="btn btn-sm btn-source-issues-button dropdown-item"
-   title="Open an issue"
-   data-bs-placement="left" data-bs-toggle="tooltip"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fas fa-lightbulb"></i>
-  </span>
-<span class="btn__text-container">Open issue</span>
-</a>
-</li>
-      
-  </ul>
-</div>
-
 
 
 
@@ -393,9 +331,7 @@ document.write(`
   <section id="location">
 <h1>Location<a class="headerlink" href="#location" title="Permalink to this heading">#</a></h1>
 <p>We’ll be using the <a class="reference external" href="https://www.google.com/maps/place/47%C2%B033'00.7%22N+122%C2%B021'12.4%22W/&#64;47.5501985,-122.3543562,377m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0xf42750fd596c3bec!7e2!8m2!3d47.5501969!4d-122.3534362">northern field and parking lot at South Seattle College</a>.</p>
-<!-- markdownlint-disable MD033 -->
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1381.3866155676035!2d-122.35398203931042!3d47.54977522844381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1653586726136!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<!-- markdownlint-disable MD033 -->
 <section id="parking-rvs-and-camping">
 <h2>Parking, RVs, and camping<a class="headerlink" href="#parking-rvs-and-camping" title="Permalink to this heading">#</a></h2>
 <p>There will be plenty of parking space at the <a class="reference external" href="https://www.google.com/maps/place/Parking+lot,+Seattle,+WA+98106/&#64;47.5501985,-122.3543562,377m/data=!3m1!1e3!4m12!1m6!3m5!1s0x549041a5c3c28d3f:0x627082347c54d947!2sSSC+North+Parking+Lot!8m2!3d47.5507375!4d-122.3537583!3m4!1s0x549041a5b58ea18f:0x5c4ef87c7757bffa!8m2!3d47.5502826!4d-122.352202">South Seattle College North Parking Lot</a>.</p>
@@ -518,10 +454,6 @@ By Quentin K7DRQ
   
   <div class="footer-item">
     
-<div class="extra_footer">
-  <script>document.documentElement.dataset.theme = "light";</script>
-
-</div>
   </div>
   
 </div>

@@ -56,13 +56,6 @@
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js"></script>
-    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SBX9SB82KJ"></script>
-    <script>
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){ dataLayer.push(arguments); }
-                gtag('js', new Date());
-                gtag('config', 'G-SBX9SB82KJ');
-            </script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -110,8 +103,8 @@ const thebe_selector_output = ".output, .cell_output"
          class="form-control"
          name="q"
          id="search-input"
-         placeholder="Search this book..."
-         aria-label="Search this book..."
+         placeholder="Search..."
+         aria-label="Search..."
          autocomplete="off"
          autocorrect="off"
          autocapitalize="off"
@@ -158,27 +151,19 @@ const thebe_selector_output = ".output, .cell_output"
 </a></div>
         <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
-        
-        <ul class="nav bd-sidenav bd-sidenav__home-link">
-            <li class="toctree-l1">
-                <a class="reference internal" href="index.html">
-                    Field Day 2023
-                </a>
-            </li>
-        </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1 has-children"><a class="reference internal" href="in_detail.html">Field Day in Detail</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="in_detail.html">Field Day in Detail</a><input checked class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="detail/location.html">Location</a></li>
 <li class="toctree-l2"><a class="reference internal" href="detail/setup.html">Our Field Day Setup</a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="schedule.html">Schedule and Activities</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="schedule.html">Schedule and Activities</a><input checked class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="schedule_and_activities/bonus_points.html">Bonus points</a></li>
 <li class="toctree-l2"><a class="reference internal" href="schedule_and_activities/satellite.html">Satellite passes</a></li>
 </ul>
 </li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Join our Field Day</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="contact.html">Contact and Social</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="contact.html">Contact and Social</a><input checked class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="social/photos.html">Photos</a></li>
 <li class="toctree-l2"><a class="reference internal" href="social/organizers.html">Organizers</a></li>
 </ul>
@@ -224,53 +209,6 @@ const thebe_selector_output = ".output, .cell_output"
         <div class="header-article-item">
 
 <div class="article-header-buttons">
-
-
-
-
-
-<div class="dropdown dropdown-source-buttons">
-  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
-    <i class="fab fa-github"></i>
-  </button>
-  <ul class="dropdown-menu">
-      
-      
-      
-      <li><a href="https://github.com/qcaudron/fieldday" target="_blank"
-   class="btn btn-sm btn-source-repository-button dropdown-item"
-   title="Source repository"
-   data-bs-placement="left" data-bs-toggle="tooltip"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fab fa-github"></i>
-  </span>
-<span class="btn__text-container">Repository</span>
-</a>
-</li>
-      
-      
-      
-      
-      <li><a href="https://github.com/qcaudron/fieldday/issues/new?title=Issue%20on%20page%20%2Fsignup.html&body=Your%20issue%20content%20here." target="_blank"
-   class="btn btn-sm btn-source-issues-button dropdown-item"
-   title="Open an issue"
-   data-bs-placement="left" data-bs-toggle="tooltip"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fas fa-lightbulb"></i>
-  </span>
-<span class="btn__text-container">Open issue</span>
-</a>
-</li>
-      
-  </ul>
-</div>
-
 
 
 
@@ -395,13 +333,13 @@ document.write(`
 <p>This year, you can reserve a slot operating any of our stations. Simply grab a time using the forms below, and we’ll see you there!</p>
 <section id="running-a-station">
 <h2>Running a station<a class="headerlink" href="#running-a-station" title="Permalink to this heading">#</a></h2>
-<p>If you’re a licensed operator, you can sign up to run any of our stations. We’ll have a station manager on-site to help you get set up and answer any questions you might have.</p>
+<p>If you’re a licensed operator, you can sign up to run any of our stations. We’ll have a station manager on-site to help you get set up and answer any questions you might have. Unlicensed operators are welcome to join in on the GOTA station.</p>
 <ul>
     <li><a href="https://seattleradio-voice.youcanbook.me" target="_blank">Phone / Voice HF station</a>
     <li><a href="https://seattleradio-cw-digital.youcanbook.me" target="_blank">CW / Digital HF station</a>
     <li><a href="https://seattleradio-vhf-uhf.youcanbook.me" target="_blank">VHF / UHF station</a>
+    <li><a href="https://seattleradio-gota.youcanbook.me" target="_blank">Get On The Air (GOTA) station</a>
 </ul>
-<p>If you don’t have a license, or you’re new to radio, you can sign up to run <a href="https://seattleradio-gota.youcanbook.me" target="_blank">our Get On The Air (GOTA) station</a>. A licensed operator will sit with you and guide you through your first exchanges.</p>
 </section>
 <section id="organization-and-help">
 <h2>Organization and help<a class="headerlink" href="#organization-and-help" title="Permalink to this heading">#</a></h2>
@@ -519,10 +457,6 @@ By Quentin K7DRQ
   
   <div class="footer-item">
     
-<div class="extra_footer">
-  <script>document.documentElement.dataset.theme = "light";</script>
-
-</div>
   </div>
   
 </div>

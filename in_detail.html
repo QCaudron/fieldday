@@ -56,13 +56,6 @@
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js"></script>
-    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SBX9SB82KJ"></script>
-    <script>
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){ dataLayer.push(arguments); }
-                gtag('js', new Date());
-                gtag('config', 'G-SBX9SB82KJ');
-            </script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -110,8 +103,8 @@ const thebe_selector_output = ".output, .cell_output"
          class="form-control"
          name="q"
          id="search-input"
-         placeholder="Search this book..."
-         aria-label="Search this book..."
+         placeholder="Search..."
+         aria-label="Search..."
          autocomplete="off"
          autocorrect="off"
          autocapitalize="off"
@@ -158,27 +151,19 @@ const thebe_selector_output = ".output, .cell_output"
 </a></div>
         <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
-        
-        <ul class="nav bd-sidenav bd-sidenav__home-link">
-            <li class="toctree-l1">
-                <a class="reference internal" href="index.html">
-                    Field Day 2023
-                </a>
-            </li>
-        </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">Field Day in Detail</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">Field Day in Detail</a><input checked class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="detail/location.html">Location</a></li>
 <li class="toctree-l2"><a class="reference internal" href="detail/setup.html">Our Field Day Setup</a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="schedule.html">Schedule and Activities</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="schedule.html">Schedule and Activities</a><input checked class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="schedule_and_activities/bonus_points.html">Bonus points</a></li>
 <li class="toctree-l2"><a class="reference internal" href="schedule_and_activities/satellite.html">Satellite passes</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="signup.html">Join our Field Day</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="contact.html">Contact and Social</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="contact.html">Contact and Social</a><input checked class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="social/photos.html">Photos</a></li>
 <li class="toctree-l2"><a class="reference internal" href="social/organizers.html">Organizers</a></li>
 </ul>
@@ -224,53 +209,6 @@ const thebe_selector_output = ".output, .cell_output"
         <div class="header-article-item">
 
 <div class="article-header-buttons">
-
-
-
-
-
-<div class="dropdown dropdown-source-buttons">
-  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
-    <i class="fab fa-github"></i>
-  </button>
-  <ul class="dropdown-menu">
-      
-      
-      
-      <li><a href="https://github.com/qcaudron/fieldday" target="_blank"
-   class="btn btn-sm btn-source-repository-button dropdown-item"
-   title="Source repository"
-   data-bs-placement="left" data-bs-toggle="tooltip"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fab fa-github"></i>
-  </span>
-<span class="btn__text-container">Repository</span>
-</a>
-</li>
-      
-      
-      
-      
-      <li><a href="https://github.com/qcaudron/fieldday/issues/new?title=Issue%20on%20page%20%2Fin_detail.html&body=Your%20issue%20content%20here." target="_blank"
-   class="btn btn-sm btn-source-issues-button dropdown-item"
-   title="Open an issue"
-   data-bs-placement="left" data-bs-toggle="tooltip"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fas fa-lightbulb"></i>
-  </span>
-<span class="btn__text-container">Open issue</span>
-</a>
-</li>
-      
-  </ul>
-</div>
-
 
 
 
@@ -398,11 +336,11 @@ document.write(`
 <p>The largest amateur radio event in the US, Field Day is projected to involve over 35,000 people this year. It’s a casual, fun event of learning, socializing, and radio. Everyone is welcome and encouraged to get on the air, including those without an amateur radio license.</p>
 <section id="the-setup">
 <h2>The setup<a class="headerlink" href="#the-setup" title="Permalink to this heading">#</a></h2>
-<p>Starting on Friday, we will take over a <a class="reference internal" href="detail/location.html"><span class="doc std std-doc">field at South Seattle College</span></a> and set up <a class="reference internal" href="detail/setup.html"><span class="doc std std-doc">transceivers, antennas, and plenty of other gear</span></a>, operating 100% on battery power. The goal is to replicate an emergency scenario where no mains power is available and everything has to be brought on-site, including the antennas. A handful of folk will be putting up tents, deploying antennas, setting up radios, configuring some infrastructure for a local area network, and preparing food. Want to help out? <a class="reference external" href="https://forms.gle/bP5pKXehXZdFwPb68">Let us know!</a></p>
+<p>Starting on Friday, we will take over a <a class="reference internal" href="detail/location.html"><span class="doc std std-doc">field at South Seattle College</span></a> and set up <a class="reference internal" href="detail/setup.html"><span class="doc std std-doc">transceivers, antennas, and plenty of other gear</span></a>, operating 100% on emergency power. The goal is to replicate an emergency scenario where no mains power is available and everything has to be brought on-site, including the antennas. A handful of folk will be putting up tents, deploying antennas, setting up radios, configuring some infrastructure for a local area network, and preparing food. Want to help out? <a class="reference external" href="https://forms.gle/bP5pKXehXZdFwPb68">Let us know!</a></p>
 </section>
 <section id="the-objective">
 <h2>The objective<a class="headerlink" href="#the-objective" title="Permalink to this heading">#</a></h2>
-<p>During official running hours from <a class="reference internal" href="schedule.html"><span class="doc std std-doc">11:00 on Saturday morning to 14:00 on Sunday</span></a>, we will make as many contacts as possible on several HF, VHF, and UHF bands, and using <a class="reference internal" href="detail/setup.html"><span class="doc std std-doc">SSB, CW, and digital modes</span></a>. We score points for every recorded contact, so come help out and operate the stations! If you’d like to operate a station, check out our <a class="reference internal" href="signup.html"><span class="doc std std-doc">Sign Up</span></a> page to lock in a time.</p>
+<p>During official running hours from <a class="reference internal" href="schedule.html"><span class="doc std std-doc">11:00 on Saturday morning to 14:00 on Sunday</span></a>, we will make as many contacts as possible on several HF, VHF, and UHF bands, and using <a class="reference internal" href="detail/setup.html"><span class="doc std std-doc">SSB, CW, and digital modes</span></a>. We score points for every recorded contact, so come help out and operate the stations! If you’d like to operate a station, check out our <a class="reference internal" href="signup.html"><span class="doc std std-doc">Sign Up page to lock in a time</span></a>.</p>
 <p>Field Day has some <a class="reference external" href="http://www.arrl.org/field-day-rules">simple rules</a>), but don’t worry if you’re new to Field Day or radio in general – there will be plenty of people to help out and show you how to operate the stations and make contacts.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
@@ -415,7 +353,7 @@ document.write(`
 </section>
 <section id="the-activities">
 <h2>The activities<a class="headerlink" href="#the-activities" title="Permalink to this heading">#</a></h2>
-<p>In addition to the main goal of making contacts, our Field Day includes many educational activities. Check out our <a class="reference internal" href="schedule.html"><span class="doc std std-doc">schedule</span></a> for more information about when you can build antennas, work satellites, and try your hand at sending Morse code.</p>
+<p>In addition to the main goal of making contacts, our Field Day includes many educational activities. Check out <a class="reference internal" href="schedule.html"><span class="doc std std-doc">our schedule</span></a> for more information about when you can build antennas, work satellites, and try your hand at sending Morse code.</p>
 </section>
 <section id="don-t-have-your-license-new-to-radio">
 <h2>Don’t have your license? New to radio?<a class="headerlink" href="#don-t-have-your-license-new-to-radio" title="Permalink to this heading">#</a></h2>
@@ -425,7 +363,8 @@ document.write(`
 </section>
 <section id="how-do-i-participate">
 <h2>How do I participate ?<a class="headerlink" href="#how-do-i-participate" title="Permalink to this heading">#</a></h2>
-<p>Head on over to our <a class="reference internal" href="signup.html"><span class="doc std std-doc">Sign Up</span></a> page to let us know when you’d like to operate a station. If you’d like to help out with setup, we’d love your help – <a class="reference external" href="https://forms.gle/bP5pKXehXZdFwPb68">let us know here</a>.</p>
+<p>First of all, show up at Field Day ! Any time on Saturday is a great bet as a participant.</p>
+<p>For more, head on over to our <a class="reference internal" href="signup.html"><span class="doc std std-doc">Sign Up page</span></a> to let us know when you’d like to operate a station. If you’d like to help out with setup, we’d love your help – <a class="reference external" href="https://forms.gle/bP5pKXehXZdFwPb68">let us know here</a>.</p>
 </section>
 <div class="toctree-wrapper compound">
 </div>
@@ -540,10 +479,6 @@ By Quentin K7DRQ
   
   <div class="footer-item">
     
-<div class="extra_footer">
-  <script>document.documentElement.dataset.theme = "light";</script>
-
-</div>
   </div>
   
 </div>
