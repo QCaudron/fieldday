@@ -5,9 +5,9 @@
 
 #######################################################################################
 # Book settings
-title: Field Day 2022 # The title of the book. Will be placed in the left navbar.
+title: Field Day 2023 # The title of the book. Will be placed in the left navbar.
 author: Quentin K7DRQ # The author of the book
-copyright: "2022" # Copyright year to be placed in the footer
+copyright: "2022 - 2023" # Copyright year to be placed in the footer
 logo: "http://www.arrl.org/img/333x220/exact/Contests/2023_ARRL_Field_Day_logo_333_x_220.jpg" # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
