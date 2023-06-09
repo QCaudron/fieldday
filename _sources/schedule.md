@@ -8,27 +8,36 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 
 This schedule is tentative -- watch this space as we add more activities and talks!
 
+
 ## Friday, June 24th
 
 |       |           |                                                                                                              |
 | ----: | --------: | :----------------------------------------------------------------------------------------------------------- |
-| 12:00 | **Setup** | {term}`Field Day setup starts<Setup and Teardown>`. Masts and antennas, transceivers, tents, and generators. |
-| 12:00 |   **Net** | The {term}`The Noon Net<PSRG Nets>` with Jack KI7RMU.                                                        |
+| 10:00 |  **Site** | {term}`Field Day setup starts<Setup and Teardown>`. Masts and antennas, transceivers, tents, and generators. |
+| 12:00 |   **Net** | {term}`The Noon Net<PSRG Nets>` with Jack KI7RMU.                                                            |
+| 12:30 | **Meals** | {term}`Lunch<Meals>` for those setting up, sponsored by Dick's Drive-In.                                     |
+| 18:00 | **Meals** | {term}`Dinner<Meals>` : Pizza and salad.                                                                     |
+
 
 ## Saturday, June 25th
 
-|       |               |                                                                                                                          |
-| ----: | ------------: | :----------------------------------------------------------------------------------------------------------------------- |
-| 07:30 |     **Meals** | {term}`Breakfast<Meals>` for those who stayed the night.                                                                 |
-| 09:00 |       **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP.                                             |
-| 10:00 |      **Talk** | {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 14:00. **(held at the Hubs table)** |
-| 11:00 | **Operating** | Operating starts ! Come make some contacts.                                                                              |
-| 12:00 |       **Net** | The {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                   |
-| 13:00 |      **Talk** | How we set up our {term}`Remote HF Station`, with Brooks K9BDC.                                                          |
-| 14:00 |      **Talk** | {term}`An intro to Morse code`, with Quentin K7DRQ.                                                                      |
-| 15:00 |      **Talk** | {term}`Solar power`, with Matt KE7NOR.                                                                                   |
-| 16:00 |      **Talk** | {term}`A field perspective on the medical kit` with John KI7IYP.                                                         |
-| 21:00 |       **Net** | The {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                       |
+|       |                 |                                                                                                                          |
+| ----: | --------------: | :----------------------------------------------------------------------------------------------------------------------- |
+| 07:30 |       **Meals** | {term}`Breakfast<Meals>` for those who stayed the night.                                                                 |
+| 09:00 |         **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP.                                             |
+| 10:00 | **Educational** | {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 20:00. **(held at the Hubs table)** |
+| 11:00 |        **Site** | Operating starts ! Come make some contacts.                                                                              |
+| 11:00 | **Educational** | {term}`What is ham radio ?` with Brian KG7WRK.                                                                           |
+| 12:00 |         **Net** | {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                       |
+| 12:30 |       **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.                                                     |
+| 13:00 | **Educational** | {term}`How we set up our Remote HF Station`, with Brooks K9BDC.                                                          |
+| 14:00 | **Educational** | {term}`An intro to Morse code`, with Quentin K7DRQ.                                                                      |
+| 15:00 | **Educational** | {term}`Solar power`, with Matt KE7NOR.                                                                                   |
+| 16:00 | **Educational** | {term}`Go kits`, with Mei KI7TZA.                                                                                        |
+| 17:00 | **Educational** | {term}`A field perspective on the medical kit` with John KI7IYP.                                                         |
+| 18:00 |       **Meals** | {term}`Dinner<Meals>` : Vietnamese and Ezell's fried chicken.                                                            |
+| 21:00 |         **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
+
 
 ## Sunday, June 26th
 
@@ -36,6 +45,8 @@ This schedule is tentative -- watch this space as we add more activities and tal
 | ----: | --------: | :------------------------------------------------------------------------------ |
 | 07:30 | **Meals** | {term}`Breakfast<Meals>` of donuts, bagels, and coffee. Maybe eggs and bacon ?! |
 | 09:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Jack KI7RMU and Quentin K7DRQ.     |
+| 11:00 |  **Site** | {term}`Tear-down begins<Setup and Teardown>`. That's a wrap !                   |
+
 
 ## More Details
 
@@ -55,12 +66,18 @@ Getting started with Winlink
 An intro to Morse code
   The original mode for [wireless telegraphy](https://en.wikipedia.org/wiki/Wireless_telegraphy) in the first days of amateur radio, [Morse code](https://en.wikipedia.org/wiki/Morse_code) is a way to encode messages into a series of dots, dashes, and spaces. As used today, "[CW](https://en.wikipedia.org/wiki/Continuous_wave)" is still growing in popularity and is an effective mode to get the most out of your power. We'll introduce it and give you some hand-on-the-key experience sending some code.
 
+Go kits
+  Abstract to come.
+
+What is ham radio ?
+  Amateur radio is "a thousand hobbies in one." This talk will give you an introduction to the world of ham radio, from licensing, local talk on repeaters, to working the world on HF.
+
 A field perspective on the medical kit
   This will be an overview of various approaches to medical kits from a field perspective. We will have a brief survey of the logic and illogic of medical kits, what you want, what you need, why you should almost never buy a pre-made kit. The session will be interactive and folks are welcome to bring their own kits for a post lecture "lab".
 
 Solar power
   Abstract to come.
 
-Remote HF Station
+How we set up our Remote HF Station
   Abstract to come.
 ```
