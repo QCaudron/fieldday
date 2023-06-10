@@ -54,14 +54,14 @@ html:
   use_issues_button: true # Whether to add an "open an issue" button
   use_multitoc_numbering: true # Continuous numbering across parts/chapters
   extra_navbar: "" # Powered by <a href="https://jupyterbook.org">Jupyter Book</a>  # Will be displayed underneath the left navbar.
+  show_navbar_depth: 3
+  home_page_in_toc: true
   google_analytics_id: "G-SBX9SB82KJ" # "G-47E4JD6JKN" # A GA id that can be used to track book views.
   home_page_in_navbar: true # Whether to include your home page in the left Navigation Bar
   baseurl: "http://www.seattleradiofieldday.org" # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis: false
     utterances: false
-  extra_footer: |
-    <script>document.documentElement.dataset.theme = "light";</script>
 
 #######################################################################################
 # LaTeX-specific settings
@@ -89,8 +89,8 @@ sphinx:
   extra_extensions: # A list of extra extensions to load by Sphinx (added to those already used by JB).
   local_extensions: # A list of local extensions to load by sphinx specified by "name: path" items
   recursive_update: false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
-  config: # key-value pairs to directly over-ride the Sphinx configuration
-    html_theme_options:
-      show_navbar_depth: 3
-  html_context:
-    default_mode: light
+  # config: # key-value pairs to directly over-ride the Sphinx configuration
+    # html_theme_options:
+      # show_navbar_depth: 0
+      # collapse_navigation: false
+      # google_analytics_id: "G-SBX9SB82KJ"
