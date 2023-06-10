@@ -29,6 +29,7 @@ This schedule is tentative -- watch this space as we add more activities and tal
 | 11:00 |        **Site** | Operating starts ! Come make some contacts.                                                                              |
 | 11:00 | **Educational** | {term}`What is ham radio ?` with Brian KG7WRK.                                                                           |
 | 12:00 |         **Net** | {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                       |
+| 12:00 | **Educational** | {term}`SDRs` with Dan KB7RYY.
 | 12:30 |       **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.                                                     |
 | 13:00 | **Educational** | {term}`Going Remote - How we set up our Remote HF Station`, with Brooks K9BDC.                                           |
 | 14:00 | **Educational** | {term}`An intro to Morse code`, with Quentin K7DRQ.                                                                      |
@@ -80,4 +81,7 @@ Solar power
 
 Going Remote - How we set up our Remote HF Station
   The PSRG Remote HF Station is up and running and ready for Members to use. Join us to learn about the station, how we went about getting it set up, and how to request access to start using it.
+
+SDRs
+  Abstract to come.
 ```
