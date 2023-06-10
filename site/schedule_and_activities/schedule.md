@@ -32,10 +32,11 @@ This schedule is tentative -- watch this space as we add more activities and tal
 | 12:00 | **Educational** | {term}`SDRs` with Dan KB7RYY.
 | 12:30 |       **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.                                                     |
 | 13:00 | **Educational** | {term}`Going Remote - How we set up our Remote HF Station`, with Brooks K9BDC.                                           |
-| 14:00 | **Educational** | {term}`An intro to Morse code`, with Quentin K7DRQ.                                                                      |
+| 14:00 | **Educational** | {term}`Build a code practice oscillator` with Mike K7MCK.                                                                |
 | 15:00 | **Educational** | {term}`Solar power`, with Matt KE7NOR.                                                                                   |
 | 16:00 | **Educational** | {term}`Emergency go-kits`, with Mei KI7TZA.                                                                              |
 | 17:00 | **Educational** | {term}`A field perspective on the medical kit` with John KI7IYP.                                                         |
+| 18:00 | **Educational** | {term}`An intro to Morse code`, with Quentin K7DRQ.                                                                      |
 | 18:00 |       **Meals** | {term}`Dinner<Meals>` : Vietnamese and Ezell's fried chicken.                                                            |
 | 21:00 |         **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
 
@@ -83,5 +84,8 @@ Going Remote - How we set up our Remote HF Station
   The PSRG Remote HF Station is up and running and ready for Members to use. Join us to learn about the station, how we went about getting it set up, and how to request access to start using it.
 
 SDRs
+  Abstract to come.
+
+Build a code practice oscillator
   Abstract to come.
 ```
