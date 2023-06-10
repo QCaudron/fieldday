@@ -1,37 +1,19 @@
 format: jb-book
 root: index
 parts:
-  - caption: IN DETAIL
+  - caption: DETAILS
     chapters:
       - file: detail/in_detail
       - file: detail/location
       - file: detail/setup
-  - caption: SCHEDULE AND ACTIVITIES
+  - caption: SCHEDULE
     chapters:
       - file: schedule_and_activities/schedule
       - file: schedule_and_activities/bonus_points
       - file: schedule_and_activities/satellite
-  - caption: JOIN US AT FIELD DAY
+  - caption: PARTICIPATE
     chapters:
       - file: social/signup
       - file: social/contact
       - file: social/photos
       - file: social/organizers
-
-
-
-
-# chapters:
-#   - file: in_detail
-#     sections:
-#     - file: detail/location
-#     - file: detail/setup
-#   - file: schedule
-#     sections:
-#     - file: schedule_and_activities/bonus_points
-#     - file: schedule_and_activities/satellite
-#   - file: signup
-#   - file: contact
-#     sections:
-#       - file: social/photos
-#       - file: social/organizers
