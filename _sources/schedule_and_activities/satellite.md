@@ -1,7 +1,7 @@
 # Satellite passes
 
 ```{note}
-Updated 2023-06-03T12:43:31.749954.
+Updated 2023-06-10T11:44:58.834943.
 ```
 
 Here are some details for the satellites we're likely to work during Field Day. The information is taken primarily from [Clint K6LCS's website](https://www.work-sat.com/), with thanks. The frequencies in the tables below contain uplinks and downlinks, with Doppler shift taken into account for aquisition of signal (AOS) and loss of signal (LOS) times.
