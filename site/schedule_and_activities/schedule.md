@@ -3,7 +3,7 @@
 **All talks and tables will be held at the Event and Demo Tent, unless otherwise specified.**
 
 ```{note}
-We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities ([book a time to run a station here!](./signup)). We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](./detail/location).
+We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities ([book a time to run a station here!](../schedule_and_activities/signup)). We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](../detail/location).
 ```
 
 This schedule is tentative -- watch this space as we add more activities and talks!
@@ -53,7 +53,7 @@ This schedule is tentative -- watch this space as we add more activities and tal
 
 ```{glossary}
 Setup and Teardown
-  Putting together a Field Day operation with four transceivers, several antennas, and a handful of tents is no small task. The antenna masts are particularly involved in their setup, as we'll have seven 30+ foot masts to hold up three wire antennas. We'll be starting setup on Friday, and teardown around 14:00 on Sunday. If you're able to help out, please [let us know](./contact) !
+  Putting together a Field Day operation with four transceivers, several antennas, and a handful of tents is no small task. The antenna masts are particularly involved in their setup, as we'll have seven 30+ foot masts to hold up three wire antennas. We'll be starting setup on Friday, and teardown around 14:00 on Sunday. If you're able to help out, please [let us know](../schedule_and_activities/contact) !
 
 Meals
   Big thanks to our volunteer chefs ! Please [let us know](./contact) if you have any dietary restrictions.
