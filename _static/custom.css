@@ -51,6 +51,11 @@ html .tabbed-set>label {
   visibility: hidden;
 }
 
-a { 
+a {
   font-weight: bold;
+}
+
+.caption-text {
+  font-size: 1.2rem;
+  font-weight: 700;
 }
