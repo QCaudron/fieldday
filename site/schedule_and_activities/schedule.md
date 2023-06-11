@@ -3,7 +3,7 @@
 **All talks and tables will be held at the Event and Demo Tent, unless otherwise specified.**
 
 ```{note}
-We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities ([book a time to run a station here!](../schedule_and_activities/signup)). We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](../detail/location).
+We aim to start operating at or soon after 11:00 on Saturday. You are welcome to operate at any time -- but be sure you're around for some of our talks and activities ([book a time to run a station here!](../social/signup)). We operate all night, making as many contacts as possible. Stick around and remember you are welcome to [camp out in a tent or in a vehicle](../detail/location).
 ```
 
 This schedule is tentative -- watch this space as we add more activities and talks!
@@ -21,24 +21,26 @@ This schedule is tentative -- watch this space as we add more activities and tal
 
 ## Saturday, June 25th
 
-|       |                 |                                                                                                                          |
-| ----: | --------------: | :----------------------------------------------------------------------------------------------------------------------- |
-| 07:30 |       **Meals** | {term}`Breakfast<Meals>` for those who stayed the night.                                                                 |
-| 09:00 |         **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP.                                             |
-| 10:00 | **Educational** | {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 20:00. **(held at the Hubs table)** |
-| 11:00 |        **Site** | Operating starts ! Come make some contacts.                                                                              |
-| 11:00 | **Educational** | {term}`What is ham radio ?` with Brian KG7WRK.                                                                           |
-| 12:00 |         **Net** | {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                       |
-| 12:00 | **Educational** | {term}`SDRs` with Dan KB7RYY.
-| 12:30 |       **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.                                                     |
-| 13:00 | **Educational** | {term}`Going Remote - How we set up our Remote HF Station`, with Brooks K9BDC.                                           |
-| 14:00 | **Educational** | {term}`Build a code practice oscillator` with Mike K7MCK.                                                                |
-| 15:00 | **Educational** | {term}`Solar power`, with Matt KE7NOR.                                                                                   |
-| 16:00 | **Educational** | {term}`Emergency go-kits`, with Mei KI7TZA.                                                                              |
-| 17:00 | **Educational** | {term}`A field perspective on the medical kit` with John KI7IYP.                                                         |
-| 18:00 | **Educational** | {term}`An intro to Morse code`, with Quentin K7DRQ.                                                                      |
-| 18:00 |       **Meals** | {term}`Dinner<Meals>` : Vietnamese and Ezell's fried chicken.                                                            |
-| 21:00 |         **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
+|                |              |                                                                                                                          |
+| -------------: | -----------: | :----------------------------------------------------------------------------------------------------------------------- |
+|          07:30 |    **Meals** | {term}`Breakfast<Meals>` for those who stayed the night.                                                                 |
+|          09:00 |      **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP.                                             |
+| 10:00 to 16:00 | **Activity** | {term}`Swapmeet` with Kami KJ7RAB and Robert KJ7JXM. From 10:00 to 16:00. **(held at the Swapmeet area)**                |
+| 10:00 to 20:00 | **Activity** | {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 20:00. **(held at the Hubs table)** |
+|          11:00 |     **Site** | Operating starts ! Come make some contacts.                                                                              |
+|          11:00 |     **Talk** | {term}`What is ham radio ?` with Brian KG7WRK.                                                                           |
+|          12:00 |      **Net** | {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                       |
+|          12:00 |     **Talk** | {term}`SDRs` with Dan KB7RYY.                                                                                            |
+|          12:30 |    **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.                                                     |
+|          13:00 |     **Talk** | {term}`Going Remote - How we set up our Remote HF Station` with Brooks K9BDC.                                            |
+|          13:00 | **Activity** | {term}`Make a satellite contact` with Mike KB8BMY.                                                                       |
+|          14:00 | **Activity** | {term}`Build a code practice oscillator` with Mike K7MCK.                                                                |
+|          15:00 |     **Talk** | {term}`Solar power` with Matt KE7NOR.                                                                                    |
+|          16:00 |     **Talk** | {term}`Emergency go-kits` with Mei KI7TZA.                                                                               |
+|          17:00 |     **Talk** | {term}`A field perspective on the medical kit` with John KI7IYP.                                                         |
+|          18:00 | **Activity** | {term}`An intro to Morse code`, with Quentin K7DRQ.                                                                      |
+|          18:00 |    **Meals** | {term}`Dinner<Meals>` : Vietnamese and Ezell's fried chicken.                                                            |
+|          21:00 |      **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
 
 
 ## Sunday, June 26th
@@ -54,10 +56,10 @@ This schedule is tentative -- watch this space as we add more activities and tal
 
 ```{glossary}
 Setup and Teardown
-  Putting together a Field Day operation with four transceivers, several antennas, and a handful of tents is no small task. The antenna masts are particularly involved in their setup, as we'll have seven 30+ foot masts to hold up three wire antennas. We'll be starting setup on Friday, and teardown around 14:00 on Sunday. If you're able to help out, please [let us know](../schedule_and_activities/contact) !
+  Putting together a Field Day operation with four transceivers, several antennas, and a handful of tents is no small task. The antenna masts are particularly involved in their setup, as we'll have seven 30+ foot masts to hold up three wire antennas. We'll be starting setup on Friday, and teardown around 14:00 on Sunday. If you're able to help out, please [let us know](../social/contact) !
 
 Meals
-  Big thanks to our volunteer chefs ! Please [let us know](./contact) if you have any dietary restrictions.
+  Big thanks to our volunteer chefs ! Please [let us know](../social/contact) if you have any dietary restrictions.
 
 PSRG Nets
   Field Day is a full Rain or Shine Net weekend ! The PSRG runs three social nets per day, every day of the year. For Field Day, all of our social nets will be running on emergency power on-site. We will have a station set up nearby which Field Day attendees can check into the nets. Come on by and watch our net hosts at work. All amateur operators and their third-party traffic welcome.
@@ -88,4 +90,10 @@ SDRs
 
 Build a code practice oscillator
   Abstract to come.
+
+Swapmeet
+  From 10:00 to 16:00 on Saturday, we'll have a swapmeet area set up for you to sell your old gear and buy some new toys. We'll have table space and someone to watch over things -- bring whatever you'd like to sell and have a price in mind. If you're buying, please bring cash. Contact Kami KJ7RAB or Robert KJ7JXM if you have any questions.
+
+Make a satellite contact
+  We'll be making a contact over amateur radio repeaters in space ! Mike will talk you through the process of making a contact with the International Space Station, and then we'll try to make a contact with the ISS ourselves.
 ```
