@@ -1,4 +1,4 @@
-# Field Day 2023
+# Seattle Radio Field Day 2023
 
 As in previous years, three Seattle-area amateur radio clubs are joining forces for a joint Field Day in 2023! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), and [Seattle Auxiliary Communications Service](https://www.seattleacs.org/) on **June 24th and 25th, 2023**.
 

@@ -1,10 +1,10 @@
-# Our Field Day Setup
+# Our Setup
 
 ```{important}
 We are finalizing our station setup, particularly our antennas; this information may change.
 ```
 
-Generally, all of our stations will be run by two people -- one person making the contacts, and one to help them log those contacts. Feel free to listen in and take a turn running either position! You can also [book an hour on a station](../signup) if you'd like to make sure you get a chance to operate a particular station.
+Generally, all of our stations will be run by two people -- one person making the contacts, and one to help them log those contacts. Feel free to listen in and take a turn running either position! You can also [book an hour on a station](../social/signup) if you'd like to make sure you get a chance to operate a particular station.
 
 ## Stations
 

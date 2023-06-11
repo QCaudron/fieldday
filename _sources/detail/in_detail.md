@@ -1,4 +1,4 @@
-# Field Day in Detail
+# Our Field Day in Detail
 
 The largest amateur radio event in the US, Field Day is projected to involve over 35,000 people this year. It's a casual, fun event of learning, socializing, and radio. Everyone is welcome and encouraged to get on the air, including those without an amateur radio license.
 
