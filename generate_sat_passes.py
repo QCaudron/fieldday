@@ -23,7 +23,9 @@ SATELLITE_IDS = {
     "SO-50": 27607,
     "AO-91": 43017,
     "PO-101": 43678,
-    "AO-27": 22825
+    "TEVEL-3": 50988,
+    "TEVEL-4": 51063,
+    "TEVEL-5": 50998
 }
 
 # Columns for the output table
