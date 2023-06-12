@@ -95,5 +95,5 @@ Swapmeet
   From 10:00 to 16:00 on Saturday, we'll have a swapmeet area set up for you to sell your old gear and buy some new toys. We'll have table space and someone to watch over things -- bring whatever you'd like to sell and have a price in mind. If you're buying, please bring cash. Contact Kami KJ7RAB or Robert KJ7JXM if you have any questions.
 
 Make a satellite contact
-  We'll be making a contact over amateur radio repeaters in space ! Mike will talk you through the process of making a contact with the International Space Station, and then we'll try to make a contact with the ISS ourselves.
+ We'll be making a contact over amateur radio satellites in space and discussing various amateur radio satellites, including the ham radio equipment on board the International Space Station. We'll also give an overview of how to put together a simple and cost effective satellite station that you can put together with easy to get items and many items you may already have at home. 
 ```
