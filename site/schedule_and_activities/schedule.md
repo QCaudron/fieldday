@@ -86,7 +86,7 @@ Going Remote - How we set up our Remote HF Station
   The PSRG Remote HF Station is up and running and ready for Members to use. Join us to learn about the station, how we went about getting it set up, and how to request access to start using it.
 
 SDRs
-  Abstract to come.
+  Tour the local radio spectrum using Software Defined Radio, with several different examples of hardware and software. The focus will be on application and use. The uses of the different parts of the spectrum from longwave to microwave will be discussed, with special attention to the amateur radio bands. With all the radio traffic at the site, we may be testing, demonstrating, and using some of the RF filters that stations at the site will be using.
 
 Build a code practice oscillator
   Abstract to come.
