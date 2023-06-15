@@ -28,6 +28,7 @@ This schedule is tentative -- watch this space as we add more activities and tal
 | 10:00 to 16:00 | **Activity** | {term}`Swapmeet` with Kami KJ7RAB and Robert KJ7JXM. From 10:00 to 16:00. **(held at the Swapmeet area)**                |
 | 10:00 to 20:00 | **Activity** | {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 20:00. **(held at the Hubs table)** |
 |          11:00 |     **Site** | Operating starts ! Come make some contacts.                                                                              |
+|          11:00 |      **Net** | {term}`LWHC Health and Wellness Net` with John W7JSM.                                                                    |
 |          11:00 |     **Talk** | {term}`What is ham radio ?` with Brian KG7WRK.                                                                           |
 |          12:00 |      **Net** | {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                       |
 |          12:00 |     **Talk** | {term}`SDRs` with Dan KB7RYY.                                                                                            |
@@ -35,7 +36,7 @@ This schedule is tentative -- watch this space as we add more activities and tal
 |          13:00 |     **Talk** | {term}`Going Remote - How we set up our Remote HF Station` with Brooks K9BDC.                                            |
 |          13:00 | **Activity** | {term}`Make a satellite contact` with Mike KB8BMY.                                                                       |
 |          14:00 | **Activity** | {term}`Build a code practice oscillator` with Mike K7MCK.                                                                |
-|          15:00 |     **Talk** | {term}`Solar power` with Matt KE7NOR.                                                                                    |
+|          15:00 |     **Talk** | {term}`Flashlights and headlamps<Lighting the Way: Selecting the perfect flashlight and headlamp>` with Matt KE7NOR.     |
 |          16:00 |     **Talk** | {term}`Emergency go-kits` with Mei KI7TZA.                                                                               |
 |          17:00 |     **Talk** | {term}`A field perspective on the medical kit` with John KI7IYP.                                                         |
 |          18:00 | **Activity** | {term}`An intro to Morse code`, with Quentin K7DRQ.                                                                      |
@@ -64,6 +65,9 @@ Meals
 PSRG Nets
   Field Day is a full Rain or Shine Net weekend ! The PSRG runs three social nets per day, every day of the year. For Field Day, all of our social nets will be running on emergency power on-site. We will have a station set up nearby which Field Day attendees can check into the nets. Come on by and watch our net hosts at work. All amateur operators and their third-party traffic welcome.
 
+LWHC Health and Wellness Net
+  The [Lake Washington Ham Club](http://www.lakewashingtonhamclub.org/) runs a daily net to provide a check-in for their members and any licensed amateur operator. The net is operated from the their [Rose Hill repeater system](https://lakewashingtonhamclub.org/repeaters/).
+
 Getting started with Winlink
   [Winlink](https://winlink.org/) is essentially email over radio. A network of gateways allow the distribution of emails using radio pathways where internet is unavailable. Join Bill N6NBN at the Seattle Emergency Hubs table for a demonstration of how to use Winlink, any time from 10:00 to 14:00 on Saturday.
 
@@ -79,8 +83,8 @@ What is ham radio ?
 A field perspective on the medical kit
   This will be an overview of various approaches to medical kits from a field perspective. We will have a brief survey of the logic and illogic of medical kits, what you want, what you need, why you should almost never buy a pre-made kit. The session will be interactive and folks are welcome to bring their own kits for a post lecture "lab".
 
-Solar power
-  Abstract to come.
+Lighting the way: selecting the perfect flashlight and headlamp
+  Discover a range of options, from versatile handheld lights to specialized headlamps, equipping you to make informed decisions for optimal illumination in any situation.
 
 Going Remote - How we set up our Remote HF Station
   The PSRG Remote HF Station is up and running and ready for Members to use. Join us to learn about the station, how we went about getting it set up, and how to request access to start using it.
@@ -89,7 +93,7 @@ SDRs
   Tour the local radio spectrum using Software Defined Radio, with several different examples of hardware and software. The focus will be on application and use. The uses of the different parts of the spectrum from longwave to microwave will be discussed, with special attention to the amateur radio bands. With all the radio traffic at the site, we may be testing, demonstrating, and using some of the RF filters that stations at the site will be using.
 
 Build a code practice oscillator
-  Abstract to come.
+  The 555 timer IC is one of the most popular and widely used integrated circuits in electronics. In its astable mode, the 555 turns into an oscillator and, with a small amount of additional circuitry, can be used to drive a speaker or headphones to practice Morse code. We'll be building a simple code practice oscillator that you can take home with you.
 
 Swapmeet
   From 10:00 to 16:00 on Saturday, we'll have a swapmeet area set up for you to sell your old gear and buy some new toys. We'll have table space and someone to watch over things -- bring whatever you'd like to sell and have a price in mind. If you're buying, please bring cash. Contact Kami KJ7RAB or Robert KJ7JXM if you have any questions.
