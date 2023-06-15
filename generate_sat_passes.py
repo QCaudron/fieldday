@@ -9,7 +9,7 @@ import requests
 latitude = 47.549952
 longitude = -122.354088
 altitude = 93  # https://www.freemaptools.com/elevation-finder.htm
-min_elevation = 30
+min_elevation = 35
 start_date = "2023-06-23"
 end_date = "2023-06-26"
 
