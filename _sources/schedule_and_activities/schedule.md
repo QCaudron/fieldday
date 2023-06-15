@@ -9,7 +9,7 @@ We aim to start operating at or soon after 11:00 on Saturday. You are welcome to
 This schedule is tentative -- watch this space as we add more activities and talks!
 
 
-## Friday, June 24th
+## Friday, June 23rd
 
 |       |           |                                                                                                              |
 | ----: | --------: | :----------------------------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ This schedule is tentative -- watch this space as we add more activities and tal
 | 18:00 | **Meals** | {term}`Dinner<Meals>` : Pizza and salad.                                                                     |
 
 
-## Saturday, June 25th
+## Saturday, June 24th
 
 |                |              |                                                                                                                          |
 | -------------: | -----------: | :----------------------------------------------------------------------------------------------------------------------- |
@@ -43,7 +43,7 @@ This schedule is tentative -- watch this space as we add more activities and tal
 |          21:00 |      **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
 
 
-## Sunday, June 26th
+## Sunday, June 25th
 
 |       |           |                                                                                 |
 | ----: | --------: | :------------------------------------------------------------------------------ |
