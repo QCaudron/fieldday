@@ -28,9 +28,9 @@ This schedule is tentative -- watch this space as we add more activities and tal
 |          10:00 |     **Talk** | {term}`SDRs` with Dan KB7RYY.                                                                                            |
 | 10:00 to 16:00 | **Activity** | {term}`Swapmeet` with Kami KJ7RAB and Robert KJ7JXM. From 10:00 to 16:00. **(held at the Swapmeet area)**                |
 | 10:00 to 20:00 | **Activity** | {term}`Getting started with Winlink` with Bill N6NBN. Drop in any time from 10:00 to 20:00. **(held at the Hubs table)** |
+|          10:30 | **Activity** | {term}`Make a satellite contact` with Mike KB8BMY : targeting the ISS and TEVEL-4.                                       |
 |          11:00 |     **Site** | Operating starts ! Come make some contacts.                                                                              |
 |          11:00 |      **Net** | {term}`LWHC Health and Wellness Net` with John W7JSM.                                                                    |
-|          11:00 | **Activity** | {term}`Make a satellite contact` with Mike KB8BMY : targeting TEVEL-4.                                                   |
 |          12:00 |      **Net** | {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                       |
 |          12:00 |     **Talk** | {term}`What is ham radio ?` with Brian KG7WRK.                                                                           |
 |          12:30 |    **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.                                                     |
@@ -41,7 +41,6 @@ This schedule is tentative -- watch this space as we add more activities and tal
 |          17:00 |     **Talk** | {term}`Flashlights and headlamps<Lighting the Way: Selecting the perfect flashlight and headlamp>` with Matt KE7NOR.     |
 |          18:00 |    **Meals** | {term}`Dinner<Meals>` : Vietnamese and Ezell's fried chicken.                                                            |
 |          21:00 |      **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
-
 
 
 ## Sunday, June 25th
