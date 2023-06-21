@@ -31,6 +31,7 @@ This schedule is tentative -- watch this space as we add more activities and tal
 |          10:30 | **Activity** | {term}`Make a satellite contact` with Mike KB8BMY : targeting the ISS and TEVEL-4.                                       |
 |          11:00 |     **Site** | Operating starts ! Come make some contacts.                                                                              |
 |          11:00 |      **Net** | {term}`LWHC Health and Wellness Net` with John W7JSM.                                                                    |
+|          11:00 |     **Talk** | {term}`An introduction to Seattle Auxiliary Communications Service` with Tim WT1IM.                                      |
 |          12:00 |      **Net** | {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                       |
 |          12:00 |     **Talk** | {term}`What is ham radio ?` with Brian KG7WRK.                                                                           |
 |          12:30 |    **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.                                                     |
@@ -99,4 +100,7 @@ Swapmeet
 
 Make a satellite contact
  We'll be making a contact over amateur radio satellites in space and discussing various amateur radio satellites, including the ham radio equipment on board the International Space Station. We'll also give an overview of how to put together a simple and cost effective satellite station that you can put together with easy to get items and many items you may already have at home. 
+
+An introduction to Seattle Auxiliary Communications Service
+  Emergency communications and resilience is a central theme of Field Day, and amateur radio can play a key role in helping to maintain the safety of the community. Although many groups and individuals are active members of the area's em-comm scene, the [Seattle ACS](https://www.seattleacs.org/) provides emergency communications services to the community and works officially with the city. Director of Seattle ACS, Tim WT1IM, will present an overview of the service in the normal activity area. He'll discuss how the organization works, and how the City of Seattle can leverage amateur radio volunteers to help with emergency response.
 ```
