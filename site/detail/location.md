@@ -21,4 +21,4 @@ We will have a hand-washing station and ADA-compliant portapotties. Meals will b
 
 ## On-site communications
 
-We'll use **146.460 MHz FM simplex** for local comms. Bring an HT and join in the local chat.
+We'll use **147.520 MHz FM simplex** (ACS-V26) for local comms. Bring an HT and join in the local chat.
