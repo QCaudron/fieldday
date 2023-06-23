@@ -39,8 +39,9 @@ This schedule is tentative -- watch this space as we add more activities and tal
 |          14:00 | **Activity** | {term}`Build a code practice oscillator` with Mike K7MCK.                                                                |
 |          15:00 |     **Talk** | {term}`Emergency go-kits` with Mei KI7TZA.                                                                               |
 |          16:00 |     **Talk** | {term}`A field perspective on the medical kit` with John KI7IYP.                                                         |
-|          17:00 |     **Talk** | {term}`Flashlights and headlamps<Lighting the Way: Selecting the perfect flashlight and headlamp>` with Matt KE7NOR.     |
-|          18:00 |    **Meals** | {term}`Dinner<Meals>` : Vietnamese and Ezell's fried chicken.                                                            |
+|          17:00 |     **Talk** | {term}`Water purification` with Owen.                                                                                    |
+|          18:00 |     **Talk** | {term}`Flashlights and headlamps<Lighting the Way: Selecting the perfect flashlight and headlamp>` with Matt KE7NOR.     |
+|          18:30 |    **Meals** | {term}`Dinner<Meals>` : Vietnamese and Ezell's fried chicken.                                                            |
 |          21:00 |      **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
 
 
@@ -103,4 +104,7 @@ Make a satellite contact
 
 An introduction to Seattle Auxiliary Communications Service
   Emergency communications and resilience is a central theme of Field Day, and amateur radio can play a key role in helping to maintain the safety of the community. Although many groups and individuals are active members of the area's em-comm scene, the [Seattle ACS](https://www.seattleacs.org/) provides emergency communications services to the community and works officially with the city. Director of Seattle ACS, Tim WT1IM, will present an overview of the service in the normal activity area. He'll discuss how the organization works, and how the City of Seattle can leverage amateur radio volunteers to help with emergency response.
+
+Water purification
+  Abstract to come.
 ```
