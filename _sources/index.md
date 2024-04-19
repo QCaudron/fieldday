@@ -1,5 +1,10 @@
 # Seattle Radio Field Day {{ year }}
 
+```{admonition} Join us !
+:class: tip
+We'd love to have you join us for Field Day. Just {{ let_us_know }} what you're interested in, and we'll make sure you have a great time.
+```
+
 Four Seattle-area amateur radio clubs are joining forces for a joint Field Day in {{ year }}! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), the [Seattle Auxiliary Communications Service](https://www.seattleacs.org/), and [Cascadia Radio](https://www.cascadiaradio.org/) on **June 22nd and 23rd, 2024**.
 
 ::::{grid}
