@@ -49,6 +49,16 @@ Our antennas were all set up before sunset.
 
 :::{grid-item-card} 
 :columns: 4
+```{image} https://live.staticflickr.com/65535/53440436102_2dffe04956_b.jpg
+:width: 100%
+:align: center
+```
++++
+Our beams for 2m, 70cm, and 220 MHz.
+:::
+
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://live.staticflickr.com/65535/53440436342_0c3c906c89_b.jpg
 :width: 100%
 :align: center
@@ -84,7 +94,17 @@ The antenna crew, attaching dipoles to the masts.
 :align: center
 ```
 +++
-The CW station.
+The CW station with [Tim, WT1IM](https://qrz.com/db/WT1IM) and [Quentin, K7DRQ](https://qrz.com/db/K7DRQ).
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/53441362566_44817d85f9_b.jpg
+:width: 100%
+:align: center
+```
++++
+Aerial view by [Matt, KE7NOR](https://qrz.com/db/KE7NOR).
 :::
 
 :::{grid-item-card} 
@@ -94,7 +114,7 @@ The CW station.
 :align: center
 ```
 +++
-[Mike, K7MCK](https://qrz.com/db/K7MCK) ran a workshop to build code practice oscillators.
+[Mike, K7MCK](https://qrz.com/db/K7MCK)'s workshop for building code practice oscillators.
 :::
 
 :::{grid-item-card} 
