@@ -15,6 +15,7 @@ As we approach Field Day, we're getting busy chatting about the event.
 - The PSRG is [@WW7PSR](https://twitter.com/ww7psr)
 - West Seattle ARC is [@WestSeattleARC](https://twitter.com/westseattlearc)
 - Seattle ACS is [@SeattleACS](https://twitter.com/SeattleACS)
+- Cascadia Radio is 
 
 ## Facebook
 

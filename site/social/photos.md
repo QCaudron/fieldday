@@ -19,12 +19,12 @@ Our antennas were all set up before sunset.
 
 :::{grid-item-card} 
 :columns: 4
-```{image} https://i.imgur.com/2tL7YGP.jpeg
+```{image} https://live.staticflickr.com/65535/53441363086_15cf01f0e4_z.jpg
 :width: 100%
 :align: center
 ```
 +++
-Operating the digital station.
+[Ben, WY2K](https://qrz.com/db/WY2K) operating FT8.
 :::
 
 :::{grid-item-card} 
@@ -39,12 +39,42 @@ Operating the digital station.
 
 :::{grid-item-card} 
 :columns: 4
+```{image} https://live.staticflickr.com/65535/53441362841_b3784f4d24_b.jpg
+:width: 100%
+:align: center
+```
++++
+[Reed, KR7EED](https://qrz.com/db/KR7EED) operating the voice station.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/53440436342_0c3c906c89_b.jpg
+:width: 100%
+:align: center
+```
++++
+[John, KI7IYP](https://qrz.com/db/KI7IYP) presenting on field med kits.
+:::
+
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://i.imgur.com/VFAArhW.jpeg
 :width: 100%
 :align: center
 ```
 +++
 The antenna crew, attaching dipoles to the masts.
+:::
+
+:::{grid-item-card} 
+:columns: 4
+```{image} https://live.staticflickr.com/65535/53441362551_3fcdbf1924_b.jpg
+:width: 100%
+:align: center
+```
++++
+[Mei, KI7TZA](https://qrz.com/db/KI7TZA) presenting on go-kits.
 :::
 
 :::{grid-item-card} 
@@ -59,6 +89,16 @@ The CW station.
 
 :::{grid-item-card} 
 :columns: 4
+```{image} https://live.staticflickr.com/65535/53441773210_e166b8c986_b.jpg
+:width: 100%
+:align: center
+```
++++
+[Mike, K7MCK](https://qrz.com/db/K7MCK) ran a workshop to build code practice oscillators.
+:::
+
+:::{grid-item-card} 
+:columns: 4
 ```{image} https://i.imgur.com/P8mE36j.jpeg
 :width: 100%
 :align: center
@@ -69,7 +109,7 @@ The CW station.
 
 :::{grid-item-card} 
 :columns: 4
-```{image} https://i.imgur.com/ZL2tu9f.jpeg
+```{image} //live.staticflickr.com/65535/53441680314_85acca90fc_b.jpg
 :width: 100%
 :align: center
 ```
