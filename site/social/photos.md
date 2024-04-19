@@ -2,7 +2,7 @@
 
 ## Field Day 2023
 
-Photos courtesy of [Jack, KI7RMU](https://qrz.com/db/KI7RMU)!
+Photos courtesy of [Matt, KE7NOR](https://qrz.com/db/KI7RMU) and [Jack, KI7RMU](https://qrz.com/db/KI7RMU)!
 
 ::::{grid}
 :gutter: 3
