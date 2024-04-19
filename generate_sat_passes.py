@@ -10,8 +10,8 @@ latitude = 47.549952
 longitude = -122.354088
 altitude = 93  # https://www.freemaptools.com/elevation-finder.htm
 min_elevation = 30
-start_date = "2023-06-23"
-end_date = "2023-06-26"
+start_date = "2023-06-21"
+end_date = "2023-06-24"
 
 # N2YO API details
 BASE_URL = "https://api.n2yo.com/rest/v1/satellite/radiopasses"
@@ -25,7 +25,7 @@ SATELLITE_IDS = {
     "TEVEL-3": 50988,
     "TEVEL-4": 51063,
     "TEVEL-5": 50998,
-    # "PO-101": 43678,
+    "PO-101": 43678,
 }
 
 # Columns for the output table
