@@ -1,23 +1,16 @@
 # Join our Field Day
 
-This year, you can reserve a slot operating any of our stations. Simply grab a time using the forms below, and we'll see you there!
+We'd love to have you join us for Field Day. Just {{ let_us_know }} if you're coming, and we'll make sure you have a great time.
 
 
 ## Running a station
 
-If you're a licensed operator, you can sign up to run any of our stations. We'll have a station manager on-site to help you get set up and answer any questions you might have. Unlicensed operators are welcome to join in on the GOTA station.
-
-<ul>
-    <li><a href="https://seattleradio-voice.youcanbook.me" target="_blank">Phone / Voice HF station</a>
-    <li><a href="https://seattleradio-cw-digital.youcanbook.me" target="_blank">CW / Digital HF station</a>
-    <li><a href="https://seattleradio-vhf-uhf.youcanbook.me" target="_blank">VHF / UHF station</a>
-    <li><a href="https://seattleradio-gota.youcanbook.me" target="_blank">Get On The Air (GOTA) station</a>
-</ul>
+If you're a licensed operator, you can sign up to run any of our stations. We'll have a station manager on site to help you get set up and answer any questions you might have. Unlicensed operators are welcome to join in on the GOTA station.
 
 
 ## Organization and help
 
-If you'd like to help out with the organization of the event, we'd love your help. We need folk to help with setup, teardown, cooking, security, and general organization. If you'd like to help out, please [let us know here](https://forms.gle/bP5pKXehXZdFwPb68).
+We'd love your help with the organization of the event. We need folk to help with setup, teardown, cooking, security, and general organization. If you'd like to help out, please take a minute on {{ our_short_survey }}.
 
 
 ## Questions ?

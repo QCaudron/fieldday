@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title: Field Day 2024 # The title of the book. Will be placed in the left navbar.
+title: Field Day 2023 # The title of the book. Will be placed in the left navbar.
 author: Quentin K7DRQ # The author of the book
 copyright: "2022 - 2023" # Copyright year to be placed in the footer
-logo: "http://www.arrl.org/img/333x220/exact/Field%20Day%20Web%20Logo%20333x220_1.png" # A path to the book logo
+logo: "http://www.arrl.org/img/333x220/exact/Contests/2023_ARRL_Field_Day_logo_333_x_220.jpg" # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 # Auto-exclude files not in the toc
@@ -44,11 +44,6 @@ parse:
     - tasklist
   myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
   myst_dmath_double_inline: true # Allow display math ($$) within an inline context
-  myst_substitutions:
-    let_us_know: "[let us know](https://docs.google.com/forms/d/e/1FAIpQLSeTWPY0lsFTkEZVIY_X1bgXjsas6qt7tFjwGLbFd8fbg7H_ng/viewform?usp=sf_link)"
-    our_short_survey: "[our short survey](https://docs.google.com/forms/d/e/1FAIpQLSeTWPY0lsFTkEZVIY_X1bgXjsas6qt7tFjwGLbFd8fbg7H_ng/viewform?usp=sf_link)"
-    year: "2024"  # remember to change title under Book Settings (top line in this file)
-    dates: "June 22nd and 23rd, 2024"
 
 #######################################################################################
 # HTML-specific settings
