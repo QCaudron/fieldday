@@ -109,7 +109,7 @@ The CW station.
 
 :::{grid-item-card} 
 :columns: 4
-```{image} //live.staticflickr.com/65535/53441680314_85acca90fc_b.jpg
+```{image} https://live.staticflickr.com/65535/53441680314_85acca90fc_b.jpg
 :width: 100%
 :align: center
 ```

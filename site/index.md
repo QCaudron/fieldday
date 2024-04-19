@@ -18,7 +18,7 @@ Four Seattle-area amateur radio clubs are joining forces for a joint Field Day i
 :::
 
 :::{grid-item-card} 
-[![CR](https://www.cascadiaradio.org/images/logo/cr-logotype-full-black.svg)](https://www.cascadiaradio.org)
+<a href="https://www.cascadiaradio.org/"><img src="assets/images/cr_logo.png" width="100%" class="align-self-center" /></a>
 :::
 ::::
 

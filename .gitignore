@@ -1,7 +1,7 @@
 n2yo_api_key
 fieldday_rsa*
-site/_build/html*
-site/_build/.doctrees*
+site/_build*
+site/_build/html/.buildinfo
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
