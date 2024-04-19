@@ -4,19 +4,62 @@
 Reach out to Quentin, K7DRQ at [k7drq@psrg.org](mailto:k7drq@psrg.org) or on the [Cascadia Radio Discord](https://discord.gg/wG5WHHZdA2).
 ```
 
-## Join us on Discord
 
-As we approach Field Day, we're getting busy chatting about the event.
+## Puget Sound Repeater Group
 
-[Cascadia Radio](https://discord.gg/wG5WHHZdA2) is a great place to ask questions, get help, and chat with other hams. Join us in the `#field_day` channel as we ramp up and get excited for meeting in-person at the Field Day site.
+<div style="display: flex; align-items: center;">
+  <i class="fa-solid fa-link" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://www.psrg.org/">Website</a></span>
+</div>
 
-## Twitter
+<div style="display: flex; align-items: center;">
+  <i class="fa-brands fa-facebook" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://www.facebook.com/groups/ww7psr/">Facebook</a></span>
+</div>
 
-- The PSRG is [@WW7PSR](https://twitter.com/ww7psr)
-- West Seattle ARC is [@WestSeattleARC](https://twitter.com/westseattlearc)
-- Seattle ACS is [@SeattleACS](https://twitter.com/SeattleACS)
+<div style="display: flex; align-items: center;">
+  <i class="fa-brands fa-discord" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://discord.gg/CdDmpybC72">Discord</a></span>
+</div>
 
-## Facebook
+<div style="display: flex; align-items: center;">
+  <i class="fa-brands fa-x-twitter" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://twitter.com/ww7psr">Twitter</a></span>
+</div>
 
-- The PSRG's lively [Discussion Group](https://www.facebook.com/groups/ww7psr/)
-- West Seattle ARC's [Facebook page](https://www.facebook.com/westseattlearc/)
+
+
+## West Seattle Amateur Radio Club
+
+<div style="display: flex; align-items: center;">
+  <i class="fa-solid fa-link" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://www.facebook.com/westseattlearc/">Website</a></span>
+</div>
+
+
+
+## Seattle Auxiliary Communications Service
+
+<div style="display: flex; align-items: center;">
+  <i class="fa-solid fa-link" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://www.seattleacs.org/">Website</a></span>
+</div>
+
+
+
+## Cascadia Radio
+
+<div style="display: flex; align-items: center;">
+  <i class="fa-solid fa-link" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://www.cascadiaradio.org/">Website</a></span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <i class="fa-brands fa-discord" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://discord.gg/wG5WHHZdA2">Discord</a></span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <i class="fa-brands fa-mastodon" style="height: 1.5rem; padding: 0.2rem"></i>
+  <span style="margin-left: 0.5rem;"><a href="https://mastodon.radio/@cascadiaradio">Mastodon</a></span>
+</div>
