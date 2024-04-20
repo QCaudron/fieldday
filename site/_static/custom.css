@@ -27,14 +27,6 @@ html .tabbed-set>label {
   margin-bottom: -1rem;
 }
 
-.article-header-buttons {
-  visibility: hidden;
-}
-
-.header-article-item {
-  visibility: hidden;
-}
-
 :root[data-color-mode="dark"] {}
 
 .book-color-mode-toggle {}
@@ -45,10 +37,6 @@ html .tabbed-set>label {
 
 .bd-sidebar {
   overflow: hidden;
-}
-
-.bd-header-article {
-  visibility: hidden;
 }
 
 a {
