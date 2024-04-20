@@ -62,4 +62,7 @@ a {
 
 .spotlight-image {
   margin: 0.5rem;
+  width: 240px;
+  height: 160px;
+  overflow: hidden;
 }
