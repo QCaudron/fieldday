@@ -4,7 +4,7 @@ help:
 
 
 .PHONY: build
-build:  ## Build the Jupyterbook
+build:  ## Build the Jupyterbook locally
 	jupyter-book build site/
 
 .PHONY: clean

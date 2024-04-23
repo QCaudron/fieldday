@@ -36,15 +36,15 @@ Four Seattle-area amateur radio clubs are joining forces for a joint Field Day i
 For more information about what our Field Day is like, check out our [Field Day in Detail](./detail/in_detail) page.
 ```
 
-## Who?
+## Who
 
 All are welcome! Amateur radio operators, as well as those without their radio licenses, are welcome to join in any of our activities. Get on the air on our voice, digital, or CW stations; set up antennas; attend talks and participate in activities; or just join us for a meal and to talk radio.
 
-## Where?
+## Where
 
 This year, we will be at the [north field of South Seattle College](./detail/location). You're welcome to stay the night!
 
-## What?
+## What
 
 We will be [running several transceivers](./detail/setup), so you can experience SSB (single sideband voice), CW (Morse code), or digital modes on HF. We'll also have SSB and FM available on VHF and UHF. Our Get On the Air (GOTA) station is ready to help those without licenses get on the air and experience the HF bands.
 
