@@ -10,3 +10,7 @@ build:  ## Build the Jupyterbook
 .PHONY: clean
 clean:  ## Remove build files
 	jupyter-book clean site/
+
+.PHONY: satellites
+satellites:  ## Update the satellite pass page with the latest data
+	python generate_sat_passes.py
