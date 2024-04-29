@@ -24,4 +24,4 @@ Join us for an engaging educational session at this year's Seattle Radio Field D
 
 Please submit your proposals early to ensure your spot. This is a fantastic opportunity to engage with fellow enthusiasts and impart valuable knowledge. We look forward to your contributions and an exciting educational lineup!
 
-For more information or to submit your proposal, please [contact Matt Blank]().
+[Submit here](https://sessionize.com/seattle-radio-field-day-2024/)
