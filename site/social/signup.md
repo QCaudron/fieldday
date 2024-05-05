@@ -15,4 +15,4 @@ We'd love your help with the organization of the event. We need folk to help wit
 
 ## Questions ?
 
-If you have any questions, please <a href="mailto:k7drq@psrg.org">get in touch</a> with [K7DRQ](https://qrz.com/db/K7DRQ).
+If you have any questions, please get in touch with us at [fieldday@psrg.org](mailto:fieldday@psrg.org).

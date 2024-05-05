@@ -13,3 +13,5 @@ These are our core organizers.
 - [Mei, KI7TZA](https://qrz.com/db/KI7TZA) -- WSARC
 - [Quentin, K7DRQ](https://qrz.com/db/K7DRQ) -- PSRG
 - [Tim, WT1IM](https://qrz.com/db/WT1IM) -- Seattle ACS
+
+For any questions, email us at [fieldday@psrg.org](mailto:fieldday@psrg.org).
