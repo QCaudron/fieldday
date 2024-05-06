@@ -11,6 +11,7 @@ parts:
       - file: schedule_and_activities/schedule
       - file: schedule_and_activities/bonus_points
       - file: schedule_and_activities/satellite
+      - file: schedule_and_activities/speakers
   - caption: PARTICIPATE
     chapters:
       - file: social/signup
