@@ -1,7 +1,7 @@
 # Contact and Social
 
 ```{admonition} Questions?
-Reach out to Quentin, K7DRQ at [k7drq@psrg.org](mailto:k7drq@psrg.org) or on the [Cascadia Radio Discord](https://discord.gg/wG5WHHZdA2).
+Reach out to us at [fieldday@psrg.org](mailto:fieldday@psrg.org) or on the [Cascadia Radio Discord](https://discord.gg/wG5WHHZdA2).
 ```
 
 
