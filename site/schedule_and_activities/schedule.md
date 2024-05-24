@@ -5,7 +5,7 @@ Our educational program is being put together by Matt KE7NOR. Watch this space! 
 ```
 
 
-## Friday, June 23rd
+## Friday, June 22nd
 
 |       |           |                                                                                                              |
 | ----: | --------: | :----------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@ Our educational program is being put together by Matt KE7NOR. Watch this space! 
 | 18:00 | **Meals** | {term}`Dinner<Meals>` : Pizza and salad.                                                                     |
 
 
-## Saturday, June 24th
+## Saturday, June 23rd
 
 |                |              |                                                                                                                          |
 | -------------: | -----------: | :----------------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@ Our educational program is being put together by Matt KE7NOR. Watch this space! 
 |          21:00 |      **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
 
 
-## Sunday, June 25th
+## Sunday, June 24th
 
 |       |           |                                                                                 |
 | ----: | --------: | :------------------------------------------------------------------------------ |
