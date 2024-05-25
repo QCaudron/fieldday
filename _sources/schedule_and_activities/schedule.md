@@ -5,36 +5,37 @@ Our educational program is being put together by Matt KE7NOR. Watch this space! 
 ```
 
 
-## Friday, June 22nd
+## Friday, June 21st
 
 |       |           |                                                                                                              |
 | ----: | --------: | :----------------------------------------------------------------------------------------------------------- |
 | 10:00 |  **Site** | {term}`Field Day setup starts<Setup and Teardown>`. Masts and antennas, transceivers, tents, and generators. |
-| 12:00 |   **Net** | {term}`The Noon Net<PSRG Nets>` with Jack KI7RMU.                                                            |
 | 12:30 | **Meals** | {term}`Lunch<Meals>` for those setting up, sponsored by Dick's Drive-In.                                     |
 | 18:00 | **Meals** | {term}`Dinner<Meals>` : Pizza and salad.                                                                     |
+| 21:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Rebecca KK7IJZ.                                                 |
 
 
-## Saturday, June 23rd
+## Saturday, June 22nd
 
-|                |              |                                                                                                                          |
-| -------------: | -----------: | :----------------------------------------------------------------------------------------------------------------------- |
-|          07:30 |    **Meals** | {term}`Breakfast<Meals>` for those who stayed the night.                                                                 |
-|          09:00 |      **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP.                                             |
-|          11:00 |     **Site** | Operating starts ! Come make some contacts.                                                                              |
-|          12:00 |      **Net** | {term}`The Noon Net<PSRG Nets>` with Jason KJ7GLB.                                                                       |
-|          12:30 |    **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.                                                     |
-|          18:30 |    **Meals** | {term}`Dinner<Meals>` : TBD !                                                            |
-|          21:00 |      **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Brooks K9BDC.                                                           |
+|       |           |                                                                              |
+| ----: | --------: | :--------------------------------------------------------------------------- |
+| 07:30 | **Meals** | {term}`Breakfast<Meals>` for those who stayed the night.                     |
+| 09:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Theresa KG7AII and Dana KG7CGP. |
+| 11:00 |  **Site** | Operating starts ! Come make some contacts.                                  |
+| 12:00 |   **Net** | {term}`The Noon Net<PSRG Nets>` with Kirk AG7YM.                             |
+| 12:30 | **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.         |
+| 18:30 | **Meals** | {term}`Dinner<Meals>` : TBD !                                                |
+| 21:00 |   **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Rich WB7J & Bill K7WFB.     |
 
 
-## Sunday, June 24th
+## Sunday, June 23rd
 
 |       |           |                                                                                 |
 | ----: | --------: | :------------------------------------------------------------------------------ |
 | 07:30 | **Meals** | {term}`Breakfast<Meals>` of donuts, bagels, and coffee. Maybe eggs and bacon ?! |
 | 09:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Jack KI7RMU and Quentin K7DRQ.     |
 | 11:00 |  **Site** | {term}`Tear-down begins<Setup and Teardown>`. That's a wrap !                   |
+| 12:00 |   **Net** | {term}`The Noon Net<PSRG Nets>` with Kami KJ7RAB and Robert KJ7JXM.             |
 
 
 
