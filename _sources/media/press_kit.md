@@ -18,10 +18,10 @@
 
 #### Event Details:
 
-Date: June 22-23, 2024.
-Time: Official running hours from 11:00 AM Saturday to 2:00 PM Sunday.
-Location: [South Seattle College, north field](https://www.google.com/maps/place/47%C2%B033'00.7%22N+122%C2%B021'12.4%22W/@47.5501985,-122.3543562,377m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0xf42750fd596c3bec!7e2!8m2!3d47.5501969!4d-122.3534362)
-Website: [https://www.seattleradiofieldday.org/](https://www.seattleradiofieldday.org/)
+- Date: June 22-23, 2024.
+- Time: Official running hours from 11:00 AM Saturday to 2:00 PM Sunday.
+- Location: [South Seattle College, north field](https://www.google.com/maps/place/47%C2%B033'00.7%22N+122%C2%B021'12.4%22W/@47.5501985,-122.3543562,377m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0xf42750fd596c3bec!7e2!8m2!3d47.5501969!4d-122.3534362)
+- Website: [https://www.seattleradiofieldday.org/](https://www.seattleradiofieldday.org/)
 
 
 #### Quotes:
@@ -37,16 +37,18 @@ Join us at Seattle Radio Field Day 2024 to witness amateur radio's capabilities,
 #### Media Contact:
 
 Susanna Cunningham
+
 Public Information Officer
+
 [susannac@me.com](mailto:susannac@me.com)
 
 
 #### Additional Resources:
 
-Seattle Radio Field Day Website: [https://www.seattleradiofieldday.org/](https://www.seattleradiofieldday.org/)
-Field Day in Detail: [https://www.seattleradiofieldday.org/detail/in_detail.html](https://www.seattleradiofieldday.org/detail/in_detail.html)
-Call for Speakers: [https://forms.gle/oZ6sk3wJ8u1tjD7z9](https://forms.gle/oZ6sk3wJ8u1tjD7z9)
-Social Media: [https://www.seattleradiofieldday.org/social/contact.html](https://www.seattleradiofieldday.org/social/contact.html)
+- Seattle Radio Field Day Website: [https://www.seattleradiofieldday.org/](https://www.seattleradiofieldday.org/)
+- Field Day in Detail: [https://www.seattleradiofieldday.org/detail/in_detail.html](https://www.seattleradiofieldday.org/detail/in_detail.html)
+- Call for Speakers: [https://forms.gle/oZ6sk3wJ8u1tjD7z9](https://forms.gle/oZ6sk3wJ8u1tjD7z9)
+- Social Media: [https://www.seattleradiofieldday.org/social/contact.html](https://www.seattleradiofieldday.org/social/contact.html)
 
 [If applicable, include social media handles and hashtags.]
 
@@ -58,7 +60,9 @@ Seattle Radio Field Day is an annual event that showcases amateur radio's vital 
 #### Please note:
 
 Fill in the bracketed sections with the appropriate information.
+
 Customize the quotes and call to action to fit your event's messaging.
+
 Consider including [high-resolution photos](https://www.seattleradiofieldday.org/social/photos.html) or videos of past Field Day events.
 
 [www.seattleradiofieldday.org](https://www.seattleradiofieldday.org/)
