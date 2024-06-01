@@ -24,4 +24,4 @@ Join us for an engaging educational session at this year's Seattle Radio Field D
 
 Please submit your proposals early to ensure your spot. This is a fantastic opportunity to engage with fellow enthusiasts and impart valuable knowledge. We look forward to your contributions and an exciting educational lineup! If you have any questions, feel free to email us at [fieldday@psrg.org](mailto:fieldday@psrg.org).
 
-[Submit your proposal here.](https://sessionize.com/seattle-radio-field-day-2024/)
+[Submit your proposal here.](https://forms.gle/oZ6sk3wJ8u1tjD7z9)
