@@ -37,9 +37,9 @@ Join us at Seattle Radio Field Day 2024 to witness amateur radio's capabilities,
 #### Media Contact:
 
 Susanna Cunningham
-
+<br />
 Public Information Officer
-
+<br />
 [susannac@me.com](mailto:susannac@me.com)
 
 
@@ -59,10 +59,8 @@ Seattle Radio Field Day is an annual event that showcases amateur radio's vital 
 
 #### Please note:
 
-Fill in the bracketed sections with the appropriate information.
-
-Customize the quotes and call to action to fit your event's messaging.
-
-Consider including [high-resolution photos](https://www.seattleradiofieldday.org/social/photos.html) or videos of past Field Day events.
+- Fill in the bracketed sections with the appropriate information.
+- Customize the quotes and call to action to fit your event's messaging.
+- Consider including [high-resolution photos](https://www.seattleradiofieldday.org/social/photos.html) or videos of past Field Day events.
 
 [www.seattleradiofieldday.org](https://www.seattleradiofieldday.org/)
