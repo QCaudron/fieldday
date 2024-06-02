@@ -17,11 +17,9 @@ Join us for an engaging educational session at this year's **Seattle Radio Field
 
 Please submit your proposals early to ensure your spot! We need time to build the schedule, and we want our guests to be able to plan their station operating time.
 
-This is a fantastic opportunity to engage with fellow enthusiasts and impart valuable knowledge. We look forward to your contributions and an exciting educational lineup. If you have any questions, feel free to email us at [fieldday@psrg.org](mailto:fieldday@psrg.org).
+👉 [**Submit your proposal here!**](https://forms.gle/oZ6sk3wJ8u1tjD7z9)
 
-[Submit your proposal here.](https://forms.gle/oZ6sk3wJ8u1tjD7z9)
-
-## Looking for ideas? This is what our attendees want to heard about:
+## Looking for ideas? This is what our attendees want to learn about:
 
 - Using GMRS radio for WS Emergency Hubs
 - Field Day Contesting
@@ -36,8 +34,8 @@ This is a fantastic opportunity to engage with fellow enthusiasts and impart val
 
 ### Talks
 
-|Submitted|Presenter|Title|Status|
-|--|--|--|--|
+|Submitted|Presented By|Title|Status|
+|---|---|---|---|
 |05-09|Matt Blank|Off-Grid Solar Power|*Pending*|
 |05-09|Matt Blank|All About Portable Lighting|*Pending*|
 |05-14|Quentin Caudron|Antenna Modeling|*Pending*|
@@ -48,6 +46,6 @@ This is a fantastic opportunity to engage with fellow enthusiasts and impart val
 
 ### Workshops
 
-|Submitted|Leader|Title|Status|
-|--|--|--|--|
+|Submitted|Lead By|Title|Status|
+|---|---|---|---|
 |05-31|Cindi Barker|Volunteer Seattle Emergency Communication Hubs|*Pending*|
