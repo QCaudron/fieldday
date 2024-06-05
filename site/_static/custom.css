@@ -31,16 +31,31 @@ html .tabbed-set>label {
 
 .book-color-mode-toggle {}
 
-/* .bd-sidebar-primary {
+.bd-sidebar-primary {
   overflow: auto;
 }
 
 .bd-sidebar {
   overflow: auto;
-} */
+}
 
 a {
   font-weight: bold;
+}
+
+nav.bd-links {
+  li > a {
+    padding-left: 0.65rem;
+    padding-bottom: 0;
+  }
+  p.caption {
+    margin-bottom: 0;
+  }
+}
+
+.reference {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 .caption-text {
