@@ -31,13 +31,13 @@ html .tabbed-set>label {
 
 .book-color-mode-toggle {}
 
-.bd-sidebar-primary {
-  overflow: hidden;
+/* .bd-sidebar-primary {
+  overflow: auto;
 }
 
 .bd-sidebar {
-  overflow: hidden;
-}
+  overflow: auto;
+} */
 
 a {
   font-weight: bold;
