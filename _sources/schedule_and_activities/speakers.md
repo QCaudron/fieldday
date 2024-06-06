@@ -13,7 +13,7 @@ Join us for an engaging educational session at this year's **Seattle Radio Field
 - Submitting a talk does not guarantee you a time slot, we may reach out to you for confirmation, and please check back here before you come out.
 - If you would like to request a reasonable accommodation, or if you need to cancel for any reason please contact the organizers at [fieldday@psrg.org](mailto:fieldday@psrg.org)
 
-## Deadline for Submissions: **June 7, 2024**
+## Deadline for Submissions: **June 14, 2024**
 
 Please submit your proposals early to ensure your spot! We need time to build the schedule, and we want our guests to be able to plan their station operating time.
 
