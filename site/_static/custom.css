@@ -1,46 +1,19 @@
-html .tabbed-set>label {
-  border-bottom: 0.125rem solid transparent;
-  color: grey;
-  cursor: pointer;
-  font-size: var(--tabs-size-label);
-  font-weight: 700;
-  padding: 1em 1.25em 0.5em;
-  transition: color 250ms;
-  width: auto;
-  z-index: 1;
-}
-
-.card {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  min-width: 0;
-  word-wrap: break-word;
-  background-color: #fff;
-  background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, .125);
-  border-radius: 0.5rem;
-  margin-bottom: 1rem;
-}
-
 .q-neg-margin {
   margin-bottom: -1rem;
 }
 
-:root[data-color-mode="dark"] {}
-
-.book-color-mode-toggle {}
-
-.bd-sidebar-primary {
-  overflow: hidden;
-}
-
-.bd-sidebar {
-  overflow: hidden;
-}
-
 a {
   font-weight: bold;
+}
+
+nav.bd-links {
+  li > a {
+    padding-left: 0.65rem;
+    padding-bottom: 0;
+  }
+  p.caption {
+    margin-bottom: 0;
+  }
 }
 
 .caption-text {

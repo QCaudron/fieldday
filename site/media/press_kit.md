@@ -5,14 +5,14 @@
 
 ### Seattle Radio Field Day 2024 Showcases Amateur Radio's Emergency Preparedness Capabilities
 
-[Seattle, WA] – [Date of Release] – The Seattle Radio Field Day 2024, hosted at South Seattle College's north field, will demonstrate amateur radio's vital role in emergency communications. This annual event, co-sponsored by four local amateur radio groups, is open to the public and welcomes licensed amateur radio operators and those interested in the hobby.
+[Seattle, WA] – [Date of Release] – The Seattle Radio Field Day 2024, hosted at South Seattle College's north field, will demonstrate amateur radio's vital role in emergency communications. This annual event, co-sponsored by four local amateur radio groups, is open to the public and offers a welcoming and inclusive environment for licensed amateur radio operators and anyone interested in the hobby.
 
 
 #### Event Highlights
 
 - **Hands-on Experience:** Get on the air and experience single sideband voice, Morse code, or digital communications on HF, VHF, and UHF bands. A Get-On-the-Air (GOTA) station is available for those without licenses to try their hand at ham radio. Expect to make contacts all across the country.
 - **Educational Talks and Activities:** Learn about building antennas, emergency communications, go-bags, Morse code, and more.
-- **Social Atmosphere:** Enjoy camping, barbecues, and camaraderie with fellow ham radio and emergency preparedness enthusiasts.
+- **Social Atmosphere:** Enjoy camping, barbecues, and camaraderie with fellow ham radio and emergency preparedness enthusiasts in a welcoming and inclusive environment.
 - **Emergency Preparedness Focus:** Witness how amateur radio operators can establish communication networks in the absence of traditional infrastructure: no permanent structures or antennas, no grid power.
 
 
@@ -55,7 +55,7 @@ If applicable, include social media handles and hashtags.
 
 #### About Seattle Radio Field Day
 
-Field Day is an annual event that showcases amateur radio's vital role in emergency communications. The Seattle Radio Field Day is a collaboration between the [Puget Sound Repeater Group](https://psrg.org), the [West Seattle Amateur Radio Club](https://w7aw.org), the [Seattle Auxiliary Communications Service](https://seattleacs.org), and [Cascadia Radio](https://cascadiaradio.org). The event is open to the public and features hands-on activities, educational talks, and a social atmosphere.
+Field Day is an annual event that showcases amateur radio's vital role in emergency communications. The Seattle Radio Field Day is a collaboration between the [Puget Sound Repeater Group](https://psrg.org), the [West Seattle Amateur Radio Club](https://w7aw.org), the [Seattle Auxiliary Communications Service](https://seattleacs.org), and [Cascadia Radio](https://cascadiaradio.org). The event is open to the public and features hands-on activities, educational talks, and a social and inclusive atmosphere.
 
 
 #### Please note
