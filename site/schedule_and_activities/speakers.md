@@ -45,6 +45,7 @@ Please submit your proposals early to ensure your spot! We need time to build th
 |06-01|Tim Helming|Introduction to Seattle Auxiliary Communications Service|*Pending*|
 |06-02|Eric Jarvi|Beep Boop 101 (Intro to digital modes)|*Pending*|
 |06-03|Nick Gerner|AREDN: Internet Over Amateur Radio in Seattle|*Pending*|
+|06-07|Chloe Bolduc|ARISS at Pacific Science Center|*Pending*|
 
 ### Workshops
 
