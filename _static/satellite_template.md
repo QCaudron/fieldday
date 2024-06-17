@@ -38,6 +38,15 @@ SO-50's ten-minute timer can be armed by transmitting a two-second carrier with 
 | LOS       | 436.785 | 145.850 | 67.0    |
 
 
+### SO-121
+
+|           | RX      | TX      | TX Tone |
+| --------- | ------- | ------- | ------- |
+| AOS       | 436.673 | 145.875 |         |
+| Overhead  | 436.663 | 145.875 |         |
+| LOS       | 436.653 | 145.875 |         |
+
+
 ### AO-91
 
 AO-91 is only active when in sunlight, so night passes are not possible.
