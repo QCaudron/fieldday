@@ -10,7 +10,7 @@ from tqdm import tqdm
 latitude = 47.549952
 longitude = -122.354088
 altitude = 93  # https://www.freemaptools.com/elevation-finder.htm
-min_elevation = 30
+min_elevation = 40
 start_date = "2024-06-21"
 end_date = "2024-06-24"
 
@@ -22,6 +22,7 @@ PARAMETERS = f"{latitude}/{longitude}/{altitude}/10/{min_elevation}"
 SATELLITE_IDS = {
     "ISS": 25544,
     "SO-50": 27607,
+    "SO-121": 58567,
     "AO-91": 43017,
     "AO-27": 22825,
     "TEVEL-1": 51013,
