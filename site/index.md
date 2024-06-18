@@ -53,3 +53,7 @@ We will have a number of [activities and educational talks](./schedule_and_activ
 ## Let us know
 
 Whether you're just attending, or would like to help out, we'd love to know what you're looking for. Please {{ let_us_know }} if you'd like to be involved in any way -- running a station, as a mentor, or helping with setup and teardown.
+
+## Commercial Sponsors
+
+[![MidNite Solar](assets/images/mnLogo_small.png)](https://www.midnitesolar.com/)
