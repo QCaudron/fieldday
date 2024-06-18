@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td style="width:100px; padding: 10px 0;">11:00-11:45</td>
-    <td><details><summary><b>Your Cascadia Medical Response Kit</b> <i>John Murphy</i></summary>The creation of a personal, household and neighborhood based medical response kit from a community perspective. We will discuss the fundamentals of medical kit creation and improvement, we will also discuss aspects of triage. If time permits there will be a cursory instruction on stop the bleed.</details></td>
+    <td><details><summary><b>ARISS at Pacific Science Center</b> <i>Chloe Bolduc, N1BDX</i></summary>I would like to discuss Pacific Science Center's upcoming ARISS contact for the week of August 12th, our educational plan and activities for the youth involved, and future plans for a permanent radio station; as well as WSARC's continuous support through the proposal writing and implementation.</details></td>
   </tr>
   <tr>
     <td style="width:100px; padding: 10px 0;">12:00-12:45</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td style="width:100px; padding: 10px 0;">16:00-16:45</td>
-    <td><details><summary><b>ARISS at Pacific Science Center</b> <i>Chloe Bolduc, N1BDX</i></summary>I would like to discuss Pacific Science Center's upcoming ARISS contact for the week of August 12th, our educational plan and activities for the youth involved, and future plans for a permanent radio station; as well as WSARC's continuous support through the proposal writing and implementation.</details></td>
+    <td><details><summary><b>Your Cascadia Medical Response Kit</b> <i>John Murphy</i></summary>The creation of a personal, household and neighborhood based medical response kit from a community perspective. We will discuss the fundamentals of medical kit creation and improvement, we will also discuss aspects of triage. If time permits there will be a cursory instruction on stop the bleed.</details></td>
   </tr>
 </table>
 
