@@ -1,9 +1,8 @@
 # Schedule and Activities
 
-```{note}
-Our educational program is being put together by Matt KE7NOR. Watch this space! To help out, [submit your proposal here](https://forms.gle/oZ6sk3wJ8u1tjD7z9).
-```
+## Educational Program (June 22nd, Education Tent)
 
+*Final schedule coming soon*
 
 ## Friday, June 21st
 
