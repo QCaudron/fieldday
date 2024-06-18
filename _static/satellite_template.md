@@ -4,7 +4,7 @@
 Updated ###updated###.
 ```
 
-Here are some details for the satellites we're likely to work during Field Day. The information is taken primarily from [Clint K6LCS's website](https://www.work-sat.com/), and with help from [Mike KB8BMY](http://qrz.com/db/KB8BMY), with thanks. The frequencies in the tables below contain uplinks and downlinks, with Doppler shift taken into account for aquisition of signal (AOS) and loss of signal (LOS) times.
+Here are some details for the satellites we're likely to work during Field Day. The information is taken primarily from [Clint K6LCS's website](https://www.work-sat.com/), and with help from [Mike KB8BMY](http://qrz.com/db/KB8BMY) and [Frank KJ7DZ](http://qrz.com/db/KJ7DZ), with thanks. The frequencies in the tables below contain uplinks and downlinks, with Doppler shift taken into account for aquisition of signal (AOS) and loss of signal (LOS) times.
 
 
 ## Passes
@@ -40,11 +40,11 @@ SO-50's ten-minute timer can be armed by transmitting a two-second carrier with 
 
 ### SO-121
 
-|           | RX      | TX      | TX Tone |
-| --------- | ------- | ------- | ------- |
-| AOS       | 436.673 | 145.875 |         |
-| Overhead  | 436.663 | 145.875 |         |
-| LOS       | 436.653 | 145.875 |         |
+|          | RX      | TX      | TX Tone |
+| -------- | ------- | ------- | ------- |
+| AOS      | 436.673 | 145.875 |         |
+| Overhead | 436.663 | 145.875 |         |
+| LOS      | 436.653 | 145.875 |         |
 
 
 ### AO-91
@@ -70,6 +70,8 @@ AO-27 is active for four minutes on passes over mid-latitudes.
 
 
 ### TEVEL satellites
+
+Generally, two TEVEL satellites are active at one time. Check [4X1DG's Twitter](https://x.com/davidgr06270644) for the latest information.
 
 |          | RX      | TX      | TX Tone |
 | -------- | ------- | ------- | ------- |
