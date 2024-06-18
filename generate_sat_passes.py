@@ -3,15 +3,16 @@ from datetime import datetime
 
 import pandas as pd
 import requests
+from tqdm import tqdm
 
 
-# Set some parameters for West Seattle
+# Set some parameters for SSC's north field
 latitude = 47.549952
 longitude = -122.354088
 altitude = 93  # https://www.freemaptools.com/elevation-finder.htm
-min_elevation = 30
-start_date = "2023-06-21"
-end_date = "2023-06-24"
+min_elevation = 40
+start_date = "2024-06-21"
+end_date = "2024-06-24"
 
 # N2YO API details
 BASE_URL = "https://api.n2yo.com/rest/v1/satellite/radiopasses"
@@ -21,11 +22,20 @@ PARAMETERS = f"{latitude}/{longitude}/{altitude}/10/{min_elevation}"
 SATELLITE_IDS = {
     "ISS": 25544,
     "SO-50": 27607,
+    "SO-121": 58567,
     "AO-91": 43017,
+    "AO-27": 22825,
+    # "TEVEL-1": 51013,
+    "TEVEL-2": 51069,
     "TEVEL-3": 50988,
     "TEVEL-4": 51063,
     "TEVEL-5": 50998,
+    "TEVEL-6": 50999,
+    "TEVEL-7": 51000,
+    "TEVEL-8": 50989,
     "PO-101": 43678,
+    "CAS-3H": 40908,
+    "CAS-5A": 54684,
 }
 
 # Columns for the output table
@@ -103,7 +113,7 @@ if __name__ == "__main__":
 
     # Grab passes for all satellites
     passes = []
-    for satellite in SATELLITE_IDS.keys():
+    for satellite in tqdm(SATELLITE_IDS.keys()):
         passes.append(get_satellite_passes(satellite, api_key))
 
     # Concatenate passes and sort by time
