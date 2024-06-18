@@ -39,9 +39,13 @@
 ### Workshops
 
 **Winlink**
+
 *Cindi Barker KD7KSH, Bill Thomassen N6NBN*
+
 This will be a ongoing hands on demostration of Winlink and the "I Am Safe" Welfare Message procedure.  Bill Thomassen, N6NBN, will set up 2 or 3 Winlink stations and demostrate and give hands-on opportunity for people to send their own "I Am Safe" test messages.
 
 **FLDigi (Fast Light Digital) on UHF/VHF**
+
 *Christian Helfrich K7XTN*
+
 I will set-up 3 digital stations adjacent to each other and walk through how FLDigi works, and give attendees a chance to try sending and receiving messages.
