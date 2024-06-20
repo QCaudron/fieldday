@@ -49,6 +49,7 @@ Public Information Officer
 - **Field Day in Detail:** [https://www.seattleradiofieldday.org/detail/in_detail.html](https://www.seattleradiofieldday.org/detail/in_detail.html)
 - **Call for Speakers:** [https://forms.gle/oZ6sk3wJ8u1tjD7z9](https://forms.gle/oZ6sk3wJ8u1tjD7z9)
 - **Social Media:** [https://www.seattleradiofieldday.org/social/contact.html](https://www.seattleradiofieldday.org/social/contact.html)
+- **Club Logos:** [PSRG](../_static/high_res_logos/psrg.png) // [Cascadia Radio](../_static/high_res_logos/cascadia_radio.png) // [West Seattle ARC](../_static/high_res_logos/wsarc.jpg) // [Seattle ACS](../_static/high_res_logos/seattle_acs.png)
 
 If applicable, include social media handles and hashtags.
 
