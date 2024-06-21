@@ -31,7 +31,7 @@
 
   td.time {
     text-align: right;
-    width: 5rem;
+    width: 8rem;
   }
 </style>
 
