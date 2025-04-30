@@ -1,11 +1,18 @@
 # Seattle Radio Field Day {{ year }}
 
+<!--
 ```{admonition} Join us !
 :class: tip
 We'd love to have you join us for Field Day. Just {{ let_us_know }} what you're interested in, and we'll make sure you have a great time.
 ```
+-->
 
-Four Seattle-area amateur radio clubs are joining forces for a joint Field Day in {{ year }}! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), the [Seattle Auxiliary Communications Service](https://www.seattleacs.org/), and [Cascadia Radio](https://www.cascadiaradio.org/) on **June 22nd and 23rd, 2024**.
+```{admonition} Updating for 2025!
+:class: tip
+We are excited to announce that we have started updating the site for 2025! Please note that many changes will be happening over the next month, so check back often for the latest updates.
+```
+
+Four Seattle-area amateur radio clubs are joining forces for a joint Field Day in {{ year }}! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), the [Seattle Auxiliary Communications Service](https://www.seattleacs.org/), and [Cascadia Radio](https://www.cascadiaradio.org/) on **{{ dates }}**.
 
 ::::{grid}
 :gutter: 3
@@ -54,6 +61,8 @@ We will have a number of [activities and educational talks](./schedule_and_activ
 
 Whether you're just attending, or would like to help out, we'd love to know what you're looking for. Please {{ let_us_know }} if you'd like to be involved in any way -- running a station, as a mentor, or helping with setup and teardown.
 
+<!--
 ## Commercial Sponsors
 
 [![MidNite Solar](assets/images/mnLogo_small.png)](https://www.midnitesolar.com/)
+-->
