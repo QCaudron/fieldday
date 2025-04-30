@@ -61,9 +61,10 @@ html:
   extra_navbar: "" # Powered by <a href="https://jupyterbook.org">Jupyter Book</a>  # Will be displayed underneath the left navbar.
   show_navbar_depth: 3
   home_page_in_toc: true
-  google_analytics_id: "G-SBX9SB82KJ" # "G-47E4JD6JKN" # A GA id that can be used to track book views.
   home_page_in_navbar: true # Whether to include your home page in the left Navigation Bar
   baseurl: "http://www.seattleradiofieldday.org" # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  analytics:
+    google_analytics_id: "G-SBX9SB82KJ" # "G-47E4JD6JKN" # A GA id that can be used to track book views.
   comments:
     hypothesis: false
     utterances: false
