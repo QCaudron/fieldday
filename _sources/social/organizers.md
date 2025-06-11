@@ -3,7 +3,6 @@
 Huge thanks to our Field Day organizers, volunteers, and helpers! We couldn't do it without you.
 
 These are our core organizers.
-- [Benjamin, WY2K](https://qrz.com/db/WY2K) -- Seattle ACS / Cascadia Radio
 - [Brian, KG7WRK](https://qrz.com/db/KG7WRK) -- WSARC
 - [Catherine, KJ7DYG](https://qrz.com/db/KJ7DYG) -- Seattle ACS
 - [Doug, KD7DK](https://qrz.com/db/KD7DK) -- PSRG / Seattle ACS
