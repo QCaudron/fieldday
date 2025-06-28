@@ -20,7 +20,7 @@
 | 12:00 |   **Net** | {term}`The Noon Net<PSRG Nets>` with Kirk AG7YM.                             |
 | 12:30 | **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.         |
 | 18:30 | **Meals** | {term}`Dinner<Meals>` : TBD !                                                |
-| 21:00 |   **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Rich WB7J & Bill K7WFB.     |
+| 21:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Rich WB7J & Bill K7WFB.         |
 
 ### Saturday Educational Talks
 
