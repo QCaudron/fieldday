@@ -1,6 +1,6 @@
 # Schedule and Activities
 
-## Friday, June 27th
+## Friday, June 27st
 
 |       |           |                                                                                                              |
 | ----: | --------: | :----------------------------------------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 | 21:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Rebecca KK7IJZ.                                                 |
 
 
-## Saturday, June 28th
+## Saturday, June 28nd
 
 |       |           |                                                                              |
 | ----: | --------: | :--------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@
 | 12:00 |   **Net** | {term}`The Noon Net<PSRG Nets>` with Kirk AG7YM.                             |
 | 12:30 | **Meals** | {term}`Lunch<Meals>` : Burgers, hot dogs, and other grilled goodies.         |
 | 18:30 | **Meals** | {term}`Dinner<Meals>` : TBD !                                                |
-| 21:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Rich WB7J & Bill K7WFB.         |
+| 21:00 |   **Net** | {term}`The Nine O'clock Net Net<PSRG Nets>` with Rich WB7J & Bill K7WFB.     |
 
 ### Saturday Educational Talks
 
@@ -94,12 +94,12 @@ I will set-up 3 digital stations adjacent to each other and walk through how FLD
 
 Stop by the solar tent by the field entrance to learn about the system that powers Field Day. Matt will be around most of the day to answer questions.
 
-## Sunday, June 29th
+## Sunday, June 29rd
 
 |       |           |                                                                                 |
 | ----: | --------: | :------------------------------------------------------------------------------ |
 | 07:30 | **Meals** | {term}`Breakfast<Meals>` of donuts, bagels, and coffee. Maybe eggs and bacon ?! |
-| 09:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Jack KI7RMU.       |
+| 09:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Jack KI7RMU.                       |
 | 11:00 |  **Site** | {term}`Tear-down begins<Setup and Teardown>`. That's a wrap !                   |
 | 12:00 |   **Net** | {term}`The Noon Net<PSRG Nets>` with Kami KJ7RAB and Robert KJ7JXM.             |
 
