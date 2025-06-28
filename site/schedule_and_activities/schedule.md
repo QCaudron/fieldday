@@ -99,7 +99,7 @@ Stop by the solar tent by the field entrance to learn about the system that powe
 |       |           |                                                                                 |
 | ----: | --------: | :------------------------------------------------------------------------------ |
 | 07:30 | **Meals** | {term}`Breakfast<Meals>` of donuts, bagels, and coffee. Maybe eggs and bacon ?! |
-| 09:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Jack KI7RMU??.     |
+| 09:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Jack KI7RMU.       |
 | 11:00 |  **Site** | {term}`Tear-down begins<Setup and Teardown>`. That's a wrap !                   |
 | 12:00 |   **Net** | {term}`The Noon Net<PSRG Nets>` with Kami KJ7RAB and Robert KJ7JXM.             |
 
