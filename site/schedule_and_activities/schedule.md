@@ -94,7 +94,7 @@ I will set-up 3 digital stations adjacent to each other and walk through how FLD
 
 Stop by the solar tent by the field entrance to learn about the system that powers Field Day. Matt will be around most of the day to answer questions.
 
-## Sunday, June 29rd
+## Sunday, June 29th
 
 |       |           |                                                                                 |
 | ----: | --------: | :------------------------------------------------------------------------------ |
