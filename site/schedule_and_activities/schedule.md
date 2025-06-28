@@ -10,7 +10,7 @@
 | 21:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` with Rebecca KK7IJZ.                                                 |
 
 
-## Saturday, June 28nd
+## Saturday, June 28th
 
 |       |           |                                                                              |
 | ----: | --------: | :--------------------------------------------------------------------------- |
