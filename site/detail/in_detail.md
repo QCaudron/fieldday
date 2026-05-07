@@ -1,6 +1,6 @@
 # Our Field Day in Detail
 
-The largest amateur radio event in the US, Field Day is projected to involve over 35,000 people this year. It's a casual, fun event of learning, socializing, and radio. Everyone is welcome and encouraged to get on the air, including those without an amateur radio license.
+The largest amateur radio event in the US, Field Day brings together more than 31,000 radio amateurs each year. It's a casual, fun event of learning, socializing, and radio. Everyone is welcome and encouraged to get on the air, including those without an amateur radio license.
 
 ```{admonition} This year...
 :class: tip
@@ -33,7 +33,7 @@ In addition to the main goal of making contacts, our Field Day includes many edu
 
 Whether you don't have an amateur radio license, or you recently got your ticket, you're welcome to get on the air!
 
-For our non-ham friends, our [Get On The Air (GOTA) station](https://www.arrl.org/files/file/Field-Day/2024/1_85-2024%20FD%20GOTA%20Scoring%20FAQ.pdf) will have you on the air and experiencing HF radio. A licensed operator will sit with you and guide you through your first exchanges. Welcome to the world of radio!
+For our non-ham friends, our [Get On The Air (GOTA) station](http://www.arrl.org/files/file/Field-Day/2026/2026%20FD%20GOTA%20Scoring%20FAQ.pdf) will have you on the air and experiencing HF radio. A licensed operator will sit with you and guide you through your first exchanges. Welcome to the world of radio!
 
 For those with a license, there will be plenty of experienced Field Day folk around to guide you and show you new things. Listen in on the CW tent, get on HF, or run the digital station. Field Day is a great learning opportunity.
 

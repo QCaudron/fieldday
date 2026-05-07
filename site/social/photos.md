@@ -1,5 +1,17 @@
 # Photos
 
+## Field Day 2026
+
+Photos will be added after the event. Have photos to share? Send them to [fieldday@psrg.org](mailto:fieldday@psrg.org)!
+
+## Field Day 2025
+
+*Photos coming soon.*
+
+## Field Day 2024
+
+*Photos coming soon.*
+
 ## Field Day 2023
 
 
@@ -38,7 +50,7 @@
 
 ## Field Day 2022
 
-These photos were taken last year by Matt, KE7NOR](https://qrz.com/db/KE7NOR). Thanks a lot, Matt!
+These photos were taken by [Matt, KE7NOR](https://qrz.com/db/KE7NOR). Thanks a lot, Matt!
 <div class="spotlight-group">
     <a class="spotlight" title="The antenna farm !" href=https://live.staticflickr.com/65535/52181462900_95a68d510e_k.jpg>
         <img class="spotlight-image" src="https://live.staticflickr.com/65535/52181462900_95a68d510e_k.jpg"></a>
