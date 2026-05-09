@@ -1,0 +1,23 @@
+format: jb-book
+root: index
+parts:
+  - caption: DETAILS
+    chapters:
+      - file: detail/in_detail
+      - file: detail/location
+      - file: detail/setup
+  - caption: SCHEDULE
+    chapters:
+      - file: schedule_and_activities/schedule
+      - file: schedule_and_activities/bonus_points
+      - file: schedule_and_activities/satellite
+      - file: schedule_and_activities/speakers
+  - caption: PARTICIPATE
+    chapters:
+      - file: social/signup
+      - file: social/contact
+      - file: social/photos
+      - file: social/organizers
+  - caption: MEDIA
+    chapters:
+      - file: media/press_kit

@@ -1,0 +1,29 @@
+.q-neg-margin {
+  margin-bottom: -1rem;
+}
+
+a {
+  font-weight: bold;
+}
+
+nav.bd-links {
+  li > a {
+    padding-left: 0.65rem;
+    padding-bottom: 0;
+  }
+  p.caption {
+    margin-bottom: 0;
+  }
+}
+
+.caption-text {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.spotlight-image {
+  margin: 0.5rem;
+  width: 240px;
+  height: 160px;
+  object-fit: cover;
+}
