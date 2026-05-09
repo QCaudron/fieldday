@@ -2,6 +2,11 @@
 
 We're hoping to get bonus points for the following (based on [ARRL's Field Day Rules](http://www.arrl.org/field-day-rules)).
 
+```{admonition} 2026 Submission Deadline
+:class: important
+Field Day entries must be submitted or postmarked by **Tuesday, July 28, 2026**.
+```
+
 | Section  | Name                                           | Max Points | Description                                                                                                                                                                                                                                                                                                                                                     |
 | -------- | ---------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 7.3.1    | 100% Emergency power                           | 200        | 100 points per transmitter, excluding GOTA and VHF; all transmitting equipment must operate without mains power.                                                                                                                                                                                                                                                |

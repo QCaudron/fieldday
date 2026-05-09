@@ -1,6 +1,8 @@
 # Call for Speakers
 
-Join us for an engaging educational session at this year's **Seattle Radio Field Day!** We're looking for passionate speakers who are ready to share their knowledge on a wide range of topics related to amateur radio and survival skills. In the past we've heard about emergency communications, digital modes, Morse code, satellite, fox hunting, antenna building and related fields like electronics, first aid, water purification, and solar power. We want to hear from you!
+Join us for an engaging educational session at this year's **Seattle Radio Field Day!** We're looking for passionate speakers who are ready to share their knowledge on a wide range of topics related to amateur radio and emergency preparedness. In the past we've heard about emergency communications, digital modes, Morse code, satellite, fox hunting, antenna building and related fields like electronics, first aid, water purification, and solar power. We want to hear from you!
+
+Great topics for 2026 include: deployable radio direction finding, Meshtastic / MeshCore, POTA / SOTA, off-grid solar, Winlink, AREDN, SDR, APRS, satellite operations, emergency go-kits, antenna analyzers, RF safety, and youth-friendly radio demos — but anything amateur-radio-related is welcome.
 
 ## Details
 

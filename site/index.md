@@ -7,6 +7,8 @@ We'd love to have you join us for Field Day. Just {{ let_us_know }} what you're 
 
 Four Seattle-area amateur radio clubs are joining forces for a joint Field Day in {{ year }}! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), the [Seattle Auxiliary Communications Service](https://www.seattleacs.org/), and [Cascadia Radio](https://www.cascadiaradio.org/) on **{{ dates }}**.
 
+*{{ year }} theme: Amateur Radio: A National Resource.*
+
 ::::{grid}
 :gutter: 3
 

@@ -9,7 +9,7 @@ Reach out to us at [fieldday@psrg.org](mailto:fieldday@psrg.org) or on the [Casc
 
 <div style="display: flex; align-items: center;">
   <i class="fa-solid fa-link" style="height: 1.5rem; padding: 0.2rem"></i>
-  <span style="margin-left: 0.5rem;"><a href="https://www.psrg.org/">Website</a></span>
+  <span style="margin-left: 0.5rem;"><a href="https://web.psrg.org/">Website</a></span>
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -24,7 +24,7 @@ Reach out to us at [fieldday@psrg.org](mailto:fieldday@psrg.org) or on the [Casc
 
 <div style="display: flex; align-items: center;">
   <i class="fa-brands fa-x-twitter" style="height: 1.5rem; padding: 0.2rem"></i>
-  <span style="margin-left: 0.5rem;"><a href="https://twitter.com/ww7psr">Twitter</a></span>
+  <span style="margin-left: 0.5rem;"><a href="https://twitter.com/ww7psr">X / Twitter</a></span>
 </div>
 
 

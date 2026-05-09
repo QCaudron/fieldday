@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title: Field Day 2025 # The title of the book. Will be placed in the left navbar.
+title: Field Day 2026 # The title of the book. Will be placed in the left navbar.
 author: Quentin K7DRQ # The author of the book
-copyright: "2022 - 2025" # Copyright year to be placed in the footer
-logo: "./assets/images/2025-ARRL-Field-Day-Logo.jpg" # A path to the book logo
+copyright: "2022 - 2026" # Copyright year to be placed in the footer
+logo: "./assets/images/field_day_logo.png" # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 # Auto-exclude files not in the toc
@@ -47,8 +47,8 @@ parse:
   myst_substitutions:
     let_us_know: "[let us know](https://docs.google.com/forms/d/e/1FAIpQLSeTWPY0lsFTkEZVIY_X1bgXjsas6qt7tFjwGLbFd8fbg7H_ng/viewform?usp=sf_link)"
     our_short_survey: "[our short survey](https://docs.google.com/forms/d/e/1FAIpQLSeTWPY0lsFTkEZVIY_X1bgXjsas6qt7tFjwGLbFd8fbg7H_ng/viewform?usp=sf_link)"
-    year: "2025"  # remember to change title under Book Settings (top line in this file)
-    dates: "June 28th and 29th, 2025" # remember to change title under Book Settings (top line in this file)
+    year: "2026"  # remember to change title under Book Settings (top line in this file)
+    dates: "June 27th and 28th, 2026" # remember to change title under Book Settings (top line in this file)
 
 #######################################################################################
 # HTML-specific settings
