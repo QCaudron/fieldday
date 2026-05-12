@@ -45,8 +45,8 @@ parse:
   myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
   myst_dmath_double_inline: true # Allow display math ($$) within an inline context
   myst_substitutions:
-    let_us_know: "[let us know](https://docs.google.com/forms/d/e/1FAIpQLSeTWPY0lsFTkEZVIY_X1bgXjsas6qt7tFjwGLbFd8fbg7H_ng/viewform?usp=sf_link)"
-    our_short_survey: "[our short survey](https://docs.google.com/forms/d/e/1FAIpQLSeTWPY0lsFTkEZVIY_X1bgXjsas6qt7tFjwGLbFd8fbg7H_ng/viewform?usp=sf_link)"
+    let_us_know: "[let us know](https://forms.gle/8fTibg6mvbMPVPvN7)"
+    our_short_survey: "[our short survey](https://forms.gle/8fTibg6mvbMPVPvN7)"
     year: "2026"  # remember to change title under Book Settings (top line in this file)
     dates: "June 27th and 28th, 2026" # remember to change title under Book Settings (top line in this file)
 
