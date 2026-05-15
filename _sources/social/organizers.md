@@ -13,4 +13,4 @@ These are our core organizers.
 - [Tim, WT1IM](https://qrz.com/db/WT1IM) -- Seattle ACS
 - [Brooks, K9BDC](https://www.qrz.com/db/K9BDC) -- PSRG
 
-For any questions, email us at [fieldday@psrg.org](mailto:fieldday@psrg.org).
+For any questions, email us at [seattleradiofieldday@googlegroups.com](mailto:seattleradiofieldday@googlegroups.com).
