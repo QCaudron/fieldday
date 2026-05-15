@@ -13,6 +13,6 @@ Great topics for 2026 include: deployable radio direction finding, Meshtastic / 
 - We may not have a PA system or TV for displaying slides, your presentation should not rely on slides, but please bring them if you have them.
 - There will be limited AC power and internet access on-site, we don't recommend relying on these.
 - Submitting a talk does not guarantee you a time slot, we may reach out to you for confirmation, and please check back here before you come out.
-- If you would like to request a reasonable accommodation, or if you need to cancel for any reason please contact the organizers at [fieldday@psrg.org](mailto:fieldday@psrg.org)
+- If you would like to request a reasonable accommodation, or if you need to cancel for any reason please contact the organizers at [seattleradiofieldday@googlegroups.com](mailto:seattleradiofieldday@googlegroups.com)
 
 ## Deadline for Submissions: **TBA**

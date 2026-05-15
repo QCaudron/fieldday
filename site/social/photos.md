@@ -2,7 +2,7 @@
 
 ## Field Day 2026
 
-Photos will be added after the event. Have photos to share? Send them to [fieldday@psrg.org](mailto:fieldday@psrg.org)!
+Photos will be added after the event. Have photos to share? Send them to [seattleradiofieldday@googlegroups.com](mailto:seattleradiofieldday@googlegroups.com)!
 
 ## Field Day 2025
 
