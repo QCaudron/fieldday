@@ -1,7 +1,7 @@
 # Contact and Social
 
 ```{admonition} Questions?
-Reach out to us at [fieldday@psrg.org](mailto:fieldday@psrg.org) or on the [Cascadia Radio Discord](https://discord.gg/wG5WHHZdA2).
+Reach out to us at [seattleradiofieldday@googlegroups.com](mailto:seattleradiofieldday@googlegroups.com) or on the [Cascadia Radio Discord](https://discord.gg/wG5WHHZdA2).
 ```
 
 
