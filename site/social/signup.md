@@ -1,6 +1,6 @@
 # Join our Field Day
 
-We'd love to have you join us for Field Day. Just {{ let_us_know }} if you're coming, and we'll make sure you have a great time.
+We'd love to have you join us for Field Day. {{ registration_link }}
 
 
 ## Running a station
@@ -10,7 +10,7 @@ If you're a licensed operator, you can sign up to run any of our stations. We'll
 
 ## Organization and help
 
-We'd love your help with the organization of the event. We need folk to help with setup, teardown, cooking, security, and general organization. If you'd like to help out, please take a minute on {{ our_short_survey }}.
+We'd love your help with the organization of the event. We need folk to help with setup, teardown, cooking, security, and general organization. If you'd like to help out, {{ registration_link }}
 
 
 ## Questions ?
