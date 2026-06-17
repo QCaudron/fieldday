@@ -2,7 +2,7 @@
 
 ```{admonition} Register here! Volunteers needed!
 :class: tip
-We'd love to have you join us for Field Day. {{ register_here }} 
+We'd love to have you join us for Field Day. {{ registration_link }}
 ```
 
 Four Seattle-area amateur radio clubs are joining forces for a joint Field Day in {{ year }}! Please join the [Puget Sound Repeater Group](https://web.psrg.org/), the [West Seattle Amateur Radio Club](https://w7aw.org/), the [Seattle Auxiliary Communications Service](https://www.seattleacs.org/), and [Cascadia Radio](https://www.cascadiaradio.org/) on **{{ dates }}**.
@@ -54,7 +54,7 @@ We will have a number of [activities and educational talks](./schedule_and_activ
 
 ## Let us know
 
-Whether you're just attending, or would like to help out, we'd love to know what you're looking for. Please {{ let_us_know }} if you'd like to be involved in any way -- running a station, as a mentor, or helping with setup and teardown.
+Whether you're just attending, or would like to help out, we'd love to know what you're looking for. Please {{ registration_link }} if you'd like to be involved in any way -- running a station, as a mentor, or helping with setup and teardown.
 
 <!--
 ## Commercial Sponsors
