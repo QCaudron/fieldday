@@ -42,10 +42,10 @@ Check back soon for Saturday Educational Talks and Workshops.
 
 ```{glossary}
 Setup and Teardown
-  Putting together a Field Day operation with four transceivers, several antennas, and a handful of tents is no small task. The antenna masts are particularly involved in their setup, as we'll have seven 30+ foot masts to hold up three wire antennas. We'll be starting setup on Friday, and teardown beginning around 11:00 on Sunday. If you're able to help out, please [let us know](../social/contact) !
+  Putting together a Field Day operation with four transceivers, several antennas, and a handful of tents is no small task. The antenna masts are particularly involved in their setup, as we'll have seven 30+ foot masts to hold up three wire antennas. We'll be starting setup on Friday, and teardown beginning around 11:00 on Sunday. If you're able to help out, {{ registration_link }}
 
 Meals
-  Big thanks to our volunteer chefs ! Please [let us know](../social/contact) if you have any dietary restrictions.
+  Big thanks to our volunteer chefs ! Please note any dietary restrictions when you register.
 
 PSRG Nets
   Field Day is a full Rain or Shine Net weekend ! The PSRG runs three social nets per day, every day of the year. For Field Day, all of our social nets will be running on emergency power on-site. We will have a station set up nearby which Field Day attendees can check into the nets. Come on by and watch our net hosts at work. All amateur operators and their third-party traffic welcome.
