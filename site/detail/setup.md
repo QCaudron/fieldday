@@ -1,6 +1,6 @@
 # Our Setup
 
-Generally, all of our stations will be run by two people -- one person making the contacts, and one to help them log those contacts. Feel free to listen in and take a turn running either position! Please {{ let_us_know }} what interests you, both role and station type, and we'll coordinate with you to get you on the air.
+Generally, all of our stations will be run by two people -- one person making the contacts, and one to help them log those contacts. Feel free to listen in and take a turn running either position! Please {{ registration_link }} what interests you, both role and station type, and we'll coordinate with you to get you on the air.
 
 ## Stations
 
