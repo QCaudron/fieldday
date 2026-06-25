@@ -22,7 +22,82 @@
 | 18:30 | **Meals** | {term}`Dinner<Meals>` : TBD !                                                |
 | 21:00 |   **Net** | {term}`The Nine O'clock Net<PSRG Nets>` — host TBD.                          |
 
-Check back soon for Saturday Educational Talks and Workshops.
+### Educational Talks and Workshops
+
+```{raw} html
+<table class="schedule-grid">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Education Tent</th>
+      <th>Welfare Messaging</th>
+      <th>Go-Kit Workshop</th>
+      <th>fldigi</th>
+      <th>Off-Grid Solar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="time-col">10:00</td>
+      <td class="sched-talk">HIPAA Presentation<span class="sched-speaker">Dan Hoke KJ7VDV</span></td>
+      <td class="sched-workshop" rowspan="10">Welfare Messaging<span class="sched-speaker">Bill N7NBN</span></td>
+      <td class="sched-empty" rowspan="6"></td>
+      <td class="sched-empty" rowspan="6"></td>
+      <td class="sched-empty" rowspan="6"></td>
+    </tr>
+    <tr>
+      <td class="time-col">10:30</td>
+      <td class="sched-empty"></td>
+    </tr>
+    <tr>
+      <td class="time-col">11:00</td>
+      <td class="sched-talk" rowspan="2">First Aid<span class="sched-speaker">John Murphy KI7IYP</span></td>
+    </tr>
+    <tr>
+      <td class="time-col">11:30</td>
+    </tr>
+    <tr>
+      <td class="time-col">12:00</td>
+      <td class="sched-break" rowspan="2">Lunch Break</td>
+    </tr>
+    <tr>
+      <td class="time-col">12:30</td>
+    </tr>
+    <tr>
+      <td class="time-col">13:00</td>
+      <td class="sched-talk">Club Presentations<span class="sched-speaker">PSRG (Brooks) &middot; West Seattle ARC (Alan) &middot; Seattle ACS (TBA) &middot; Seattle Emergency Hubs (TBA)</span></td>
+      <td class="sched-workshop" rowspan="8">Go-Kit Workshop<span class="sched-speaker">Robert KK7ZRY</span></td>
+      <td class="sched-workshop" rowspan="8">fldigi<span class="sched-speaker">Christian K7XTN</span></td>
+      <td class="sched-workshop" rowspan="8">Off-Grid Solar Power<span class="sched-speaker">Matt KE7NOR</span></td>
+    </tr>
+    <tr>
+      <td class="time-col">13:30</td>
+      <td class="sched-empty"></td>
+    </tr>
+    <tr>
+      <td class="time-col">14:00</td>
+      <td class="sched-talk" rowspan="2">Antenna Theory Crash Course<span class="sched-speaker">Dominic Myerchin KM7CLU</span></td>
+    </tr>
+    <tr>
+      <td class="time-col">14:30</td>
+    </tr>
+    <tr>
+      <td class="time-col">15:00</td>
+      <td class="sched-empty" rowspan="4"></td>
+      <td class="sched-empty" rowspan="4"></td>
+    </tr>
+    <tr>
+      <td class="time-col">15:30</td>
+    </tr>
+    <tr>
+      <td class="time-col">16:00</td>
+    </tr>
+    <tr>
+      <td class="time-col">16:30</td>
+    </tr>
+  </tbody>
+</table>
+```
 
 ## Sunday, June 28th
 
