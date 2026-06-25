@@ -27,3 +27,66 @@ nav.bd-links {
   height: 160px;
   object-fit: cover;
 }
+
+/* Educational talks / workshops schedule grid */
+.schedule-grid {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  background-color: #1f2937;
+}
+
+.schedule-grid th,
+.schedule-grid td {
+  border: 1px solid #c9d1d9;
+  padding: 0.4rem 0.6rem;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.schedule-grid thead th {
+  background-color: #2c3e50;
+  color: #ffffff;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.schedule-grid td.time-col {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  font-weight: bold;
+  white-space: nowrap;
+  min-width: 55px;
+  font-size: 0.85rem;
+}
+
+.schedule-grid tr {
+  height: 44px;
+}
+
+.schedule-grid td.sched-talk {
+  background-color: #2563eb;
+  color: #ffffff;
+}
+
+.schedule-grid td.sched-workshop {
+  background-color: #16a34a;
+  color: #ffffff;
+}
+
+.schedule-grid td.sched-break {
+  background-color: #d97706;
+  color: #ffffff;
+}
+
+.schedule-grid td.sched-empty {
+  background-color: #374151;
+}
+
+.schedule-grid .sched-speaker {
+  display: block;
+  font-size: 0.78em;
+  opacity: 0.85;
+  margin-top: 0.2em;
+}
