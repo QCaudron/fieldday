@@ -9,7 +9,7 @@ Field Day will take place on {{ dates }}.
 
 ## The setup
 
-Starting on Friday, we will take over a [field at South Seattle College](./location) and set up [transceivers, antennas, and plenty of other gear](./setup), operating 100% on emergency power. The goal is to replicate an emergency scenario where no mains power is available and everything has to be brought on-site, including the antennas. A handful of folk will be putting up tents, deploying antennas, setting up radios, configuring some infrastructure for a local area network, and preparing food. Want to help out? Fill out {{ our_short_survey }}.
+Starting on Friday, we will take over a [field at South Seattle College](./location) and set up [transceivers, antennas, and plenty of other gear](./setup), operating 100% on emergency power. The goal is to replicate an emergency scenario where no mains power is available and everything has to be brought on-site, including the antennas. A handful of folk will be putting up tents, deploying antennas, setting up radios, configuring some infrastructure for a local area network, and preparing food. Want to help out? {{ registration_link }}
 
 ## The objective
 
@@ -39,4 +39,4 @@ For those with a license, there will be plenty of experienced Field Day folk aro
 
 ## How do I participate?
 
-The best way to let us know you're interested, in whatever kind of participation, is to fill our {{ our_short_survey }}. Then, we can be in touch with you to answer any questions you might have and to help you get involved.
+The best way to let us know you're interested, in whatever kind of participation, is to {{ registration_link }}. We'll be in touch to answer any questions and help you get involved.
