@@ -21,3 +21,4 @@ parts:
   - caption: MEDIA
     chapters:
       - file: media/press_kit
+      - file: media/graphics
