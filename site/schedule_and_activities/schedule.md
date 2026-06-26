@@ -40,7 +40,7 @@
     <tr>
       <td class="time-col">10:00</td>
       <td class="sched-talk">HIPAA Presentation<span class="sched-speaker">Dan Hoke KJ7VDV</span></td>
-      <td class="sched-workshop" rowspan="10">Welfare Messaging<span class="sched-speaker">Bill N7NBN</span></td>
+      <td class="sched-workshop" rowspan="16">Welfare Messaging<span class="sched-speaker">Bill N6NBN</span></td>
       <td class="sched-empty" rowspan="6"></td>
       <td class="sched-empty" rowspan="6"></td>
       <td class="sched-empty" rowspan="6"></td>
@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td class="time-col">11:00</td>
-      <td class="sched-talk" rowspan="2">First Aid<span class="sched-speaker">John Murphy KI7IYP</span></td>
+      <td class="sched-talk" rowspan="2">First Aid Kit Design: Planning for an Actual Event<span class="sched-speaker">John Murphy KI7IYP</span></td>
     </tr>
     <tr>
       <td class="time-col">11:30</td>
@@ -83,8 +83,7 @@
     </tr>
     <tr>
       <td class="time-col">15:00</td>
-      <td class="sched-empty" rowspan="4"></td>
-      <td class="sched-empty" rowspan="4"></td>
+      <td class="sched-empty" rowspan="6"></td>
     </tr>
     <tr>
       <td class="time-col">15:30</td>
@@ -94,6 +93,15 @@
     </tr>
     <tr>
       <td class="time-col">16:30</td>
+    </tr>
+    <tr>
+      <td class="time-col">17:00</td>
+      <td class="sched-empty" rowspan="2"></td>
+      <td class="sched-empty" rowspan="2"></td>
+      <td class="sched-empty" rowspan="2"></td>
+    </tr>
+    <tr>
+      <td class="time-col">17:30</td>
     </tr>
   </tbody>
 </table>
